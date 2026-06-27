@@ -3687,5 +3687,896 @@
     ],
     "notes_len": 4041,
     "activity_len": 4041
+  },
+  {
+    "id": "20451454",
+    "name": "Logging Out...",
+    "crm_name": "David Ramos",
+    "phone": "+19258765842",
+    "email": null,
+    "last_activity": "2026-06-19",
+    "days_ago": 7,
+    "source": "Postcard",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "Liens",
+      "Postcard",
+      "THB Inquiry Call"
+    ],
+    "status": "CLOSING",
+    "key_notes": [
+      "\u2022 Call About: Seller called to learn more about Twin Home Buyer's cash purchase process for his property in Stockton.",
+      "\u2022 Spoke with David Ramos regarding 941 Burkett Avenue, Stockton. Seller requested information in Spanish and wanted to understand how the cash buying process works.",
+      "\u2022 Explained the process, including property inspection, cash offer, as-is purchase, no closing costs, and potential 7-day closing timeline. Seller did not commit to selling and was primarily gathering information.",
+      "\u2022 Next Step: Send Spanish information via text and have a Spanish-speaking team member follow up if available.",
+      "941 Burkett Ave, Stockton, CA, 95205",
+      "941 Burkett Ave , Stockton, CA, 95205"
+    ],
+    "notes_len": 2351,
+    "activity_len": 2351
+  },
+  {
+    "id": "20438523",
+    "name": "Logging Out...",
+    "crm_name": "Ann Marie Hanley",
+    "phone": "+14155064480",
+    "email": "Ann@hanleysw.com",
+    "last_activity": "2026-06-20",
+    "days_ago": 7,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Low Equity",
+      "Property Leads"
+    ],
+    "status": "UNCLEAR",
+    "key_notes": [
+      "\u2022 Called Ann Marie Hanley, no answer.",
+      "\u2022 Number is opted out; cannot send text message.",
+      "\u2022 Introduce Twin Home Buyer and interest in purchasing her property at 9 Buckeye Ct, Novato, CA.",
+      "\u2022 Schedule a call or appointment once contact is made.",
+      "\u2022 Mark follow-up in CRM for next attempt if no reply in 2\u20133 days.",
+      "Estimated Equity: $351,112",
+      "Estimated Value: $1,572,788",
+      "Address: 9 Buckeye Ct Novato 94949,",
+      "9 Buckeye Ct, Novato, CA, 94949",
+      "9 Buckeye Ct , Novato, CA, 94949"
+    ],
+    "notes_len": 2626,
+    "activity_len": 2626
+  },
+  {
+    "id": "20451325",
+    "name": "Logging Out...",
+    "crm_name": "",
+    "phone": "+15109367764",
+    "email": null,
+    "last_activity": "2026-06-19",
+    "days_ago": 8,
+    "source": "PPC LEAD",
+    "address": "None None None",
+    "flags": [
+      "PPC LEAD",
+      "THB Inquiry Call"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "It seems like you haven\u2019t added any note to this lead till yet."
+    ],
+    "notes_len": 807,
+    "activity_len": 807
+  },
+  {
+    "id": "20451319",
+    "name": "Logging Out...",
+    "crm_name": "",
+    "phone": "+15102253781",
+    "email": null,
+    "last_activity": "2026-06-19",
+    "days_ago": 8,
+    "source": "PPC LEAD",
+    "address": "None None None",
+    "flags": [
+      "PPC LEAD",
+      "THB Inquiry Call"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "It seems like you haven\u2019t added any note to this lead till yet."
+    ],
+    "notes_len": 808,
+    "activity_len": 808
+  },
+  {
+    "id": "20451289",
+    "name": "Logging Out...",
+    "crm_name": "",
+    "phone": "+15102013063",
+    "email": null,
+    "last_activity": "2026-06-19",
+    "days_ago": 8,
+    "source": "PPC LEAD",
+    "address": "None None None",
+    "flags": [
+      "PPC LEAD",
+      "THB Inquiry Call"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "It seems like you haven\u2019t added any note to this lead till yet."
+    ],
+    "notes_len": 808,
+    "activity_len": 808
+  },
+  {
+    "id": "20451217",
+    "name": "Logging Out...",
+    "crm_name": "",
+    "phone": "+15105195907",
+    "email": null,
+    "last_activity": "2026-06-19",
+    "days_ago": 8,
+    "source": "PPC LEAD",
+    "address": "None None None",
+    "flags": [
+      "PPC LEAD",
+      "THB Inquiry Call"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "It seems like you haven\u2019t added any note to this lead till yet."
+    ],
+    "notes_len": 807,
+    "activity_len": 807
+  },
+  {
+    "id": "20451049",
+    "name": "Logging Out...",
+    "crm_name": "",
+    "phone": "+15102146285",
+    "email": null,
+    "last_activity": "2026-06-19",
+    "days_ago": 8,
+    "source": "PPC LEAD",
+    "address": "None None None",
+    "flags": [
+      "PPC LEAD",
+      "THB Inquiry Call"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "It seems like you haven\u2019t added any note to this lead till yet."
+    ],
+    "notes_len": 808,
+    "activity_len": 808
+  },
+  {
+    "id": "20450624",
+    "name": "Logging Out...",
+    "crm_name": "",
+    "phone": "+18778599997",
+    "email": null,
+    "last_activity": "2026-06-18",
+    "days_ago": 8,
+    "source": "Direct Mail",
+    "address": "None None None",
+    "flags": [
+      "Liens",
+      "Mailed Checks"
+    ],
+    "status": "UNCLEAR",
+    "key_notes": [
+      "Incoming Call From Direct Mail"
+    ],
+    "notes_len": 907,
+    "activity_len": 907
+  },
+  {
+    "id": "20444995",
+    "name": "Logging Out...",
+    "crm_name": "Alphonse Arretz",
+    "phone": "+14088261253",
+    "email": "alfragar@aol.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 8,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "\u2022 Seller Alphonse returned a missed call from Twin Home Buyer after speaking with Cherry earlier.",
+      "\u2022 Seller stated he received a call from the Twin Home Buyer number but nobody spoke when he answered.",
+      "\u2022 Cherry confirmed the call was likely an automated follow-up system.",
+      "\u2022 Seller was friendly and mentioned he enjoyed the previous conversation.",
+      "\u2022 Follow-up call clarification regarding an automated outbound call.",
+      "\ud83d\udd25 LEAD QUALITY / MOTIVATION",
+      "Rating: Moderate Motivation",
+      "\u2022 Motivation: Previously expressed interest in exploring a potential sale and relocation to a 55+ community.",
+      "\u2022 Cooperation: High; friendly and receptive.",
+      "\u2022 Relationship: Positive rapport established.",
+      "\u2022 No active selling decision yet.",
+      "\u2022 Seller still evaluating options with Realtor involvement.",
+      "\u2022 No property inspection scheduled.",
+      "\u2022 Remove or pause unnecessary automated follow-up calls if applicable.",
+      "\u2022 Continue normal follow-up cadence."
+    ],
+    "notes_len": 5987,
+    "activity_len": 5987
+  },
+  {
+    "id": "20449974",
+    "name": "Logging Out...",
+    "crm_name": "",
+    "phone": "+12272571870",
+    "email": null,
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PPC LEAD",
+    "address": "None None None",
+    "flags": [
+      "PPC LEAD",
+      "THB Inquiry Call"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "It seems like you haven\u2019t added any note to this lead till yet."
+    ],
+    "notes_len": 807,
+    "activity_len": 807
+  },
+  {
+    "id": "20449571",
+    "name": "Logging Out...",
+    "crm_name": "",
+    "phone": "+15102796915",
+    "email": null,
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PPC LEAD",
+    "address": "None None None",
+    "flags": [
+      "PPC LEAD",
+      "THB Inquiry Call"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "It seems like you haven\u2019t added any note to this lead till yet."
+    ],
+    "notes_len": 807,
+    "activity_len": 807
+  },
+  {
+    "id": "20448493",
+    "name": "Logging Out...",
+    "crm_name": "Jeremiah Almonte",
+    "phone": "+14087088855",
+    "email": "jeremiah.cysanjose@gmail.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Dispute",
+      "Follow up",
+      "Out of Service Area",
+      "Property Leads"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "jeremiah.cysanjose@gmail.com",
+      "Call About: Property type / buy box qualification",
+      "Note: Reviewed lead details for Jeremiah Almonte at 6130 Monterey Cir, San Jose, CA 95138. Property appears to be a manufactured home, which is outside Twin Home Buyer\u2019s buy box. Lead marked as Out of Buy Box and tagged for dispute review.",
+      "Next Step: Submit/prepare for dispute and no further seller follow-up unless Juan advises otherwise.",
+      "Address: 6130 Monterey Cir San Jose 95138,"
+    ],
+    "notes_len": 2230,
+    "activity_len": 2230
+  },
+  {
+    "id": "20446690",
+    "name": "Logging Out...",
+    "crm_name": "Giovanni Bonner",
+    "phone": "+17076850421",
+    "email": "johndboy21@gmail.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Property Leads"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "\u2022 Spoke with the lead regarding the property inquiry.",
+      "\u2022 Lead confirmed he is not interested in selling the property at this time.",
+      "\u2022 Verified that he had previously submitted an online form, but indicated it was submitted some time ago.",
+      "\u2022 Advised the lead to contact Twin Home Buyer in the future if his situation changes and he decides to sell.",
+      "\u2022 No current opportunity; lead not interested at this time.",
+      "Address: 541 Blarney Cir Vacaville 95688,",
+      "541 Blarney Cir, Vacaville, CA, 95688",
+      "541 Blarney Cir , Vacaville, CA, 95688"
+    ],
+    "notes_len": 2421,
+    "activity_len": 2421
+  },
+  {
+    "id": "20444997",
+    "name": "Logging Out...",
+    "crm_name": "Jesse Davis",
+    "phone": "+19258122778",
+    "email": "yozerzfellagainhard@gmail.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "High Equity",
+      "Property Leads"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "yozerzfellagainhard@gmail.com",
+      "Note updated by Theavil Marie",
+      "\u2022 Attempted to contact lead by phone; no answer.",
+      "Estimated Open Loans Balance$0",
+      "Estimated Equity $$458,655 (Equity: 100.0% \u2705)",
+      "Address: 2440 Orchard Ln Martinez 94553,",
+      "2440 Orchard Ln, Martinez, CA, 94553",
+      "2440 Orchard Ln , Martinez, CA, 94553"
+    ],
+    "notes_len": 2501,
+    "activity_len": 2501
+  },
+  {
+    "id": "20444359",
+    "name": "Logging Out...",
+    "crm_name": "Ricky Bobby",
+    "phone": "+14153070321",
+    "email": "rickgalb@gmail.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Property Leads"
+    ],
+    "status": "UNCLEAR",
+    "key_notes": [
+      "Note updated by Theavil Marie",
+      "+ Lead contacted regarding 851 Fulton St in San Francisco.",
+      "+ Person who responded stated he does not own the property and that the property belongs to his mother.",
+      "+ He also stated this is a rental and that his mother lives in a different state. Based on the conversation, the person who submitted/responded is not the property owner and does not appear to be authorized to sell the property.",
+      "+ Lead is not a valid owner/seller opportunity.",
+      "Address: 851 Fulton St SF 94117,"
+    ],
+    "notes_len": 2241,
+    "activity_len": 2241
+  },
+  {
+    "id": "20438039",
+    "name": "Logging Out...",
+    "crm_name": "Susie Scholpp",
+    "phone": "+16505155098",
+    "email": "spunkey46@gmail.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "Paid Lead",
+      "Property Leads"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "\u2022 Juan spoke with Susie regarding her property inquiry submitted through Liz Buys Houses.",
+      "\u2022 Juan contacted the seller and discussed her situation and options.",
+      "\u2022 Twin Home Buyer referred the lead to MariaElena for assistance.",
+      "\u2022 Seller expressed appreciation for Juan's time, guidance, and support.",
+      "\u2022 Follow-up text communication remained positive throughout the conversation.",
+      "\u2022 Seller stated that Juan motivated her and appreciated the help provided.",
+      "\u2022 Seller confirmed she intends to leave a positive review for Twin Home Buyer.",
+      "\u2022 Referral information was provided, and seller has MariaElena's contact information.",
+      "\u2022 No active acquisition opportunity at this time; referral lead.",
+      "Estimated Value$1,661,104",
+      "Estimated Open Loans Balance$460,556",
+      "Estimated Equity $$1,200,548 (Equity: 72.3% \u2705)",
+      "Purchase Amount$1,560,000",
+      "Purchase TypeNonMarket-Trust",
+      "Address: 2016 Avignon Pl Half Moon Bay 94019,"
+    ],
+    "notes_len": 3482,
+    "activity_len": 3482
+  },
+  {
+    "id": "20430290",
+    "name": "Logging Out...",
+    "crm_name": "Julio Ruiz",
+    "phone": "+15105362937",
+    "email": "julioruiz2937@gmail.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PropertyLeads",
+    "address": "1220 Almar St Concord",
+    "flags": [
+      "Asking for Top dollar",
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "\u2022 Inbound call received from seller regarding 1220 Almar Street, Concord.",
+      "\u2022 Seller confirmed ownership of the property.",
+      "\u2022 Property is an investment property and currently vacant.",
+      "\u2022 Seller stated they are tired of being a landlord.",
+      "\u2022 Seller reported the property is in good condition and move-in ready.",
+      "\u2022 Seller expressed interest in selling and offered to show the property.",
+      "\u2022 Seller is asking $750,000 for the property.",
+      "\u2022 John determined the asking price is outside Twin Home Buyer's buying criteria.",
+      "\u2022 Lead was passed due to price expectations.",
+      "\u2022 Seller and agent ended the call amicably.",
+      "\u2022 Seller inquiry regarding sale of vacant investment property.",
+      "\u2022 Mark lead as Lost / Dead Lead.",
+      "\u2022 No further acquisition efforts planned.",
+      "Address: 1220 Almar St Concord 94518,"
+    ],
+    "notes_len": 2905,
+    "activity_len": 2905
+  },
+  {
+    "id": "20429224",
+    "name": "Logging Out...",
+    "crm_name": "Jose Ortiz",
+    "phone": "+14088411988",
+    "email": null,
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PropertyLeads",
+    "address": "793 Pasture Ave Lathrop CA",
+    "flags": [
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "CLOSING",
+    "key_notes": [
+      "Note by Mary Grace Pardines",
+      "Estimated Value: $672,169",
+      "Estimated Equity: $376,745 (56.0% Equity)",
+      "Property Type: Single Family",
+      "Owner: Yolanda Rodriguez (66)",
+      "Note updated by Jovelyn Frias",
+      "John spoke with Jose Ortiz regarding the sale of his owner-occupied home in Lathrop.",
+      "Jose explained that he plans to retire and relocate to Utah within approximately two months.",
+      "The seller has owned and lived in the property for about 11 years.",
+      "Jose confirmed that he is actively exploring offers and has already spoken with multiple buyers.",
+      "John explained the Twin Home Buyer cash-sale process and discussed a potential offer range.",
+      "Twin Home Buyer estimated an offer around $525,000 based on their buying criteria.",
+      "Jose stated that he has already received offers above $570,000 and is targeting a sale price in the low $600,000s.",
+      "The seller felt Twin Home Buyer's pricing was too low compared to competing offers.",
+      "No appointment, walkthrough, or agreement was scheduled during the call."
+    ],
+    "notes_len": 5410,
+    "activity_len": 5410
+  },
+  {
+    "id": "20428912",
+    "name": "Logging Out...",
+    "crm_name": "Anthony Izzo",
+    "phone": "+12094485050",
+    "email": "izzotony110@gmail.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PropertyLeads",
+    "address": "2307 Selma Ct Escalon CA",
+    "flags": [
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "Note by Mary Grace Pardines",
+      "Estimated Value: $459,470",
+      "Estimated Equity: $150,832 (32.8% Equity)",
+      "Property Type: Single Family",
+      "Address: 2307 Selma Ct Escalon 95320,",
+      "2307 Selma Ct, Escalon, CA, 95320",
+      "2307 Selma Ct , Escalon, CA, 95320"
+    ],
+    "notes_len": 2124,
+    "activity_len": 2124
+  },
+  {
+    "id": "20426022",
+    "name": "Logging Out...",
+    "crm_name": "Anita Rankin",
+    "phone": "+12096034834",
+    "email": "anitar53@yahoo.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PropertyLeads",
+    "address": "1747 S Harrison St Stockton CA",
+    "flags": [
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "Note updated by Jovelyn Frias",
+      "Cherry called a lead who submitted a form through the We Buy Houses website regarding a property on South Harrison Street in Stockton.",
+      "The call was an outbound follow-up to discuss the seller's interest in receiving a cash offer.",
+      "The lead did not answer the call.",
+      "Cherry explained that the company purchases properties and invited the lead to call or text back to discuss their situation and available options.",
+      "The call was an initial follow-up regarding the seller's online property inquiry.",
+      "The goal was to connect with the lead, gather information about the property, and determine whether they were interested in a cash sale.",
+      "Wait for the lead to return the call or respond by text.",
+      "Send a follow-up text message if no response is received.",
+      "Attempt another call within 24\u201348 hours.",
+      "Once contact is established, confirm ownership, seller motivation, property condition, timeline, and interest in a cash offer.",
+      "Update the CRM with any response or additional information obtained from the lead.",
+      "Note by Mary Grace Pardines",
+      "Estimated Value: $336,725",
+      "Estimated Equity: $134,639 (40.0% Equity)"
+    ],
+    "notes_len": 4838,
+    "activity_len": 4838
+  },
+  {
+    "id": "20425458",
+    "name": "Logging Out...",
+    "crm_name": "Nicole Holmes",
+    "phone": "+12097690709",
+    "email": "nickiholmes78@yahoo.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PropertyLeads",
+    "address": "580 North Ave Turlock CA",
+    "flags": [
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "\u2022 Inbound call from seller regarding 580 North Ave, Turlock.",
+      "\u2022 Seller plans to move to Arkansas by the end of summer.",
+      "\u2022 Seller intends to list the property and is comparing listing versus cash offer options.",
+      "\u2022 Seller discussed recent property improvements and updates.",
+      "\u2022 John presented a cash offer around $390,000.",
+      "\u2022 Seller stated $440,000 is the lowest price she would accept.",
+      "\u2022 Seller feels the cash offer is too low and prefers exploring the retail market first.",
+      "\u2022 Seller meeting with a realtor to discuss pricing and commission structure.",
+      "\u2022 Realtor referral offered and accepted.",
+      "\u2022 Seller agreed to keep Twin Home Buyer as a backup option.",
+      "\u2022 Seller comparing cash offer versus listing on the market.",
+      "\u2022 Follow up after seller meets with realtor.",
+      "\u2022 Keep lead in follow-up for future opportunity.",
+      "Address: 580 North Ave Turlock 95382,",
+      "580 North Ave, Turlock, CA 95382"
+    ],
+    "notes_len": 3314,
+    "activity_len": 3314
+  },
+  {
+    "id": "20424242",
+    "name": "Logging Out...",
+    "crm_name": "Tammie Rouse",
+    "phone": "+15106727369",
+    "email": "tammierouse13@gmail.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Dispute Requested",
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "the caller does not own the property",
+      "Note by Mary Grace Pardines",
+      "Estimated Value: $691,093",
+      "Estimated Equity: $691,093 (100% Equity)",
+      "Property Type: Multi-Family (2\u20134 Units)",
+      "Ownership: Virginia Living Trust",
+      "\u2022 Spoke with seller regarding 803 38th St, Richmond.",
+      "\u2022 Seller stated the property is a duplex with one occupied unit and one vacant unit.",
+      "\u2022 Seller wants to sell because the tenant is not paying rent.",
+      "\u2022 Seller was seeking approximately $800K for the property.",
+      "\u2022 Juan explained investor pricing would likely be closer to $525K\u2013$550K.",
+      "\u2022 During ownership verification, it was discovered seller may only own part of the property and title appears to be held by the Winston Virginia Living Trust.",
+      "\u2022 Seller was unclear regarding ownership structure and agreed to investigate title ownership further.",
+      "\u2022 No appointment scheduled due to unresolved ownership issues.",
+      "\ud83d\udd25 LEAD QUALITY / MOTIVATION"
+    ],
+    "notes_len": 4234,
+    "activity_len": 4234
+  },
+  {
+    "id": "20424054",
+    "name": "Logging Out...",
+    "crm_name": "Kate Botas",
+    "phone": "+14154075019",
+    "email": "Katebotas@yahoo.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Asking for Top dollar",
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "Note updated by Mary Grace Pardines",
+      "Live call was transferred to Juan from Property Leads. Attached is the recording of the conversation for review and CRM documentation.",
+      "Note by Mary Grace Pardines",
+      "\u2022 Spoke with seller regarding a recently remodeled property with a newly built ADU.",
+      "\u2022 Seller purchased the property in 2024 and previously listed it on the market.",
+      "\u2022 Seller stated the home is fully renovated and does not need repairs.",
+      "\u2022 Property was listed between $998K and $1.05M but did not sell due to market conditions.",
+      "\u2022 Seller is seeking approximately $995K.",
+      "\u2022 Juan explained investor pricing would likely be significantly lower, around $650K\u2013$750K.",
+      "\u2022 Seller immediately stated the pricing was too low and ended the conversation.",
+      "\ud83d\udd25 LEAD QUALITY / MOTIVATION",
+      "\u2022 Recently renovated property.",
+      "\u2022 Retail seller expectations.",
+      "\u2022 Seller wants near-retail pricing.",
+      "\u2022 Recently listed on market."
+    ],
+    "notes_len": 4346,
+    "activity_len": 4346
+  },
+  {
+    "id": "20424010",
+    "name": "Logging Out...",
+    "crm_name": "Cesar Medina",
+    "phone": "+14085838181",
+    "email": "cesarmedina85@yahoo.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Asking for Top dollar",
+      "Dispute Requested",
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "Note by Mary Grace Pardines",
+      "\u2022 Seller's pricing expectations were significantly above investor pricing.",
+      "\u2022 Juan explained the cash buyer model, including risk, holding costs, and profit requirements.",
+      "\u2022 Juan advised seller that a traditional listing with a realtor would likely maximize proceeds.",
+      "\u2022 Seller was provided general guidance and education on the local market.",
+      "\u2022 Juan requested seller respond \"not interested\" if contacted again so the lead could be properly closed with the lead provider.",
+      "\u2022 Conversation ended on good terms with Juan offering future guidance if needed.",
+      "\u2022 Seller seeking retail pricing",
+      "\ud83d\udd25 LEAD QUALITY / MOTIVATION",
+      "\u2022 Wants maximum market value.",
+      "\u2022 Better fit for retail listing.",
+      "\u2022 Investor model does not align with seller expectations.",
+      "\u2022 Likely retail/realtor candidate.",
+      "\u2022 Mark as Not Interested and submit dispute/refund request if eligible.",
+      "You ever have any issues there with the neighborhood or any kind of break-ins or anything like that or not and what what would you take for the house I mean what what what's the condition like or what's something that that would capture your attention \u00a0yeah I know I'm just I'm just giving you perspective right I mean you know we we you you have your goals I'm just you know before we end the call I'm just trying to give you a little bit of value on things that I know that drives up the the cost because any person that's coming in here and if you're selling it for cash they're they're going to try to make some money on it right so if they're buying it at at market rate then what upside do they have what benefit do they have to go in there and take on the risk and and invest into the property so you know I probably you know advise you to go more and find a realtor and and have that Realtor go ahead and list the property and get the property ready and then put it on the market you know cuz that's where you're going to get the most money clearly you know so anyway you could do me a favor if I could text you on Cesar from from a number and I could just ask you hey are you interested in selling your house for a cash if you could just say no and then if anybody from Liz buys house is called you if you get to say no as well that would be awesome thank you so much I appreciate it if you would do that for me man and if you need anything whether it's like a realtor referral or a contractor or you simply want to run an idea by me I don't care if I buy the house or not for all I'll give you my perspective it's probably not what you want to hear but it'll give you insight into you know what's going on I've been doing this for the last 26 years I've done thousands of flips in in California so pretty knowledgeable and I'm willing to just you know give you some time and and let you know hey this is what I would do or or this is how I would approach it in that in the strategy fashion and then just you know try to help as much as I can all right super I'll text you right now bro if you can just take 2 minutes and just say no not interested filled out the form incorrectly or something like that you know all right well thank you likewise"
+    ],
+    "notes_len": 5992,
+    "activity_len": 5992
+  },
+  {
+    "id": "20423813",
+    "name": "Logging Out...",
+    "crm_name": "Jim Yee",
+    "phone": "+19167051558",
+    "email": "jimcyee@yahoo.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Asking for Top dollar",
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "Note by Mary Grace Pardines",
+      "\u2022 Spoke with seller Jim regarding 6301 Riverside Blvd, Sacramento.",
+      "\u2022 Property was previously listed For Sale By Owner but removed because tenant had not yet secured replacement housing.",
+      "\u2022 Tenant is expected to move out around June 11.",
+      "\u2022 Seller has a realtor ready to list the property if needed.",
+      "\u2022 Property is lakefront/waterfront and seller believes location adds significant value beyond standard comparable sales.",
+      "\u2022 Seller has an outstanding mortgage of approximately $278K.",
+      "\u2022 Seller is seeking approximately $625K+ and believes waterfront premiums justify the price.",
+      "\u2022 Cherry explained Twin Home Buyer's cash-buying model and indicated seller expectations may exceed investor pricing.",
+      "\u2022 Seller requested that Twin Home Buyer run numbers and provide an offer for review.",
+      "\u2022 Waterfront property sale inquiry",
+      "\ud83d\udd25 LEAD QUALITY / MOTIVATION",
+      "Warm \u2022 Wants to sell once tenant vacates.",
+      "\u2022 Open to reviewing a cash offer.",
+      "\u2022 Has significant equity."
+    ],
+    "notes_len": 4700,
+    "activity_len": 4700
+  },
+  {
+    "id": "20419680",
+    "name": "\ud83d\udcde CALL SUMMARY",
+    "crm_name": "David Salvadori",
+    "phone": "+12099615698",
+    "email": null,
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Asking for Top dollar",
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "Note by Mary Grace Pardines",
+      "\u2022 Spoke with seller regarding property on Quebec Court in Modesto.",
+      "\u2022 Seller stated there is no urgency to sell and is primarily evaluating offers.",
+      "\u2022 Seller indicated the property is approximately 2,200 sq ft with a newer pool and recent updates.",
+      "\u2022 Seller believes the property value is around $600,000 and stated he would consider a cash offer around $550,000.",
+      "\u2022 Juan explained Twin Home Buyer's likely cash offer would be closer to $400,000 based on investor purchase criteria.",
+      "\u2022 Seller immediately rejected the pricing and indicated the offer was too low.",
+      "\u2022 No appointment set and no further negotiations occurred.",
+      "\ud83d\udd25 LEAD QUALITY / MOTIVATION",
+      "Low \u2022 No urgency to sell.",
+      "\u2022 Seller shopping offers.",
+      "\u2022 Significant pricing mismatch.",
+      "\u2022 Seller has high expectations near retail value.",
+      "\u2022 Seller wants approximately $550K cash.",
+      "\u2022 Estimated investor pricing far below seller expectations."
+    ],
+    "notes_len": 4265,
+    "activity_len": 4265
+  },
+  {
+    "id": "20418402",
+    "name": "Logging Out...",
+    "crm_name": "Maria Morrow",
+    "phone": "+19167070786",
+    "email": "mariamorrow60@gmail.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PropertyLeads",
+    "address": "680 Eastbrook Way Sacramento CA",
+    "flags": [
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "This lead is added to our mailing list.",
+      "Correct address for Maria Morrow:",
+      "680 EASTBROOK CIR, SACRAMENTO, CA 95835 - https://www.redfin.com/CA/Sacramento/680-Eastbrook-Cir-95835/home/19267415",
+      "https://app.propertyradar.com/#!/discover/detail/P1AF265C",
+      "++ Estimated Property Value: $543,821",
+      "++ Assessed Value: $458,541",
+      "++ Estimated Open Loan Balance: $363,956",
+      "++ Estimated Equity: $179,865",
+      "++ Purchase Date: June 18, 2018",
+      "++ Purchase Price: $403,000",
+      "++ Purchase Type: Market Sale",
+      "Address: 680 Eastbrook Way Sacramento 95835,"
+    ],
+    "notes_len": 2541,
+    "activity_len": 2541
+  },
+  {
+    "id": "20412268",
+    "name": "\ud83d\udcde CALL SUMMARY",
+    "crm_name": "Kathleen Raynon",
+    "phone": "+12099982238",
+    "email": "raynonkathleen@yahoo.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "Note by Mary Grace Pardines",
+      "Estimated Value: $549,143",
+      "Estimated Open Loan Balance: $138,304",
+      "Estimated Equity: $410,839 (74.8% Equity)",
+      "Purchase Date: 12/31/2009",
+      "Purchase Amount: $250,000",
+      "\u2022 Lead submitted an online request through Liz Buys Houses.",
+      "\u2022 Introductory text was sent advising that Twin Home Buyer would be reviewing the property request.",
+      "\u2022 Multiple outreach attempts were made.",
+      "\u2022 Most recent call reached the seller, but no meaningful conversation occurred.",
+      "\u2022 Seller was asked to simply reply yes or no regarding interest in receiving an offer.",
+      "\u2022 No property details, motivation, timeline, condition, or pricing expectations were obtained.",
+      "\u2022 Lead remains unqualified and awaiting response.",
+      "\ud83d\udd25 LEAD QUALITY / MOTIVATION",
+      "Unknown \u2022 Seller submitted an online form."
+    ],
+    "notes_len": 4032,
+    "activity_len": 4032
+  },
+  {
+    "id": "20412143",
+    "name": "\ud83d\udcde CALL SUMMARY",
+    "crm_name": "Keith Norm",
+    "phone": "+17072926020",
+    "email": "knckeith@gmail.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "Property Leads",
+      "THB Inquiry Call"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Note by Mary Grace Pardines",
+      "\u2022 Seller Keith returned the call regarding property at 1518 Reagan Way, Santa Rosa.",
+      "\u2022 Owner occupies the property and is not in a rush to sell.",
+      "\u2022 Seller estimates approximately 6 months before being ready due to needing time to clear belongings.",
+      "\u2022 Seller is a contractor and has continued maintaining and upgrading the property.",
+      "\u2022 Primary reason for considering a cash sale is convenience and avoiding showings, open houses, and frequent buyer traffic through the home.",
+      "\u2022 Seller described the neighborhood as highly desirable and referenced a nearby sale around $925K.",
+      "\u2022 Seller previously spoke with a realtor who estimated value around $1.07M.",
+      "\u2022 Twin Home Buyer explained the cash offer model, discount for convenience, and acquisition process.",
+      "\u2022 Seller indicated a cash offer would likely need to be in the $800K\u2013$850K range to gain serious consideration.",
+      "\u2022 Follow-up conversation / offer preparation",
+      "\ud83d\udd25 LEAD QUALITY / MOTIVATION",
+      "Medium Motivation \u2022 Seller is engaged and cooperative.",
+      "\u2022 Open to reviewing a cash offer.",
+      "\u2022 Values convenience over maximizing every dollar."
+    ],
+    "notes_len": 5992,
+    "activity_len": 5992
+  },
+  {
+    "id": "20409822",
+    "name": "\ud83d\udcde CALL SUMMARY",
+    "crm_name": "Lolly Castaneda",
+    "phone": "+18312396121",
+    "email": "lollycastaneda@gmail.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "Note by Mary Grace Pardines",
+      "\u2022 Seller initially did not respond but later replied.",
+      "\u2022 Seller asked what type of offer Twin Home Buyer could make.",
+      "\u2022 Team requested a call to learn more about the property before providing an accurate offer.",
+      "\u2022 Seller has not yet committed to a call or provided property details.",
+      "\u2022 Interest exists, but seller remains in the information-gathering stage.",
+      "\ud83d\udd25 LEAD QUALITY / MOTIVATION",
+      "\u2022 Seller is responding and engaging.",
+      "\u2022 Seller is curious about offer options.",
+      "\u2022 Seller has not ruled out selling.",
+      "\u2022 No property details collected yet.",
+      "\u2022 Motivation and timeline remain unclear.",
+      "\u2022 Seller may be comparing multiple options.",
+      "\u2022 Schedule a qualification call with seller.",
+      "Address: 4410 Portola Dr Santa Cruz 95062,"
+    ],
+    "notes_len": 3686,
+    "activity_len": 3686
   }
 ]
