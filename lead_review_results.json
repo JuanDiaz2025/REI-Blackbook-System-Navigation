@@ -1,0 +1,892 @@
+[
+  {
+    "id": "20466725",
+    "name": "Logging Out...",
+    "crm_name": "",
+    "phone": "+17023711882",
+    "email": null,
+    "last_activity": "2026-06-27",
+    "days_ago": 0,
+    "source": "Direct Mail",
+    "address": "None None None",
+    "flags": [
+      "Liens",
+      "Mailed Checks"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "Incoming Call From Direct Mail"
+    ],
+    "notes_len": 1337,
+    "activity_len": 1337
+  },
+  {
+    "id": "20466619",
+    "name": "Logging Out...",
+    "crm_name": "None None",
+    "phone": "+14088310953",
+    "email": null,
+    "last_activity": "2026-06-27",
+    "days_ago": 0,
+    "source": "Postcard",
+    "address": "None None None",
+    "flags": [
+      "Postcard",
+      "THB Inquiry Call",
+      "Tax Delinquent"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "It seems like you haven\u2019t added any note to this lead till yet."
+    ],
+    "notes_len": 821,
+    "activity_len": 821
+  },
+  {
+    "id": "20466070",
+    "name": "Logging Out...",
+    "crm_name": "Flo Riano",
+    "phone": "+19255240269",
+    "email": "caloysf@hotmail.com",
+    "last_activity": "2026-06-27",
+    "days_ago": 0,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "Address: 3905 Coyote Cir Clayton 94517,",
+      "7-day Property Leads non-responsive sequence."
+    ],
+    "notes_len": 1296,
+    "activity_len": 1296
+  },
+  {
+    "id": "20465076",
+    "name": "Logging Out...",
+    "crm_name": "Mareen Maffia",
+    "phone": "+16504833730",
+    "email": "mareenmaffia@sbcglobal.net",
+    "last_activity": "2026-06-27",
+    "days_ago": 0,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Appointment Booked",
+      "Appointment Pending",
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "mareenmaffia@sbcglobal.net",
+      "Note updated by Kyle Flores",
+      "\u2022 Seller Maureen called regarding 126 Northam Avenue, San Carlos after submitting an online form.",
+      "\u2022 Seller stated she is possibly interested in selling but timeline may be around 1 year.",
+      "\u2022 Seller has lived in the home for 48 years and said it is becoming too much to maintain.",
+      "\u2022 Property is an older home, originally built as a cabin/second home, but seller described condition as good.",
+      "\u2022 Seller is checking her options and wants to understand pricing before deciding.",
+      "\u2022 Appointment was discussed for tomorrow between 3:00 PM and 5:00 PM, but seller may need to reschedule due to a possible airport pickup.",
+      "\u2022 Seller exploring options and scheduling a property visit to discuss value/offer.",
+      "\ud83d\udd25 LEAD QUALITY / MOTIVATION",
+      "\u2022 Motivation: Aging homeowner, lived there 48 years, property feels like too much now.",
+      "\u2022 Pain Point: Emotional attachment and maintenance burden.",
+      "\u2022 Timeline: Possibly within 1 year; depends on price/market.",
+      "\u2022 Cooperation: Good; open to Juan visiting and discussing numbers.",
+      "\u2022 Seller is not ready to sell immediately."
+    ],
+    "notes_len": 4386,
+    "activity_len": 4386
+  },
+  {
+    "id": "20464687",
+    "name": "Logging Out...",
+    "crm_name": "Sandy Green",
+    "phone": "+19165013027",
+    "email": "",
+    "last_activity": "2026-06-26",
+    "days_ago": 0,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Follow up"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "\u2022 Call About: Discussed the sale of seller's investment property and gathered additional property details.",
+      "\u2022 Seller is not interested in listing with an agent and is open to scheduling a property visit with advance notice since he lives in Sacramento.",
+      "\u2022 Call got disconnected - Miss Cherry to call him back on Monday",
+      "+ Lead was unresponsive, left a voice mail",
+      "+ need to link this account to Carmen's",
+      "519 S 17th St, Richmond, CA, 94804",
+      "519 S 17th St , Richmond, CA, 94804"
+    ],
+    "notes_len": 2812,
+    "activity_len": 2812
+  },
+  {
+    "id": "20464291",
+    "name": "Logging Out...",
+    "crm_name": "Carmen Green",
+    "phone": "+19167525759",
+    "email": "cgreen77@frontier.com",
+    "last_activity": "2026-06-27",
+    "days_ago": 0,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "\u2022 Call About: Discussed the potential sale of 519 S. 17th St., Richmond.",
+      "\u2022 Spoke with Carmen, who said they are ready to sell as soon as possible. Seller mentioned her husband, Sandy, is handling the pricing and they are looking for around $550K.",
+      "\u2022 Property details were not discussed during the call.",
+      "\u2022 Next Step: Follow up with Sandy regarding pricing and complete the property visit scheduled for Sunday at 11:00 AM.",
+      "Address: 519 S 17th St Richmond 94804,",
+      "519 S 17th St, Richmond, CA, 94804",
+      "519 S 17th St , Richmond, CA, 94804"
+    ],
+    "notes_len": 2457,
+    "activity_len": 2457
+  },
+  {
+    "id": "20463851",
+    "name": "Logging Out...",
+    "crm_name": "Margaret Kendrick",
+    "phone": "+14157565315",
+    "email": "carrieathomas9@gmail.com",
+    "last_activity": "2026-06-26",
+    "days_ago": 0,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "Address: 2360 Bella Vista Ave Martinez 94553,",
+      "7-day Property Leads non-responsive sequence."
+    ],
+    "notes_len": 1413,
+    "activity_len": 1413
+  },
+  {
+    "id": "20462658",
+    "name": "Logging Out...",
+    "crm_name": "Tyanna Moore",
+    "phone": "+17076558319",
+    "email": null,
+    "last_activity": "2026-06-27",
+    "days_ago": 0,
+    "source": "SEO",
+    "address": "",
+    "flags": [
+      "Appointment Pending",
+      "Follow up",
+      "Nurture",
+      "Twin Home Buyer Web Inquiries"
+    ],
+    "status": "CLOSING",
+    "key_notes": [
+      "Twin Home Buyer Web Inquiries",
+      "\u2022 Seller Tiana Moore called after receiving a Twin Home Buyer mailer to learn how the cash buying process works.",
+      "\u2022 Property address confirmed as 2619 19th Street, San Pablo, CA 94806.",
+      "\u2022 Seller wants to sell quickly because she has an accepted offer on another home and needs a fast closing.",
+      "\u2022 Property is in fair condition and needs repairs. Seller cannot afford additional improvements.",
+      "\u2022 Seller shared that she has had poor experiences with contractors and wants to move into a smaller townhouse with her dog.",
+      "\u2022 Seller is asking $485K\u2013$490K, with $470K being her absolute minimum.",
+      "\u2022 Seller still has a mortgage but did not disclose the payoff amount.",
+      "\u2022 Sherry advised that the asking price may be high due to the property's corner-lot location and promised to run numbers first before scheduling a property visit.",
+      "\u2022 Seller is seeking a fast cash sale to purchase another home and wants to know if Twin Home Buyer can meet her pricing and timeline.",
+      "\ud83d\udd25 LEAD QUALITY / MOTIVATION",
+      "\u2022 Motivation: Wants to upgrade to a better home and needs a fast closing.",
+      "\u2022 Pain Point: Cannot afford repairs and has had repeated bad contractor experiences.",
+      "\u2022 Timeline: Urgent because another purchase is pending.",
+      "\u2022 Cooperation: Very open and provided pricing expectations, property details, and contact information."
+    ],
+    "notes_len": 5992,
+    "activity_len": 5992
+  },
+  {
+    "id": "20462167",
+    "name": "Logging Out...",
+    "crm_name": "Ai Juan Huang",
+    "phone": "+14155771783",
+    "email": null,
+    "last_activity": "2026-06-27",
+    "days_ago": 0,
+    "source": "SEO",
+    "address": "",
+    "flags": [
+      "Appointment Booked",
+      "Appointment Pending",
+      "SEO Lead",
+      "THB Inquiry Call",
+      "Twin Home Buyer Web Inquiries"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Twin Home Buyer Web Inquiries",
+      "\u2022 Seller called asking how Twin Home Buyer determines price and how the cash sale process works.",
+      "\u2022 Property address confirmed as 738 Leconte Ave, San Francisco, CA.",
+      "\u2022 Seller stated she wants an easier and faster sale and is considering selling around July.",
+      "\u2022 Property is a condo / 2-unit style property with no HOA, backyard, 3 bedrooms, master room, living room, dining room, kitchen, garage parking, storage, washer/dryer area, and around 1,450 sq ft living space.",
+      "\u2022 Seller requested a preliminary offer before the visit.",
+      "\u2022 Property visit was scheduled for Saturday, June 27, between 1:30 PM and 2:30 PM.",
+      "\u2022 Seller requested a text before any callback because she does not answer unknown/spam numbers.",
+      "\u2022 Seller inquiry about cash-buying process, preliminary offer, and property visit scheduling.",
+      "\ud83d\udd25 LEAD QUALITY / MOTIVATION",
+      "Rating: Medium Motivation",
+      "\u2022 Motivation: Wants an easier and faster sale.",
+      "\u2022 Timeline: Possibly looking to sell around July.",
+      "\u2022 Price Expectation: Unknown; requested preliminary offer.",
+      "\u2022 Cooperation: Good; provided property details and scheduled visit."
+    ],
+    "notes_len": 5313,
+    "activity_len": 5313
+  },
+  {
+    "id": "20456000",
+    "name": "Logging Out...",
+    "crm_name": "Martha Reece",
+    "phone": "+15599388160",
+    "email": "greeg1035@gmail.com",
+    "last_activity": "2026-06-27",
+    "days_ago": 0,
+    "source": "Google Ads",
+    "address": "5475 East Illinois Avenue, Fresno, CA, U",
+    "flags": [
+      "Contract Signed",
+      "High Equity",
+      "THB Inquiry Call",
+      "THB Web Inquiry",
+      "Under Contract"
+    ],
+    "status": "CLOSING",
+    "key_notes": [
+      "Note updated by Cherry Hombre",
+      "Property: 5475 E Illinois Ave, Fresno, CA 93727",
+      "Seller is highly motivated due to the passing of her husband and no longer wants to keep the property.",
+      "Property is vacant with personal belongings still inside.",
+      "Seller is relocating out of state and needs cash quickly to complete the move.",
+      "Originally planned to leave but delayed her move because the property has not sold.",
+      "Does not want to make repairs or list with a Realtor. Looking for a simple as-is cash sale.",
+      "Free & Clear (No Mortgage)",
+      "Buyer Pays All Standard Closing Costs",
+      "Target Closing: 7\u201310 Days (or sooner if title is clear)",
+      "Non-Contingent After Property Inspection",
+      "Active Listings (2 Miles): 10",
+      "Pending Listings (2 Miles): 4",
+      "Sold Listings (Mar\u2013Jun 2026): 13",
+      "Investor Activity: Moderate to Strong (7.5/10)"
+    ],
+    "notes_len": 5328,
+    "activity_len": 5328
+  },
+  {
+    "id": "20454858",
+    "name": "Logging Out...",
+    "crm_name": "Jacquelyn  Soto",
+    "phone": "+12099102736",
+    "email": null,
+    "last_activity": "2026-06-26",
+    "days_ago": 0,
+    "source": "Postcard",
+    "address": "",
+    "flags": [
+      "Appointment Booked",
+      "Appointment Pending",
+      "Liens",
+      "Postcard",
+      "THB Inquiry Call"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "Note updated by Kyle Flores",
+      "\u2022 Seller Jacqueline Soto called after receiving a Twin Home Buyer mailer to ask what cash offer the company could provide.",
+      "\u2022 Property address confirmed as 2234 E Euclid Ave, Stockton, CA 95205.",
+      "\u2022 Seller stated the property is owner-occupied and has been owned since 2017.",
+      "\u2022 Property needs a new roof and new siding, but seller has been repairing it little by little.",
+      "\u2022 Seller is not interested in listing with a real estate agent at this time.",
+      "\u2022 Seller and family would like to relocate out of state to be closer to friends if they receive the right cash offer.",
+      "\u2022 Property visit scheduled for Monday between 2:00 PM and 3:00 PM.",
+      "\u2022 Seller requested a cash offer and scheduled an in-person property inspection.",
+      "\ud83d\udd25 LEAD QUALITY / MOTIVATION",
+      "\u2022 Motivation: Wants to relocate out of state to be closer to friends.",
+      "\u2022 Pain Point: Property still needs repairs (roof and siding).",
+      "\u2022 Timeline: Flexible but willing to move now if the cash offer is right.",
+      "\u2022 Cooperation: High; agreed to property inspection.",
+      "\u2022 Seller is still comfortable staying and continuing repairs if the offer is too low."
+    ],
+    "notes_len": 4022,
+    "activity_len": 4022
+  },
+  {
+    "id": "20452009",
+    "name": "Logging Out...",
+    "crm_name": "Oscar Cantu",
+    "phone": "+12094566874",
+    "email": "oscarcantu06@mail.com",
+    "last_activity": "2026-06-27",
+    "days_ago": 0,
+    "source": "PPC LEAD",
+    "address": "",
+    "flags": [
+      "Appointment Booked",
+      "Appointment Pending",
+      "Canceled Appointment",
+      "THB Web Inquiry"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "+ Sent a text message to the lead reminding about the property visit for tomorrow",
+      "+ However, the lead responded that they changed their mind and decided to keep the house",
+      "+ Cancel the booking and updated Juan",
+      "Note updated by Kyle Flores",
+      "\u2022 Oscar submitted an online form regarding 9 West Yorkshire Drive, Stockton, CA 95207.",
+      "\u2022 Seller stated his mother recently passed away and left him the house through a living trust.",
+      "\u2022 There are 3 family members involved, and Oscar stated he is the main person in the living trust.",
+      "\u2022 Property is currently occupied by his brother, but seller wants to sell fast and avoid listing on the market.",
+      "\u2022 Property is in good condition with no major repairs reported.",
+      "\u2022 Seller has no asking price yet and wants to compare Twin Home Buyer\u2019s offer with one other bidder.",
+      "\u2022 Property visit was scheduled for Saturday, June 27, between 9:00 AM and 10:00 AM.",
+      "\u2022 Seller requested text reminders because his mother\u2019s burial service is the day before the appointment.",
+      "\u2022 Inherited / trust property lead scheduling a property visit for a cash offer.",
+      "\ud83d\udd25 LEAD QUALITY / MOTIVATION",
+      "\u2022 Motivation: Mother passed away and seller wants to sell the inherited property quickly."
+    ],
+    "notes_len": 5862,
+    "activity_len": 5862
+  },
+  {
+    "id": "20419687",
+    "name": "Logging Out...",
+    "crm_name": "Angelina Stafford",
+    "phone": null,
+    "email": "angela.zeva24@gmail.com",
+    "last_activity": "2026-06-27",
+    "days_ago": 0,
+    "source": "SEO",
+    "address": "2475 Fordham St East Palo Alto CA",
+    "flags": [
+      "Contract Signed",
+      "Follow up",
+      "PPC LEAD",
+      "SEO Lead",
+      "THB Inquiry Call",
+      "Under Contract"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "\u2022 Juan spoke with Angelina regarding her signed contract and title report.",
+      "\u2022 Title report came back and the transaction is ready to move forward, but title needs additional documentation.",
+      "\u2022 Title company is asking for clarification/documentation related to prior spouse because Angelina confirmed she was previously married but divorced for 24 years.",
+      "\u2022 Title also needs a death certificate for Angelina\u2019s father.",
+      "\u2022 Title requirements / Escrow documentation follow-up.",
+      "\ud83d\udd25\u00a0LEAD QUALITY / MOTIVATION",
+      "\u2022 Seller is cooperative and willing to provide documents.",
+      "\u2022 Seller confirmed divorce history and can provide father\u2019s death certificate.",
+      "\u2022 Transaction can move forward once title conditions are cleared.",
+      "\u2022 Title needs documentation related to prior marriage/divorce.",
+      "\u2022 Death certificate required for seller\u2019s father.",
+      "Note by Roiz Eman Bartolata",
+      "Title Update \u2013 06/17/2026: Old Republic Title confirmed ownership transferred to seller via Transfer on Death deed recorded on 04/17/2026. Title requires a 120-day objection period before closing. Estimated earliest closing is mid-August 2026, assuming no objections are filed. Seller confirmed she was not married at time of transfer, so no spouse Quitclaim Deed appears needed at this time. Continue title follow-up until title confirms clear-to-close date.",
+      "I am adding Angelina Stafford ( the seller) Its my undertanding that you need some information from her?",
+      "\u2022 Outbound follow-up call from Juan (Equity Track) to Angelina regarding a signed contract."
+    ],
+    "notes_len": 5992,
+    "activity_len": 5992
+  },
+  {
+    "id": "20413799",
+    "name": "Logging Out...",
+    "crm_name": "Robert Peacock",
+    "phone": "+17074831625",
+    "email": "Wolfbyte4u@yahoo.com",
+    "last_activity": "2026-06-26",
+    "days_ago": 0,
+    "source": "PropertyLeads",
+    "address": "2750 Tachevah Dr Santa Rosa CA",
+    "flags": [
+      "Property Leads",
+      "Under Contract"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "\u2022 Task: Urgent escrow follow-up for 2750 Tashiva Dr., Santa Rosa.",
+      "\u2022 Buyer is requesting an immediate escrow status update to avoid a possible cancellation. Escrow Ref: 26-169830.",
+      "\u2022 Roiz already contacted the WFG National Title",
+      "Note by Roiz Eman Bartolata",
+      "Teo confirmed he received the wiring instructions from title and stated he will wire funds on Monday.Conversation summary:",
+      "++ Signed assignment was sent over to title.",
+      "++ We followed up with Teo to confirm whether title had sent him the wiring instructions.",
+      "++ Teo confirmed: \u201cYes, receive them.\u201d",
+      "++ Teo also confirmed: \u201cI will wire Monday.\u201d",
+      "Extension addendum for 2750 Tachevah Dr was sent to wolfbyte4u@yahoo.com for signature, extending the agreement until June 26. Texted Robert to confirm and asked him to let us know once signed.",
+      "\u2022 Juan confirmed with title/escrow that the FTB issue is resolved and the file is now clear to close.",
+      "\u2022 Title has everything needed and no additional documents are needed from Robert at this time.",
+      "\u2022 Juan will send over the assignment information and earnest money details to title.",
+      "\u2022 Juan called Robert immediately to update him that the transaction is ready to move forward.",
+      "\u2022 Robert/Jill need to sign escrow/title documents, including the withholding form sent by escrow."
+    ],
+    "notes_len": 5988,
+    "activity_len": 5988
+  },
+  {
+    "id": "20404486",
+    "name": "Logging Out...",
+    "crm_name": "Susan Evans",
+    "phone": "+17072493353",
+    "email": "sus7ev@aol.com",
+    "last_activity": "2026-06-27",
+    "days_ago": 0,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Appointment Booked",
+      "Appointment Pending",
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "Comp Analysis \u2013 825 Scaup Ln, Suisun City, CA 94585",
+      "4 Bed / 2 Bath / 1,440 SF",
+      "Tenant occupied \u2013 Verify lease status, monthly rent, security deposit, and expected move-out date.",
+      "Redfin Estimate: ~$492,000",
+      "28 Active listings within approximately 1 mile.",
+      "15 Pending/Contingent listings.",
+      "47 Sold properties (March\u2013June 2026).",
+      "Multiple comparable 4-bedroom homes sold/pending between $500k\u2013$565k.",
+      "Market supports strong investor activity and steady buyer demand.",
+      "Excellent renovation: Up to ~$550,000",
+      "Investor Base Estimated Investor Price: $370,080",
+      "Nearby investor purchases range from approximately 58%\u201377% of ARV.",
+      "Investors are actively buying in this neighborhood.",
+      "Target Purchase Range: $250,000\u2013$290,000",
+      "Maximum Purchase Price: $300,000"
+    ],
+    "notes_len": 5481,
+    "activity_len": 5481
+  },
+  {
+    "id": "20248727",
+    "name": "Logging Out...",
+    "crm_name": "Denise Marks",
+    "phone": "+17078672292",
+    "email": "marksdd@aol.com",
+    "last_activity": "2026-06-26",
+    "days_ago": 0,
+    "source": "Postcard",
+    "address": "",
+    "flags": [
+      " Offer Sent",
+      "Follow up",
+      "Long Term Nurture",
+      "Multiple Decision Makers",
+      "Out of State",
+      "Postcard",
+      "THB Inquiry Call",
+      "Under Contract"
+    ],
+    "status": "CLOSING",
+    "key_notes": [
+      "Note by Roiz Eman Bartolata",
+      "Note updated by Roiz Eman Bartolata",
+      "Contract Signed for: 350,000.00",
+      "Seller requested Reno trust/real estate attorney referrals to review contract. Juan/Cherry sent attorney options and offered to cover fees. Seller acknowledged and said she would review the contract again. Juan has continued follow-up and offered to meet in Reno. Seller has not declined; pending attorney review / seller decision. Continue warm follow-up.",
+      "CHECK THE FILES FOR SCREENSHOTS",
+      "++ Seller expects family/decision-makers to make a decision by next Tuesday around this same time. Juan maintained rapport and confirmed he\u2019ll follow up next week. No new offer, price, condition, or timeline details discussed. Follow up next Tuesday.",
+      "As per Cherry: Juan and I talked about the Petaluma lead. She says she will review the contract with an attorney and Juan will cover the cost",
+      "++ Seller says there are 3 tenants in the property.",
+      "++ Tenants have not paid rent for years.",
+      "++ Seller\u2019s brother is paying utilities and financially bleeding.",
+      "++ Brother may struggle to follow through with eviction due to emotional ties.",
+      "++ Juan asked if seller would consider selling with tenants in place.",
+      "++ Juan positioned us taking over the eviction after purchase.",
+      "++ Seller said they would think about that option.",
+      "++ Follow up with seller in 2 weeks."
+    ],
+    "notes_len": 6000,
+    "activity_len": 6000
+  },
+  {
+    "id": "20155099",
+    "name": "\ud83d\udcde CALL SUMMARY",
+    "crm_name": "Rita Williams",
+    "phone": "+15103338573",
+    "email": "",
+    "last_activity": "2026-06-26",
+    "days_ago": 0,
+    "source": "PPC LEAD",
+    "address": "",
+    "flags": [
+      "Canceled contract ",
+      "Follow up",
+      "Mailed Checks",
+      "Notice of Default (NOD)",
+      "PPC LEAD",
+      "THB Inquiry Call"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "Note by Mary Grace Pardines",
+      "\u2022 Follow-up call with Rita regarding her probate/legal situation.",
+      "\u2022 Seller reported the court hearing went generally well, but the judge issued a continuance until July 28 while verifying probate-related matters.",
+      "\u2022 Seller explained her cousin previously placed a cloud on title tied to the probate matter, even though the probate case closed on September 15 of last year.",
+      "\u2022 Seller now has legal representation paid for by a private investor.",
+      "\u2022 Seller confirmed she has already signed a purchase agreement with the investor.",
+      "\u2022 Investor agreed to pay approximately $600,000, cover attorney fees, back taxes, liens, and related legal expenses.",
+      "\u2022 Seller expressed confidence that the transaction will move forward and repeatedly stated she intends to proceed with the investor.",
+      "\u2022 Rita advised Twin Home Buyer that if the deal falls apart, she would be open to reconnecting.",
+      "\ud83d\udd25 LEAD QUALITY / MOTIVATION",
+      "Not Active \u2022 Seller has signed with another buyer.",
+      "\u2022 Investor is actively funding legal resolution.",
+      "\u2022 Seller believes transaction will close.",
+      "\u2022 Currently unavailable for acquisition.",
+      "\u2022 Active probate-related litigation."
+    ],
+    "notes_len": 5993,
+    "activity_len": 5993
+  },
+  {
+    "id": "18472003",
+    "name": "Logging Out...",
+    "crm_name": "Jeff Whitton",
+    "phone": "+17144034029",
+    "email": "mrs.whitton@hotmail.com",
+    "last_activity": "2026-06-26",
+    "days_ago": 0,
+    "source": "",
+    "address": "None Jurupa Valley CA",
+    "flags": [
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Called Lead but routed to VM, left message.",
+      "Tried to call the lead - routed to vm - left a vm"
+    ],
+    "notes_len": 1285,
+    "activity_len": 1285
+  },
+  {
+    "id": "18443945",
+    "name": "Logging Out...",
+    "crm_name": "Tania Guzman",
+    "phone": "+18312104831",
+    "email": "gcarrillo230@gmail.com",
+    "last_activity": "2026-06-27",
+    "days_ago": 0,
+    "source": "",
+    "address": "1107 Paseo Grande Salinas CA",
+    "flags": [
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Called Lead but routed to VM, left message."
+    ],
+    "notes_len": 1057,
+    "activity_len": 1057
+  },
+  {
+    "id": "18443598",
+    "name": "Logging Out...",
+    "crm_name": "Myra Tumbokon",
+    "phone": "+18012319892",
+    "email": "tmggonzales@aol.com",
+    "last_activity": "2026-06-27",
+    "days_ago": 0,
+    "source": "",
+    "address": "8751 Tapaderas Loop Roseville CA",
+    "flags": [
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Tried to called the lead, ring but no answer. Left a VM"
+    ],
+    "notes_len": 1085,
+    "activity_len": 1085
+  },
+  {
+    "id": "18443482",
+    "name": "Logging Out...",
+    "crm_name": "Thelma Minto",
+    "phone": "+13239075255",
+    "email": "thelmaminto62@yahoo.com",
+    "last_activity": "2026-06-27",
+    "days_ago": 0,
+    "source": "",
+    "address": "1619 W Gage Ave Los Angeles CA",
+    "flags": [
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Tried to called the lead, ring once but no answer. Auto drop call"
+    ],
+    "notes_len": 1107,
+    "activity_len": 1107
+  },
+  {
+    "id": "18443236",
+    "name": "Logging Out...",
+    "crm_name": "Ernest Vitte",
+    "phone": "+18184224587",
+    "email": "egvitte@gmail.com",
+    "last_activity": "2026-06-27",
+    "days_ago": 0,
+    "source": "",
+    "address": "1330 N Arroyo Blvd Pasadena CA",
+    "flags": [
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Tried to called the lead, ring but no answer. Left a VM",
+      "I called and got routed to VM. I left a voice message.",
+      "I tried to call but, no one answered, and got rerouted to VM. I left a voice message."
+    ],
+    "notes_len": 1891,
+    "activity_len": 1891
+  },
+  {
+    "id": "18443224",
+    "name": "Logging Out...",
+    "crm_name": "Lisa Morris",
+    "phone": "+13107794753",
+    "email": "oakhuemo@gmail.com",
+    "last_activity": "2026-06-27",
+    "days_ago": 0,
+    "source": "",
+    "address": "37834 Cardiff St Palmdale CA",
+    "flags": [
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Tried to called the lead, ring but no answer. Left a VM"
+    ],
+    "notes_len": 1080,
+    "activity_len": 1080
+  },
+  {
+    "id": "20465027",
+    "name": "Logging Out...",
+    "crm_name": "Joseph Costa",
+    "phone": "+16693515777",
+    "email": null,
+    "last_activity": "2026-06-26",
+    "days_ago": 1,
+    "source": "Postcard",
+    "address": "",
+    "flags": [
+      "Appointment Booked",
+      "Appointment Pending",
+      "Follow up",
+      "Postcard",
+      "THB Inquiry Call",
+      "Tax Delinquent"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "\u2022 Joseph Costa called back after the previous call disconnected.",
+      "\u2022 Seller asked directly if Twin Home Buyer would come out to inspect the property and provide an estimate.",
+      "\u2022 Property is 13161 Potts Drive, San Jose, CA 95111.",
+      "\u2022 Seller stated he is retired and available anytime.",
+      "\u2022 Seller requested a call 1 hour before arrival.",
+      "\u2022 Appointment window was discussed for today between 3:00 PM and 5:00 PM, pending inspector confirmation.",
+      "\u2022 Property visit scheduling for estimate/offer.",
+      "\ud83d\udd25\u00a0LEAD QUALITY / MOTIVATION",
+      "Rating: Medium Motivation",
+      "\u2022 Motivation: Seller is considering selling and wants an estimate.",
+      "\u2022 Timeline: Open, but wants inspection/estimate soon.",
+      "\u2022 Cooperation: Direct and available anytime.",
+      "\u2022 Urgency: Medium; seller wants action, not just questions.",
+      "\u2022 Seller is impatient and concerned about wasting time.",
+      "\u2022 Motivation and price expectation still unknown."
+    ],
+    "notes_len": 5694,
+    "activity_len": 5694
+  },
+  {
+    "id": "20463805",
+    "name": "Logging Out...",
+    "crm_name": "",
+    "phone": "+15402924745",
+    "email": null,
+    "last_activity": "2026-06-26",
+    "days_ago": 1,
+    "source": "Postcard",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "Not Ready Yet",
+      "Nurture"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "It seems like you haven\u2019t added any note to this lead till yet."
+    ],
+    "notes_len": 809,
+    "activity_len": 809
+  },
+  {
+    "id": "20463670",
+    "name": "Logging Out...",
+    "crm_name": "Antonio Ortiz",
+    "phone": "+15102193277",
+    "email": null,
+    "last_activity": "2026-06-26",
+    "days_ago": 1,
+    "source": "Postcard",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "Liens",
+      "Postcard",
+      "THB Inquiry Call"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "\u2022 Call About: Seller inquiry for 2145 E. 24th St, Oakland.",
+      "\u2022 Spoke with Antonio, who received Twin Home Buyer's postcard and wanted to know what the property might be worth. Seller stated the property needs minor repairs, has not listed it with an agent, and is receiving interest from other buyers.",
+      "\u2022 Explained that a preliminary offer can be provided remotely, but a property visit is required for a final cash offer. Seller asked to be called over the weekend to coordinate a visit.",
+      "\u2022 Next Step: Follow up with Antonio over the weekend to schedule Juan's property visit and provide a preliminary offer range.",
+      "2145 E 24th St, Oakland, CA, 94606",
+      "2145 E 24th St , Oakland, CA, 94606"
+    ],
+    "notes_len": 2351,
+    "activity_len": 2351
+  },
+  {
+    "id": "20452114",
+    "name": "Logging Out...",
+    "crm_name": "Ted Shoecraft",
+    "phone": "+19252502672",
+    "email": "tdshu@yahoo.com",
+    "last_activity": "2026-06-26",
+    "days_ago": 1,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "Address: 4837 S Ridgefield Way Fairfield 94534,",
+      "4837 S Ridgefield Way, Fairfield, CA, 94534",
+      "4837 S Ridgefield Way , Fairfield, CA, 94534"
+    ],
+    "notes_len": 1490,
+    "activity_len": 1490
+  },
+  {
+    "id": "20446671",
+    "name": "Logging Out...",
+    "crm_name": "Rose Philips",
+    "phone": "+17073736099",
+    "email": "thamob60@gmail.com",
+    "last_activity": "2026-06-26",
+    "days_ago": 1,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Follow up"
+    ],
+    "status": "WARM",
+    "key_notes": [],
+    "notes_len": 1025,
+    "activity_len": 1025
+  },
+  {
+    "id": "20444969",
+    "name": "Call Summary:",
+    "crm_name": "Sebastian Marchetti",
+    "phone": "+16505200300",
+    "email": null,
+    "last_activity": "2026-06-25",
+    "days_ago": 1,
+    "source": "PPC LEAD",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "Mail Postcard",
+      "PPC LEAD",
+      "THB Inquiry Call"
+    ],
+    "status": "CLOSING",
+    "key_notes": [
+      "Call Attempted - No Answer",
+      "Call About: Seller interest in selling property.",
+      "Next Step: Continue follow-up attempts and await seller response.",
+      "Note updated by Theavil Marie",
+      "\u2022 Spoke with property owner regarding the property at 2731 Etcheverry Drive, Stockton.",
+      "\u2022 Seller is interested in selling as soon as possible due to credit and financial concerns.",
+      "\u2022 Property was built in 2005 and purchased in 2008.",
+      "\u2022 Seller stated the home is in good condition with no major issues and has been remodeled by a general contractor.",
+      "\u2022 Property features approximately 1,500 sq. ft., 5 bedrooms, 3 bathrooms, and solar panels.",
+      "\u2022 Seller estimated market value between $585,000 and $590,000.",
+      "\u2022 Seller indicated he owes approximately $385,000 on the property and would like to net at least $150,000 from the sale.",
+      "\u2022 Juan explained Twin Home Buyer's cash purchase process, including no commissions, fees, or repairs.",
+      "\u2022 Preliminary offer discussion was in the range of approximately $400,000\u2013$405,000.",
+      "\u2022 Seller felt the offer range was lower than expected but remained open to further discussion.",
+      "\u2022 Juan advised he would review the numbers further and follow up with the seller."
+    ],
+    "notes_len": 5798,
+    "activity_len": 5798
+  },
+  {
+    "id": "20425336",
+    "name": "Logging Out...",
+    "crm_name": "Natalia Calderon",
+    "phone": "+14155051082",
+    "email": "Ncalderona123@gmail.com",
+    "last_activity": "2026-06-25",
+    "days_ago": 1,
+    "source": "PropertyLeads",
+    "address": "",
+    "flags": [
+      "Appointment Pending",
+      "Appt-No-Show",
+      "Follow up",
+      "Property Leads",
+      "juan called text and email"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Note updated by Theavil Marie",
+      "JUNE 25 | Follow up with Mariaelena",
+      "+ Sent a text to Mariaelena asking for an update about this lead",
+      "I left her a message and text her yesterday. No answer. She went into the hospital and I have not heard from her since.\"",
+      "NExt step : Follow up again?",
+      "Spoke with Natalia regarding her property at 6711 Mission Street, Daly City.",
+      "Seller is behind on mortgage payments and is experiencing financial hardship. Property is tenant-occupied and held in a trust.",
+      "Seller is considering selling to avoid further financial issues but is also exploring listing on the market.",
+      "Juan explained the difference between a cash offer and listing with an agent.",
+      "Seller will send mortgage, lease, and property documents for review before discussing numbers further.",
+      "Spoke with Natalia regarding her online property inquiry for 6711 Mission Street, Daly City. Seller confirmed interest but requested a Spanish-speaking representative.",
+      "Seller requested a callback in Spanish at either 10:00 AM or 2:00 PM. No discussion regarding property condition, timeline, or pricing.",
+      "Note by Mary Grace Pardines",
+      "June 8, 2026 | Seller Natalia engaged with team and requested Spanish-speaking assistance. Connected with Mariaelena and confirmed property visit for today. Active lead and interested in discussing sale options.",
+      "Address: 6711 Mission St Daly City 94014,"
+    ],
+    "notes_len": 4098,
+    "activity_len": 4098
+  }
+]
