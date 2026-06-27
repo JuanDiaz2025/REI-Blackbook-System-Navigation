@@ -1,0 +1,70 @@
+[
+  {
+    "contact_id": "20466116",
+    "title": "Verify Invalid Contact \u2013 Spam/Inquiry Call (+15109376476)",
+    "submitted": true,
+    "success": true,
+    "bryan_assigned": false
+  },
+  {
+    "contact_id": "20466099",
+    "title": "Verify Invalid Contact \u2013 Inquiry Call (+15102439506)",
+    "submitted": true,
+    "success": true,
+    "bryan_assigned": false
+  },
+  {
+    "contact_id": "20466005",
+    "title": "Verify Invalid Contact \u2013 Spam Call (+15109055244)",
+    "submitted": true,
+    "success": true,
+    "bryan_assigned": false
+  },
+  {
+    "contact_id": "20465170",
+    "title": "Verify Invalid Contact \u2013 THB Inquiry (+15108819088)",
+    "submitted": true,
+    "success": true,
+    "bryan_assigned": false
+  },
+  {
+    "contact_id": "20465149",
+    "title": "Verify Invalid Contact \u2013 Inquiry Call (+15109451190)",
+    "submitted": true,
+    "success": true,
+    "bryan_assigned": false
+  },
+  {
+    "contact_id": "20465049",
+    "title": "Verify Invalid Contact \u2013 Spam Inquiry (+15109491797)",
+    "submitted": true,
+    "success": true,
+    "bryan_assigned": false
+  },
+  {
+    "contact_id": "20465025",
+    "title": "Final Follow-Up \u2013 Unresponsive Invalid Lead (+15105887864)",
+    "success": false,
+    "error": "modal not opened"
+  },
+  {
+    "contact_id": "20464705",
+    "title": "Verify Invalid Contact \u2013 THB Spam Call (+15108690166)",
+    "submitted": true,
+    "success": true,
+    "bryan_assigned": false
+  },
+  {
+    "contact_id": "20463847",
+    "title": "Remove Invalid Postcard Lead \u2013 DNC/Liens (+15106609701)",
+    "success": false,
+    "error": "modal not opened"
+  },
+  {
+    "contact_id": "20463719",
+    "title": "Review Postcard Lead with Liens \u2013 Invalid (+15402559569)",
+    "submitted": true,
+    "success": true,
+    "bryan_assigned": false
+  }
+]
