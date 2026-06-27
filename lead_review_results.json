@@ -4578,5 +4578,321 @@
     ],
     "notes_len": 3686,
     "activity_len": 3686
+  },
+  {
+    "id": "20409779",
+    "name": "Logging Out...",
+    "crm_name": "Jon Doe",
+    "phone": "+18888888549",
+    "email": "test@propertyleads.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "",
+    "address": "487 main testville None",
+    "flags": [
+      "Property Leads"
+    ],
+    "status": "UNCLEAR",
+    "key_notes": [
+      "Address: 487 main testville 99999,",
+      "Address: 440 main testville 99999,"
+    ],
+    "notes_len": 1606,
+    "activity_len": 1606
+  },
+  {
+    "id": "19297815",
+    "name": "Logging Out...",
+    "crm_name": "Shayna Zaragoza",
+    "phone": "+17072358854",
+    "email": "shudson0428@gmail.com",
+    "last_activity": "2026-06-18",
+    "days_ago": 9,
+    "source": "PPC LEAD",
+    "address": "",
+    "flags": [
+      "DECLINED OFFER",
+      "Interested",
+      "PPC LEAD",
+      "THB Inquiry Call",
+      "Twin Home Buyer Web Inquiries"
+    ],
+    "status": "CLOSING",
+    "key_notes": [
+      "Twin Home Buyer Web Inquiries",
+      "Note by Roiz Eman Bartolata",
+      "Estimated Value \u2013 $481,699",
+      "Assessed Value \u2013 $537,967",
+      "Estimated Open Loans Balance \u2013 $204,667",
+      "Estimated Equity \u2013 $277,032",
+      "Purchase Date \u2013 12/29/2020",
+      "Purchase Amount \u2013 $512,000",
+      "Juan made an offer for $250k but the lead declined it. No further actions needed.",
+      "##Caller & Purpose: Shana contacted Twin Home Buyer seeking to sell her home quickly and \u201cbe done with it.\u201d",
+      "**Property Details: 16544 Hasana Court, Hidden Valley Lake, CA \u2014 5 bedrooms, 3 bathrooms, ~3,409 sq ft, plus 2 large bonus rooms (no closets).",
+      "**Reason for Selling: Shana is tired of keeping the house vacant and covering costs. The property was listed twice (June last year and May this year) but did not sell due to a weak market and high interest rates.",
+      "**Condition: Very clean and well maintained; no known issues.",
+      "**Financials: Last listed at $490,900 after dropping from $650,000. She hopes for an offer close to $490K.",
+      "**Ownership: Sole owner with an outstanding mortgage (amount not specified)."
+    ],
+    "notes_len": 4404,
+    "activity_len": 4404
+  },
+  {
+    "id": "20448164",
+    "name": "Logging Out...",
+    "crm_name": "Danh Nguyen",
+    "phone": "+14084487777",
+    "email": null,
+    "last_activity": "2026-06-17",
+    "days_ago": 10,
+    "source": "",
+    "address": "",
+    "flags": [
+      "Follow up"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "It seems like you haven\u2019t added any note to this lead till yet."
+    ],
+    "notes_len": 786,
+    "activity_len": 786
+  },
+  {
+    "id": "20447610",
+    "name": "Logging Out...",
+    "crm_name": "Cornelius",
+    "phone": "+17077875678",
+    "email": null,
+    "last_activity": "2026-06-17",
+    "days_ago": 10,
+    "source": "",
+    "address": "None None None",
+    "flags": [
+      "Motivated Leads"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Address: 831 Vine Hill Way Martinez 94553,"
+    ],
+    "notes_len": 1349,
+    "activity_len": 1349
+  },
+  {
+    "id": "20438743",
+    "name": "Logging Out...",
+    "crm_name": "Harry McGowan",
+    "phone": "+15309661251",
+    "email": "beartrap1953@gmail.com",
+    "last_activity": "2026-06-16",
+    "days_ago": 10,
+    "source": "Direct Mail",
+    "address": "",
+    "flags": [
+      "Appointment Booked",
+      "Appointment Pending",
+      "Liens",
+      "Mailed Checks"
+    ],
+    "status": "UNCLEAR",
+    "key_notes": [
+      "Note by Roiz Eman Bartolata",
+      "Lead requested additional lead time to discuss the offer with his wife, as she is still hoping to achieve a selling price of $500,000.",
+      "++ Estimated Value: $673,821",
+      "++ Assessed Value: $571,488",
+      "++ Estimated Open Loans Balance: $351,496",
+      "++ Estimated Equity: $322,325",
+      "++ Equity Percentage: 47.84%",
+      "++ Purchase Date: 1/20/2005",
+      "++ Purchase Amount: $410,500",
+      "++ Down Payment: $160,500",
+      "\u2022 Buyer (Twin Home Buyer) spoke with Harry McGowan regarding his property at 344 Mesa Verde Court, Chico, CA.",
+      "\u2022 Seller is owner-occupant and wants to downsize; looking to sell as soon as possible.",
+      "\u2022 Property is a 4 bed, 3 bath home purchased new 20 years ago; roof replaced 13 years ago and solar installed 5 years ago.",
+      "\u2022 Seller estimates the property needs approximately $50,000\u2013$60,000 in cosmetic updates (paint, carpet, and general improvements).",
+      "\u2022 Seller has approximately $405,000 remaining on the mortgage and is hoping to walk away with roughly $150,000 in proceeds."
+    ],
+    "notes_len": 5455,
+    "activity_len": 5455
+  },
+  {
+    "id": "20434007",
+    "name": "Logging Out...",
+    "crm_name": "Jesus Cisneros",
+    "phone": "+14088064684",
+    "email": "",
+    "last_activity": "2026-06-16",
+    "days_ago": 10,
+    "source": "Postcard",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "Liens",
+      "Postcard",
+      "THB Inquiry Call"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "\u2022 Spoke with Jess Cisneros regarding property at 1604 Shreen Court, San Jose, CA.",
+      "\u2022 Seller and spouse are considering selling and plan to list the property around July.",
+      "\u2022 Property is their primary residence; both owners are on title.",
+      "\u2022 Seller is comparing cash offer options versus listing on the open market.",
+      "\u2022 Property visit was offered, but seller requested time to check their schedule before booking.",
+      "\u2022 New seller inquiry / Exploring cash offer options before listing.",
+      "\ud83d\udd25 LEAD QUALITY / MOTIVATION",
+      "Rating: Medium Motivation",
+      "\u2022 Motivation: Considering selling and evaluating available options.",
+      "\u2022 Urgency: Medium; planning to list in July.",
+      "\u2022 Investor Pricing Acceptance: Unknown; wants to see what Twin Home Buyer would offer.",
+      "\u2022 Cooperation Level: High; provided property information and agreed to continue communication.",
+      "\u2022 Seller is considering listing with a realtor.",
+      "\u2022 No appointment scheduled yet.",
+      "\u2022 Cash offer will be compared against retail market options."
+    ],
+    "notes_len": 4937,
+    "activity_len": 4937
+  },
+  {
+    "id": "20446541",
+    "name": "Logging Out...",
+    "crm_name": "Frank McGuire",
+    "phone": "+19255952465",
+    "email": "frankiej58@aol.com",
+    "last_activity": "2026-06-16",
+    "days_ago": 11,
+    "source": "Postcard",
+    "address": "",
+    "flags": [
+      "70% Distress Score",
+      "Follow up",
+      "Postcard"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "\u2022 Spoke with Frank McGuire regarding the property at 449 Pebble Drive.",
+      "\u2022 Frank is the brother of the deceased owner and is representing the heirs regarding the sale.",
+      "\u2022 Property is a 2 bed, 1 bath home and is currently in very poor condition.",
+      "\u2022 Seller described the property as uninhabitable, with significant damage to the kitchen and bathroom.",
+      "\u2022 Property is a hoarder house with substantial debris and cleanup needed both inside and outside.",
+      "\u2022 Seller estimates approximately $200,000 in renovation costs plus an additional $25,000 for exterior cleanup.",
+      "\u2022 Seller is motivated to sell quickly and does not want to manage repairs or renovations.",
+      "\u2022 Frank requested a written offer to present to the other heirs for review.",
+      "\u2022 Sherry will perform due diligence, complete a drive-by inspection, and provide an offer within 24 hours.",
+      "Estimated Open Loans Balance$141,608",
+      "Estimated Equity $$440,588 (Equity: 75.7% \u2705)",
+      "449 Pebble Dr, El Sobrante, CA, 94803",
+      "449 Pebble Dr , El Sobrante, CA, 94803"
+    ],
+    "notes_len": 3455,
+    "activity_len": 3455
+  },
+  {
+    "id": "20444636",
+    "name": "Call Summary:",
+    "crm_name": "Leanne",
+    "phone": "+14152643838",
+    "email": null,
+    "last_activity": "2026-06-16",
+    "days_ago": 11,
+    "source": "Postcard",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "Liens",
+      "Not Ready Yet",
+      "Nurture",
+      "Postcard",
+      "THB Inquiry Call"
+    ],
+    "status": "CLOSING",
+    "key_notes": [
+      "Note updated by Jovelyn Frias",
+      "Leanne called Twin Home Buyer after receiving a flyer.",
+      "She is not ready to sell yet but wanted to learn about the process.",
+      "The property is at 153 College Avenue, San Francisco, CA 94112, currently occupied, needs minor repairs, and she plans to downsize in a couple of years.",
+      "What the Call Is All About:",
+      "Twin Home Buyer explained their cash buying process, including:",
+      "Property visit and comparable review",
+      "Calculating repair costs and market value",
+      "Signing a contract, opening escrow, and closing",
+      "They also discussed flexible options, such as rent-back for 30\u201360 days if the seller wants to receive cash but stay temporarily.",
+      "The conversation focused on future planning, since Leanne won\u2019t be selling for a couple of years, and timing affects offer calculations.",
+      "Leanne will keep Twin Home Buyer in mind for when she is closer to selling.",
+      "Twin Home Buyer suggested annual follow-ups to maintain contact until she is ready to sell."
+    ],
+    "notes_len": 2890,
+    "activity_len": 2890
+  },
+  {
+    "id": "20094333",
+    "name": "Logging Out...",
+    "crm_name": "Dwayne Moore",
+    "phone": "+14153106078",
+    "email": "dwaynemoore13@yahoo.com",
+    "last_activity": "2026-06-15",
+    "days_ago": 11,
+    "source": "Direct Mail",
+    "address": "",
+    "flags": [
+      "Affidavit of Death",
+      "Follow up",
+      "Interested",
+      "Long Term Nurture",
+      "Mailed Checks",
+      "Nurture"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "Follow-up call was made Sunday with no response. Sent soft text today to ask for best callback time.",
+      "\u2022 Spoke with seller Dwayne regarding property and family situation.",
+      "\u2022 Seller shared they are still clearing out the home and focusing on helping their mother adjust to memory care.",
+      "\u2022 No plans to sell immediately; possible timeline pushed to late June or later.",
+      "\u2022 Seller appreciated follow-up and requested time before making any decisions.",
+      "\u2022 Continue long-term nurture and follow up again closer to June.",
+      "Note by Mary Grace Pardines",
+      "\u2022 Spoke with Dwayne regarding East Palo Alto property",
+      "\u2022 Seller confirmed they are still cleaning out the property",
+      "\u2022 No selling decision made yet",
+      "\u2022 Timeline pushed to around June if they decide to move forward",
+      "\u2022 Juan offered vendor/help resources (dumpster, electrician, plumber, etc.)",
+      "\u2022 Follow-up on potential property sale",
+      "\u2022 Checking seller\u2019s readiness and timeline",
+      "\u2022 Relationship-building / nurture call"
+    ],
+    "notes_len": 6000,
+    "activity_len": 6000
+  },
+  {
+    "id": "20429402",
+    "name": "Logging Out...",
+    "crm_name": "Latonya Powell",
+    "phone": "+15598755777",
+    "email": null,
+    "last_activity": "2026-06-15",
+    "days_ago": 12,
+    "source": "PropertyLeads",
+    "address": "964 72nd Ave Oakland CA",
+    "flags": [
+      "Appointment Pending",
+      "Follow up",
+      "Property Leads"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "Miss Cherry was unavailable to get ahold of the seller.",
+      "Juan already spoke to the seller; she remembered Juan as \u201cOakland Man (born and raised).\u201d",
+      "Seller is not staying in the area; property is vacant.",
+      "Miss Cherry requested Juan to do a drive-by of the property and to make an offer.",
+      "Outbound call answered by lead; Miss Cherry was still on the line.",
+      "Asked lead for available time for a callback; she said anytime within the day.",
+      "Advised Miss Cherry to follow up and call the lead.",
+      "Scheduling a callback with the lead.",
+      "Miss Cherry to call the lead at her convenience today.",
+      "Address: 964 72nd Ave Oakland 94621,",
+      "964 72nd Ave, Oakland, CA, 94621",
+      "964 72nd Ave , Oakland, CA, 94621"
+    ],
+    "notes_len": 2911,
+    "activity_len": 2911
   }
 ]
