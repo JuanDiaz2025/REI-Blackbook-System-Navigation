@@ -7441,5 +7441,228 @@
     ],
     "notes_len": 6000,
     "activity_len": 6000
+  },
+  {
+    "id": "18443420",
+    "name": "Logging Out...",
+    "crm_name": "Matthew Dale",
+    "phone": "+14153022451",
+    "email": "matthew.addison.dale@gmail.com",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "19 Olive Ct Novato CA",
+    "flags": [
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "matthew.addison.dale@gmail.com",
+      "Called lead, answered but disconnected the call. No further actions needed"
+    ],
+    "notes_len": 1305,
+    "activity_len": 1305
+  },
+  {
+    "id": "18443417",
+    "name": "Logging Out...",
+    "crm_name": "Jose Lara",
+    "phone": "+15628524236",
+    "email": "riviera1968@msn.com",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "2917 Greentop St Lakewood CA",
+    "flags": [
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Tried to called the lead, ring but no answer. Left a VM",
+      "tried calling, no answer, routed to vm"
+    ],
+    "notes_len": 1288,
+    "activity_len": 1288
+  },
+  {
+    "id": "18443415",
+    "name": "Logging Out...",
+    "crm_name": "Quintin Smith",
+    "phone": "+13105314943",
+    "email": "kustom55caddy@hotmail.com",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "4836 W 137th Pl Hawthorne CA",
+    "flags": [
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "kustom55caddy@hotmail.com",
+      "Tried to called the lead, ring once but no answer. Auto drop call",
+      "Tried calling, but the call disconnected after the first ring."
+    ],
+    "notes_len": 1366,
+    "activity_len": 1366
+  },
+  {
+    "id": "18443413",
+    "name": "Logging Out...",
+    "crm_name": "Matthew Padak",
+    "phone": "+16149466646",
+    "email": "mpadak@yahoo.com",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "726 Rosecrans Ave Manhattan Beach CA",
+    "flags": [
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Tried to call the lead, ring but no answer. Unable to leave a message due to VM box is full",
+      "Tried calling but t'was routed to VM. Left a message."
+    ],
+    "notes_len": 1387,
+    "activity_len": 1387
+  },
+  {
+    "id": "18443408",
+    "name": "Logging Out...",
+    "crm_name": "Baneza Ortiz",
+    "phone": "+19256654951",
+    "email": "baneza.garcia@gmail.com",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "1330 Springhill Dr Pittsburg CA",
+    "flags": [
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Tried to called the lead, ring but no answer. Left a VM",
+      "Tried calling but t'was routed to VM, left a message."
+    ],
+    "notes_len": 1325,
+    "activity_len": 1325
+  },
+  {
+    "id": "18443397",
+    "name": "Logging Out...",
+    "crm_name": "Shereen Peters",
+    "phone": "+19097702756",
+    "email": "q9brandonstewartvasquez@hotmail.com",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "6702 Orangewood Rd Highland CA",
+    "flags": [
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "q9brandonstewartvasquez@hotmail.com",
+      "Tried to called the lead, ring but no answer. Left a VM"
+    ],
+    "notes_len": 1401,
+    "activity_len": 1401
+  },
+  {
+    "id": "18443396",
+    "name": "Logging Out...",
+    "crm_name": "Jason Hernandez",
+    "phone": "+19098000160",
+    "email": "jay.hernandez64@live.com",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "1936 N Alice Ave Rialto CA",
+    "flags": [
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Tried to call the lead, ring but no answer. Unable to leave a message due to VM box is full",
+      "Call has been audited - Agent initiated a check-in call; No answer, Unable to leave a VM due to mailbox being full.",
+      "Tried calling but t'was routed to VM. Mailbox is full."
+    ],
+    "notes_len": 1750,
+    "activity_len": 1750
+  },
+  {
+    "id": "18443367",
+    "name": "Logging Out...",
+    "crm_name": "Catherine Chan",
+    "phone": "+12099147155",
+    "email": "dccchan@comcast.net",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "1150 Dominique Dr Tracy CA",
+    "flags": [
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Tried to called the lead, ring but no answer. Left a VM",
+      "I called and got routed to VM. I left a voice message."
+    ],
+    "notes_len": 1654,
+    "activity_len": 1654
+  },
+  {
+    "id": "18443329",
+    "name": "Logging Out...",
+    "crm_name": "Ana Guevara",
+    "phone": "+16267805240",
+    "email": "guevara.i@hotmail.com",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "16566 Valencia Ave Fontana CA",
+    "flags": [
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Tried to called the lead, ring but no answer. Left a VM",
+      "I called and got routed to VM. I sent a voice message."
+    ],
+    "notes_len": 1367,
+    "activity_len": 1367
+  },
+  {
+    "id": "18443294",
+    "name": "Logging Out...",
+    "crm_name": "Riza Gaceta",
+    "phone": "+17072678672",
+    "email": "riza10gaceta@gmail.com",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "412 Chyrl Way Suisun City CA",
+    "flags": [
+      "Low Equity",
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Tried to called the lead, ring but no answer. Left a VM",
+      "I called but, got routed to VM. I left a voice message"
+    ],
+    "notes_len": 1885,
+    "activity_len": 1885
   }
 ]
