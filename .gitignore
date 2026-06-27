@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local credentials
+.env
+
+# Generated screenshot output
+screenshots/
