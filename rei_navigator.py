@@ -1,13 +1,16 @@
 """
 REI Blackbook Navigator
 Playwright-based browser automation for the REI Blackbook platform.
-Uses direct HTTPS connections (not the system HTTP proxy, which blocks browser CONNECT tunnels).
+Uses direct HTTPS connections for REI Blackbook domains; CDN assets (mastercdn.atm.gs)
+are fetched via curl through the system proxy and served to Playwright via route
+interception, working around Chromium's inability to reach the CDN through the proxy.
 """
 import os
 import time
 from pathlib import Path
 from playwright.sync_api import sync_playwright, Page, Browser, BrowserContext
 import config
+import cdn_cache
 
 
 class LoginError(Exception):
@@ -40,8 +43,8 @@ class REINavigator:
             args=[
                 "--no-sandbox",
                 "--disable-dev-shm-usage",
-                # Use direct connections: the system HTTP proxy blocks Chromium CONNECT tunnels
-                # but allows direct outbound HTTPS from the container.
+                # Use direct connections for REI Blackbook domains; CDN assets are
+                # served via Playwright route interception (cdn_cache.py) instead.
                 "--proxy-server=direct://",
                 # Allow third-party cookies for the auth.automatedgenius.com SSO flow
                 "--disable-features=ThirdPartyCookieBlocking,BlockThirdPartyCookies",
@@ -55,6 +58,7 @@ class REINavigator:
             ),
             ignore_https_errors=True,
         )
+        cdn_cache.install_routes(self._context)
         self.page = self._context.new_page()
         self.page.set_default_timeout(config.TIMEOUT)
 
@@ -269,7 +273,7 @@ class REINavigator:
             else:
                 base = "/".join(self.page.url.split("/")[:3])
                 self.page.goto(base + href, wait_until="domcontentloaded")
-            time.sleep(1)
+            time.sleep(4)
             if screenshot_name:
                 self.screenshot(screenshot_name)
             return True
@@ -355,7 +359,7 @@ class REINavigator:
             url = base + path
             try:
                 self.page.goto(url, wait_until="domcontentloaded")
-                time.sleep(2)
+                time.sleep(5)
                 shot = f"{i:02d}_{label.replace(' ', '_').replace('/', '')}"
                 self.screenshot(shot)
                 entry = {"label": label, "url": self.page.url, "title": self.page.title(), "ok": True}
