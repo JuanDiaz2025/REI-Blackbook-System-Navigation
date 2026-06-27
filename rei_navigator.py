@@ -91,16 +91,46 @@ class REINavigator:
         """
         Complete the email-based MFA step by navigating to the verification link
         from the email REI Blackbook sends to the account address after login.
+
+        The page shows "Email Verified Successfully" and contains a hidden form
+        (#formLogin) that must be submitted to finalize the session — the JS
+        auto-submit does not fire reliably in headless mode, so we trigger it
+        explicitly.
         """
-        print(f"  Navigating to email verification link...")
+        print("  Navigating to email verification link...")
         self.page.goto(verification_url, wait_until="domcontentloaded")
         time.sleep(2)
-        self.screenshot("03b_after_email_verify")
+        self.screenshot("03b_email_verify_page")
+
+        # Submit the hidden #formLogin that finalises the verified session
+        submitted = self.page.evaluate("""() => {
+            const f = document.querySelector('form#formLogin');
+            if (f) { f.submit(); return true; }
+            return false;
+        }""")
+
+        if submitted:
+            print("  Submitted #formLogin to finalise session...")
+        else:
+            print("  #formLogin not found — waiting for auto-redirect...")
+
+        try:
+            self.page.wait_for_url(
+                lambda url: "emailLogin" not in url and "checkEmail" not in url and "login" not in url.lower(),
+                timeout=config.TIMEOUT,
+            )
+        except Exception:
+            pass
+
+        time.sleep(2)
+        self.screenshot("03c_after_email_verify")
         current = self.page.url
-        if "checkEmail" not in current and "login" not in current.lower():
+
+        if "emailLogin" not in current and "checkEmail" not in current and "login" not in current.lower():
             self.is_logged_in = True
             print(f"  Email verification succeeded — URL: {current}")
             return True
+
         print(f"  Email verification may have failed — URL: {current}")
         return False
 
@@ -283,5 +313,56 @@ class REINavigator:
             safe_name = text[:20].replace(" ", "_").replace("/", "").replace("\\", "")
             ok = self.navigate_to(href, label=text, screenshot_name=f"page_{i+1:02d}_{safe_name}")
             report["pages_visited"].append({"text": text, "href": href, "ok": ok})
+
+        return report
+
+    # Known navigation sections discovered from a full session exploration
+    KNOWN_SECTIONS = [
+        ("Dashboard",              "/"),
+        ("Smart Contacts",         "/contacts"),
+        ("Tasks",                  "/services/tasks"),
+        ("Deals",                  "/deals/list"),
+        ("Pipelines",              "/deals/pipeline"),
+        ("Legacy Property Pipeline", "/properties/inbox"),
+        ("Multi Offer Generator",  "/mog"),
+        ("My Account",             "/services/account/"),
+        ("My Team",                "/services/users"),
+        ("Marketing Profiles",     "/services/profiles/index"),
+        ("System Settings",        "/profitdial/settings"),
+        ("Deal Settings",          "/contacts/deal-settings"),
+    ]
+
+    def run_known_sections(self) -> dict:
+        """Navigate every known REI Blackbook section and take screenshots."""
+        report = {"login": False, "mfa_required": False, "pages": [], "error": None}
+
+        try:
+            report["login"] = self.login()
+        except LoginError as e:
+            report["error"] = str(e)
+            return report
+
+        if not report["login"]:
+            if self._is_email_verification_page():
+                report["mfa_required"] = True
+                report["error"] = "Email verification required — check inbox for link from noreply@reiblackbook.com, then set REI_VERIFY_URL"
+            else:
+                report["error"] = "Login failed — check REI_EMAIL and REI_PASSWORD"
+            return report
+
+        base = "https://my.reiblackbook.com"
+        for i, (label, path) in enumerate(self.KNOWN_SECTIONS):
+            url = base + path
+            try:
+                self.page.goto(url, wait_until="domcontentloaded")
+                time.sleep(2)
+                shot = f"{i:02d}_{label.replace(' ', '_').replace('/', '')}"
+                self.screenshot(shot)
+                entry = {"label": label, "url": self.page.url, "title": self.page.title(), "ok": True}
+            except Exception as e:
+                entry = {"label": label, "url": url, "ok": False, "error": str(e)}
+                print(f"  ERROR on {label}: {e}")
+            report["pages"].append(entry)
+            print(f"  {label}: {entry['url']}")
 
         return report
