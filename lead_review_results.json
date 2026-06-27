@@ -7664,5 +7664,314 @@
     ],
     "notes_len": 1885,
     "activity_len": 1885
+  },
+  {
+    "id": "18239621",
+    "name": "Logging Out...",
+    "crm_name": "Judy Malavazos",
+    "phone": "+15305625914",
+    "email": "",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "",
+    "flags": [
+      "Already listed",
+      "Follow up",
+      "Interested",
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Note updated by Francis Honor Quest",
+      "Phone Number: (530) 582-4286",
+      "judy_feldhausen@yahoo.com",
+      "Phone Number: (702) 265-3501",
+      "The lead called and mentioned that she is interested in selling her property. Successfully transferred the call to Juan.",
+      "Campaign Name: Notice of Default",
+      "Property Address: 13420 NORTHWOODS BLVD,",
+      "Full Name: Judy Malavazos",
+      "Relationship to Property: Owner",
+      "Reason for Selling: Lead will buy a new property in Miami.",
+      "Default Amount (foreclosure): $134,500",
+      "Verify Caller\u2019s Information with Propertyradar: MALAVAZOS TRUST",
+      "Confirm Property Ownership: Yes",
+      "Additional Documents/Information: Once the lead has send the pictures needed. Final offer will be made.",
+      "Note updated by Rowena Garino"
+    ],
+    "notes_len": 6000,
+    "activity_len": 6000
+  },
+  {
+    "id": "18151740",
+    "name": "Logging Out...",
+    "crm_name": "Rovi Jordan",
+    "phone": "+16506426883",
+    "email": "",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "Liens",
+      "Mailed Checks",
+      "Off-Market"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "Not interested. Replied STOP to opt out the number and to stop the automation- Cancelled",
+      "Tried to called the lead, ring once but no answer. Auto drop call",
+      "Routed to VM, left a VM message",
+      "Note updated by Arly Honor Quest",
+      "next action: to follow up",
+      "Texted the lead: Hi Rovi, Arls here. Can you confirm if the check has arrived at 841 6th Ave, San Bruno, Ca 94066 on your end? Appreciate your prompt response.",
+      "Lead replied: Yes I received the check",
+      "Response to the lead: Great! I'm glad to hear you received the check. To give you some context, the check we sent represents an initial offer for your property. Are you considering or interested in selling your property? If you need any further clarification or have any questions, please let me know.",
+      "Lead replied: Thanks. We are not considering selling at the moment.",
+      "Response to the lead: Thank you for letting me know. If you happen to change your mind in the future, please don't hesitate to reach out to us.",
+      "Review Lead Status for [First Name] - Day 120 Follow-Up",
+      "Review Lead Status for [First Name] - Day 150 Follow-Up"
+    ],
+    "notes_len": 3100,
+    "activity_len": 3100
+  },
+  {
+    "id": "18142185",
+    "name": "Logging Out...",
+    "crm_name": "Richard  Jimenez",
+    "phone": "+17077125027",
+    "email": "",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "",
+    "flags": [
+      "Automation In Progress",
+      "Follow up",
+      "High Equity"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "Texted the lead: Hi RICHARD, Arls here from the team. Just wanted to ensure the check reached 310 Thomas Ave, Vallejo, CA 94590 safely. Can you confirm receipt?",
+      "Lead replied: You have the wrong number. This is not Richard.",
+      "Review Lead Status for [First Name] - Day 120 Follow-Up",
+      "Review Lead Status for [First Name] - Day 150 Follow-Up"
+    ],
+    "notes_len": 1549,
+    "activity_len": 1549
+  },
+  {
+    "id": "18135971",
+    "name": "Logging Out...",
+    "crm_name": "DAVID  PALAFOX",
+    "phone": "+15103312246",
+    "email": "",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "11004 Estepa Dr Oakland CA",
+    "flags": [
+      "Automation In Progress",
+      "Follow up",
+      "Intra Family Sale"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "Note updated by Jonathan Rosanes",
+      "Smarter Contact conversation:",
+      "Hi DAVID, Princes here. Can you confirm if the check has arrived at 11004 Estepa Dr on your end? Appreciate your prompt response.",
+      "\"Hi David, I'm following up to confirm if the check has arrived at 11004 Estepa Dr. Please let me know if you have received it or if you have any questions. Your prompt response would be greatly appreciated. \"",
+      "Review Lead Status for [First Name] - Day 120 Follow-Up",
+      "Review Lead Status for [First Name] - Day 150 Follow-Up"
+    ],
+    "notes_len": 2005,
+    "activity_len": 2005
+  },
+  {
+    "id": "18133676",
+    "name": "Logging Out...",
+    "crm_name": "FREDDY  CASTRO",
+    "phone": "+12096842902",
+    "email": "",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "2530 Alexa Way Stockton CA",
+    "flags": [
+      "Follow up",
+      "Intra Family Sale"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "Note updated by Jonathan Rosanes",
+      "Smarter contact conversation:",
+      "\"Hello FREDDY, Princes here. I hope the check has been received at 2530 Alexa Way. Please let me know when it arrives. Thanks!\"",
+      "Lead replied: What check?",
+      "\"We are a home buying company for over 23 years. We sent a check at your address and it represents our initial offer for purchasing your property. If you have any question or concerns do not hesitate to reach out. Have a great day!\"",
+      "No further response from the lead",
+      "Review Lead Status for [First Name] - Day 120 Follow-Up",
+      "Review Lead Status for [First Name] - Day 150 Follow-Up",
+      "Waiting for Response - Smarter Contact"
+    ],
+    "notes_len": 2160,
+    "activity_len": 2160
+  },
+  {
+    "id": "18133078",
+    "name": "Logging Out...",
+    "crm_name": "ANTHONY  GLENN",
+    "phone": "+15108522150",
+    "email": "",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "1118 72nd Ave Oakland CA",
+    "flags": [
+      "Follow up",
+      "Intra Family Sale"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "Note updated by Jonathan Rosanes",
+      "Smarter contact conversation:",
+      "\"Hello ANTHONY, Princes here. Has the check made it to 1118 72nd Ave without any issues? Your update would be appreciated!\"",
+      "Lead missed call. No further response yet.",
+      "Review Lead Status for [First Name] - Day 120 Follow-Up",
+      "Review Lead Status for [First Name] - Day 150 Follow-Up"
+    ],
+    "notes_len": 1578,
+    "activity_len": 1578
+  },
+  {
+    "id": "18108136",
+    "name": "Logging Out...",
+    "crm_name": "ANDY AKAY",
+    "phone": "+19258487869",
+    "email": "man.andyakay@hotmail.com",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "Mailed Checks",
+      "Notice of Trustee Sale (NTS)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Notice of Trustee Sale (NTS)",
+      "Note updated by Rowena Garino",
+      "Notes: Lead is interested in selling. Lead is from smarter contact.",
+      "Next Action: To be endorse to Ms. Cherry or Juan",
+      "CAMPAIGN NAME: California NTS. 1st Mail (07/12/2024). Text 07/17/2024",
+      "PROPERTY ADDRESS: 85 LA ESPIRAL, ORINDA, CA 94563",
+      "gracie_way@yahoo.com /(925) 848-7869",
+      "Relationship to Property: Owner",
+      "Urgency:(How soon do they wanna close/sell):na",
+      "Willingness to Negotiate: na",
+      "General Condition:Recent Renovations/Repairs :na",
+      "Preferred Dates/Times: na",
+      "Default Amount (foreclosure): $520,000",
+      "Verify Caller\u2019s Information with Propertyradar: Matched with property radar",
+      "Confirm Property Ownership: Owner"
+    ],
+    "notes_len": 5781,
+    "activity_len": 5781
+  },
+  {
+    "id": "18066734",
+    "name": "Logging Out...",
+    "crm_name": "WARBURTON BRADLEY",
+    "phone": "+14025193409",
+    "email": "",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "Interested"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Note by Laine Bullseyebranding",
+      "Cherry spoke with the lead, he will send pictures of the property on Monday morning . We need to send the list of things or part of the house that we need pictures of.",
+      "Campaign: USA Notice of Default",
+      "zrizvi@snowblinkproductions.com",
+      "Lead called and interested in selling the property.",
+      "Incoming Call From Direct Mail",
+      "NOD Workflow Existing Lead",
+      "Review Lead Status for [First Name] - Day 120 Follow-Up",
+      "Review Lead Status for [First Name] - Day 150 Follow-Up"
+    ],
+    "notes_len": 2723,
+    "activity_len": 2723
+  },
+  {
+    "id": "17775709",
+    "name": "Logging Out...",
+    "crm_name": "Joe Molina",
+    "phone": "+16502084735",
+    "email": "",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "",
+    "flags": [
+      "Follow up",
+      "Liens",
+      "Mailed Checks"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "Spoke with Joe and he mentioned that he is still not interested to sell this time.",
+      "Incoming Call From Direct Mail",
+      "Routed to VM, left a VM message",
+      "Note by Anjel Honor Quest",
+      "Still not decided to sell his property yet. Follow-up after 30 days",
+      "Called the lead and he is not interested in selling his property at the moment. He's still thinking about it and adv him to give us a callback once he's interested to sell his property.",
+      "Review Lead Status for [First Name] - Day 120 Follow-Up",
+      "Review Lead Status for [First Name] - Day 150 Follow-Up"
+    ],
+    "notes_len": 2679,
+    "activity_len": 2679
+  },
+  {
+    "id": "17020105",
+    "name": "Logging Out...",
+    "crm_name": "Justin  Longley",
+    "phone": "+16618174526",
+    "email": "justinpammalways@gmail.com",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "",
+    "flags": [
+      "Free & Clear",
+      "Off-Market",
+      "Property Evaluated"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "justinpammalways@gmail.com",
+      "Tried calling but it was auto disconnected.",
+      "I tried to callback the lead but it wont go through.",
+      "Next action: to follow up",
+      "Note updated by Harrise Carandang",
+      "Campaign name: Kern County Free & Clear",
+      "Date mailed: February 10, 2024",
+      "Note by Mary Grace Pardines",
+      "NEXT ACTION: Will callback again this afternoon or if the lead calls us back, please transfer the call to Cherry. thank you",
+      "$ 14,000 Real Estate Commission",
+      "$ 7,000 Mariaelena's Commission",
+      "Note updated by Mary Grace Pardines",
+      "Property has been inspected on Mar 22, contract has been physically signed.",
+      "The contract was not signed correctly but the final offer will change so its OK.",
+      "Next course of action: Endorse to Miss Cherry for follow up"
+    ],
+    "notes_len": 6000,
+    "activity_len": 6000
   }
 ]
