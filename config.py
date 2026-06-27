@@ -9,3 +9,6 @@ PASSWORD = os.getenv("REI_PASSWORD", "")
 HEADLESS = os.getenv("REI_HEADLESS", "true").lower() == "true"
 SCREENSHOT_DIR = os.getenv("REI_SCREENSHOT_DIR", "screenshots")
 TIMEOUT = int(os.getenv("REI_TIMEOUT", "30000"))
+# After login, REI Blackbook may send an email-verification (MFA) link.
+# Paste the full link from that email here to bypass the verification step.
+VERIFY_URL = os.getenv("REI_VERIFY_URL", "")

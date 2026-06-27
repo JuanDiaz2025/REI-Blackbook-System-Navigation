@@ -27,7 +27,14 @@ def main():
         sys.exit(1)
 
     if not report["login"]:
-        print("\nLogin failed. Check credentials in .env or environment variables.")
+        if report.get("mfa_required"):
+            print("\nEmail verification (MFA) required:")
+            print("  1. Check your inbox at the account email address.")
+            print("  2. Open the email from noreply@reiblackbook.com.")
+            print("  3. Copy the verification link.")
+            print("  4. Set REI_VERIFY_URL=<that link> and re-run.")
+        else:
+            print("\nLogin failed. Check credentials in .env or environment variables.")
         sys.exit(1)
 
     pages = report.get("pages_visited", [])

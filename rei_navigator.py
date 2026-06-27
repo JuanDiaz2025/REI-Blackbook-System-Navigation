@@ -84,6 +84,26 @@ class REINavigator:
         except Exception:
             return None
 
+    def _is_email_verification_page(self) -> bool:
+        return "checkEmail" in self.page.url or "verif" in self.page.url.lower()
+
+    def verify_email_link(self, verification_url: str) -> bool:
+        """
+        Complete the email-based MFA step by navigating to the verification link
+        from the email REI Blackbook sends to the account address after login.
+        """
+        print(f"  Navigating to email verification link...")
+        self.page.goto(verification_url, wait_until="domcontentloaded")
+        time.sleep(2)
+        self.screenshot("03b_after_email_verify")
+        current = self.page.url
+        if "checkEmail" not in current and "login" not in current.lower():
+            self.is_logged_in = True
+            print(f"  Email verification succeeded — URL: {current}")
+            return True
+        print(f"  Email verification may have failed — URL: {current}")
+        return False
+
     def login(self, email: str = None, password: str = None) -> bool:
         email = email or config.EMAIL
         password = password or config.PASSWORD
@@ -98,7 +118,7 @@ class REINavigator:
         self.screenshot("01_login_page")
 
         # Check if we were auto-logged in via SSO broker session restore
-        if "login" not in self.page.url.lower():
+        if "login" not in self.page.url.lower() and not self._is_email_verification_page():
             print(f"  Auto-logged in via SSO — URL: {self.page.url}")
             self.is_logged_in = True
             return True
@@ -115,39 +135,49 @@ class REINavigator:
 
         self.page.click('button[type="submit"]')
 
-        # Wait for either a redirect away from login or a networkidle
+        # Wait for redirect away from login page
         try:
             self.page.wait_for_url(
                 lambda url: "login" not in url.lower(),
                 timeout=config.TIMEOUT,
             )
-            self.is_logged_in = True
-            print(f"  Login succeeded — URL: {self.page.url}")
-            self.screenshot("03_dashboard")
-            return True
         except Exception:
             pass
 
-        # Give JS a moment to show any error message
         time.sleep(2)
         self.screenshot("03_post_login")
+        current = self.page.url
 
+        # Credentials rejected
         error = self._check_login_error()
         if error:
             print(f"  Login failed: {error}")
             print("  Verify credentials: ensure REI_EMAIL/REI_PASSWORD are correct.")
-            print("  The username field accepts email addresses on this platform.")
             return False
 
-        # May have redirected somewhere unexpected
-        current = self.page.url
-        if "login" not in current.lower():
-            self.is_logged_in = True
-            print(f"  Login succeeded — URL: {current}")
-            return True
+        # Still on login page without a known error
+        if "login" in current.lower() and not self._is_email_verification_page():
+            print(f"  Login failed — still on login page: {current}")
+            return False
 
-        print(f"  Login failed — still on login page: {current}")
-        return False
+        # Email MFA verification required
+        if self._is_email_verification_page():
+            print("  Email verification required.")
+            print(f"  REI Blackbook sent a verification link to: {email}")
+            print("  Check your inbox for an email from noreply@reiblackbook.com")
+            print("  Pass the link to verify_email_link() to continue, or set")
+            print("  REI_VERIFY_URL env var and re-run.")
+            verify_url = os.environ.get("REI_VERIFY_URL", "")
+            if verify_url:
+                return self.verify_email_link(verify_url)
+            # Mark as needing verification (not a hard failure)
+            self.is_logged_in = False
+            return False
+
+        self.is_logged_in = True
+        print(f"  Login succeeded — URL: {current}")
+        self.screenshot("03_dashboard")
+        return True
 
     def get_nav_links(self) -> list[dict]:
         try:
@@ -220,6 +250,7 @@ class REINavigator:
     def run_full_navigation(self, max_pages: int = 5) -> dict:
         report = {
             "login": False,
+            "mfa_required": False,
             "dashboard": {},
             "pages_visited": [],
             "error": None,
@@ -232,7 +263,11 @@ class REINavigator:
             return report
 
         if not report["login"]:
-            report["error"] = "Login failed — check REI_EMAIL and REI_PASSWORD"
+            if self._is_email_verification_page():
+                report["mfa_required"] = True
+                report["error"] = "Email verification required — check inbox for link from noreply@reiblackbook.com, then set REI_VERIFY_URL"
+            else:
+                report["error"] = "Login failed — check REI_EMAIL and REI_PASSWORD"
             return report
 
         dashboard = self.explore_dashboard()
