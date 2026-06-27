@@ -7973,5 +7973,321 @@
     ],
     "notes_len": 6000,
     "activity_len": 6000
+  },
+  {
+    "id": "17020061",
+    "name": "Logging Out...",
+    "crm_name": "Julian  Rodriguez",
+    "phone": "+18319052596",
+    "email": "texvett56@gmail.com",
+    "last_activity": "2026-06-08",
+    "days_ago": 19,
+    "source": "",
+    "address": "",
+    "flags": [
+      "Contract Sent ",
+      "Follow up",
+      "Hot Lead",
+      "Interested",
+      "Off-Market"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "Note updated by Mary Grace Pardines",
+      "Left a message explaining the offer amount just in case he did not get it the first time",
+      "Will follow up the signed contract",
+      "Estimated Open Loans Balance$322,832",
+      "Estimated Equity $$510,513",
+      "Distance 1 hr and 38 mins",
+      "Trustee/Contact person: Julian Rodriguez",
+      "He will be selling the property asap.",
+      "He mentioned that he is the administrator of the property.",
+      "Willing to sell at $740,197 despite knowing that the property around him is worth 900,000 brcause of the amount of work needed;",
+      "Original Roof is installed, needs a new roof",
+      "Bathroom and kitchen remodeling is needed as well",
+      "he agreed to sign the contract that I will be sending him so he can also review the terms and conditions",
+      "Next course of action: create a contract and send it to him.",
+      "Note updated by Ericka Mae Due\u00f1a"
+    ],
+    "notes_len": 6000,
+    "activity_len": 6000
+  },
+  {
+    "id": "18520417",
+    "name": "Logging Out...",
+    "crm_name": "Janae Crawford",
+    "phone": "+15107760289",
+    "email": "",
+    "last_activity": "2026-06-07",
+    "days_ago": 20,
+    "source": "",
+    "address": "",
+    "flags": [
+      "Appointment Booked",
+      "PPC LEAD",
+      "Property Evaluated",
+      "Score Card"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "Note updated by Juan Diaz",
+      "Are they please make sure you have the next visit set up for this yesterday's property inspection went well I made her an offer of $550,000 I told her that I would talk to her today so if you could just continue to keep this on your radar continue to keep this live so that we can see if we can try to close this",
+      "Note updated by Cherry Hombre",
+      "Possible ARV from $700k up to $780k",
+      "We can make an offer from $500k up to $550k",
+      "Contact responds (any channel) \u2192 Add \"Re-Engaged\" tag",
+      "Phone call connects \u2192 Add \"Contacted\" tag",
+      "Lead shows interest \u2192 Add \"Hot-Lead\" tag and trigger HOT-LEAD-ALERT",
+      "Lead explicitly says not interested \u2192 Add \"Not-Interested\" tag",
+      "After 12 days with no response \u2192 Move to long-term nurture",
+      "PROPERTY-DEALINGS-REACTIVATE: Complication Recovery Workflow",
+      "Initial Phase (Dec 4-6, 2024):",
+      "Property was inspected and deemed viable for investment",
+      "Juan made a quick-close offer (10 days) to Janae, a distressed homeowner",
+      "Janae showed interest but hesitated, wanting $100 more"
+    ],
+    "notes_len": 6000,
+    "activity_len": 6000
+  },
+  {
+    "id": "20424853",
+    "name": "Logging Out...",
+    "crm_name": "No caller name",
+    "phone": "+13252081581",
+    "email": null,
+    "last_activity": "2026-06-06",
+    "days_ago": 21,
+    "source": "PPC LEAD",
+    "address": "None None None",
+    "flags": [
+      "PPC LEAD",
+      "Skip Trace \u2013 No Match",
+      "THB Inquiry Call"
+    ],
+    "status": "UNCLEAR",
+    "key_notes": [
+      "Note updated by MC Abbatuan",
+      "++No public records found.",
+      "++The number does not appear to be associated with an individual or a business."
+    ],
+    "notes_len": 1134,
+    "activity_len": 1134
+  },
+  {
+    "id": "20270529",
+    "name": "Call Summary",
+    "crm_name": "Rajinder Dhillon",
+    "phone": "+14084435805",
+    "email": "",
+    "last_activity": "2026-06-06",
+    "days_ago": 21,
+    "source": "Facebook Ads",
+    "address": "",
+    "flags": [
+      "Cherry Outbound",
+      "Facebook Leads",
+      "Follow up",
+      "Interested",
+      "Nurturing"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Note by Mary Grace Pardines",
+      "\u2022 Brief call connected with seller",
+      "\u2022 Call disconnected before discussion",
+      "\u2022 No new property or foreclosure updates obtained",
+      "\u2022 Follow-up on distressed San Jose duplex property",
+      "\u2022 Retry via Facebook Messenger",
+      "\u2022 Confirm foreclosure timeline",
+      "\u2022 Coordinate walkthrough when reconnected",
+      "Note by Andrea De La Cruz",
+      "Lead Source: Facebook inquiry",
+      "Property: San Jose (491 Ave \u2013 tenant-occupied)",
+      "In foreclosure / financial distress (cannot keep paying)",
+      "Previously tried listing \u2192 did not sell",
+      "Good overall, minor repairs needed",
+      "Long-term tenant (5+ years)"
+    ],
+    "notes_len": 3915,
+    "activity_len": 3915
+  },
+  {
+    "id": "20052737",
+    "name": "Logging Out...",
+    "crm_name": "Jedi",
+    "phone": "+17073916284",
+    "email": "",
+    "last_activity": "2026-06-05",
+    "days_ago": 21,
+    "source": "Direct Mail",
+    "address": "",
+    "flags": [
+      "Appointment Booked",
+      "Automation In Progress",
+      "Canceled Appointment",
+      "Follow up",
+      "Hot Lead",
+      "Interested",
+      "Liens",
+      "Mailed Checks"
+    ],
+    "status": "WARM",
+    "key_notes": [
+      "Note updated by Theavil Marie",
+      "Caller ID & Purpose: Jedi, homeowner, called back after receiving a notice about the property.",
+      "Property Details: Built 2005, good condition, permitted ADU, water heater recently replaced.",
+      "Motivation & Timeline: Interested in selling within the next 12 months.",
+      "Financials: Purchased for ~$1.1M; looking to sell around ~$1M.",
+      "Seller Flexibility: Open to offers based on inspection and comps.",
+      "Next Steps: Follow up after the holidays to discuss further and schedule a property inspection.",
+      "Incoming Call From Direct Mail"
+    ],
+    "notes_len": 2438,
+    "activity_len": 2438
+  },
+  {
+    "id": "19399283",
+    "name": "Logging Out...",
+    "crm_name": "Dewayne",
+    "phone": "+15107517113",
+    "email": "",
+    "last_activity": "2026-06-06",
+    "days_ago": 21,
+    "source": "PPC LEAD",
+    "address": "",
+    "flags": [
+      "Appointment Booked",
+      "Canceled Property Visit",
+      "DECLINED OFFER",
+      "General Inquiry",
+      "PPC LEAD",
+      "Sold to Realtor",
+      "THB Inquiry Call"
+    ],
+    "status": "DEAD",
+    "key_notes": [
+      "January 21, 2026 \u2013 Call Update (Ref: Nov 7, 2025) | Inspection Canceled \u2013 No Equity",
+      "Call Update \u2013 Inspection Canceled (No Equity)",
+      "Updating notes as of Jan 21, 2026; last seller conversation occurred on Nov 7, 2025.",
+      "Spoke with seller Elaine/Dwayne to provide a market and pricing update.",
+      "Inspection was canceled after review showed numbers did not support a direct cash purchase.",
+      "Estimated value discussed at $700k\u2013$750k based on Hayward market conditions at the time.",
+      "Seller disclosed loan balance approx. $750k, resulting in little to no equity.",
+      "Seller disagreed with valuation, citing a nearby fixer that sold for $733k.",
+      "Explained slowing market (30\u201360+ DOM); seller declined due to potential loss and no next steps set.",
+      "##Caller: Dewayne, homeowner in Hayward, CA.",
+      "**Reason for call: Follow-up regarding canceled inspection.",
+      "**Update given: Market analysis showed property value around $700K\u2013$750K with an existing loan of $750K, leaving no workable equity for a cash purchase.",
+      "**Duane\u2019s response: Disagreed, citing a neighboring fixer sold for $733K and insisting his home is worth more.",
+      "**Options offered: 1) List with an agent for full value, or 2) Sell to Equity Track at a loss.",
+      "###Outcome: Duane declined both, saying he won\u2019t take a loss and will explore other buyers instead."
+    ],
+    "notes_len": 6000,
+    "activity_len": 6000
+  },
+  {
+    "id": "19110034",
+    "name": "Logging Out...",
+    "crm_name": "Hugo Molina",
+    "phone": "+15103143446",
+    "email": "hugomolina@yahoo.com",
+    "last_activity": "2026-06-06",
+    "days_ago": 21,
+    "source": "",
+    "address": "",
+    "flags": [
+      "PPC LEAD",
+      "Score Card",
+      "Twin Home Buyer Web Inquiries"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Twin Home Buyer Web Inquiries",
+      "Called the lead but it went straight to VM, dropped a message.",
+      "Call Once In Late Afternoon",
+      "Called the lead but routed to VM, dropped the message.",
+      "Call once in the late afternoon",
+      "Call once in the later afternoon",
+      "Note by Andrea De La Cruz",
+      "Sent direct mail check offer to lead at 100% of estimated property value based on Redfin.",
+      "Check: https://docs.google.com/document/d/158QlzwrBU8DvPJfUD1EwK-fb-ZFcRTsrN3skSw6rxWg/edit?tab=t.0",
+      "Call once in the afternoon",
+      "Still routed to VM, dropped a message.",
+      "Called back the lead but still routed to VM- Left msg",
+      "Estimated Open Loans Balance$224,504",
+      "Estimated Equity $$604,572",
+      "If Lead answers the call - Cancel the Workflow"
+    ],
+    "notes_len": 5272,
+    "activity_len": 5272
+  },
+  {
+    "id": "18443275",
+    "name": "Logging Out...",
+    "crm_name": "Allison Lucy",
+    "phone": "+17604204387",
+    "email": "allisonlucy1034@gmail.com",
+    "last_activity": "2026-06-05",
+    "days_ago": 21,
+    "source": "",
+    "address": "1034 Crescent Dr Vista CA",
+    "flags": [
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "allisonlucy1034@gmail.com",
+      "Tried to called the lead, ring but no answer. Left a VM",
+      "I called and was routed to VM. I left a Voice Message.",
+      "I called, no one answered, got routed to VM. I left a Voice message."
+    ],
+    "notes_len": 1873,
+    "activity_len": 1873
+  },
+  {
+    "id": "18443272",
+    "name": "Logging Out...",
+    "crm_name": "Graciela Avila",
+    "phone": "+16266466622",
+    "email": "erika.avila93@gmail.com",
+    "last_activity": "2026-06-05",
+    "days_ago": 21,
+    "source": "",
+    "address": "270 E Lurelane St Rialto CA",
+    "flags": [
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Tried to call the lead, ring but no answer. Unable to leave a message due to VM box is full",
+      "I called and got routed to VM. I left a voice message."
+    ],
+    "notes_len": 1927,
+    "activity_len": 1927
+  },
+  {
+    "id": "18443271",
+    "name": "Logging Out...",
+    "crm_name": "Rebecca Stroecker",
+    "phone": "+17606788846",
+    "email": "rstrokehill76@gmail.com",
+    "last_activity": "2026-06-05",
+    "days_ago": 21,
+    "source": "",
+    "address": "37731 Quintana Dr Murrieta CA",
+    "flags": [
+      "Mailed Checks",
+      "Notice of Default (NOD)"
+    ],
+    "status": "HOT",
+    "key_notes": [
+      "Tried to called the lead, ring but no answer. Left a VM",
+      "I called and got routed to VM. I left a voice message.",
+      "I called and got rerouted to VM. I left a voice message."
+    ],
+    "notes_len": 1661,
+    "activity_len": 1661
   }
 ]
