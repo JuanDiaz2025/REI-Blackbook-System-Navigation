@@ -91771,5 +91771,213 @@
     ],
     "notes_len": 4478,
     "activity_len": 4478
+  },
+  {
+    "id": "18630586",
+    "name": "Logging Out...",
+    "crm_name": "Ignacio Hernandez",
+    "phone": "+16619126536",
+    "email": "",
+    "last_activity": "2025-01-22",
+    "days_ago": 521,
+    "source": "",
+    "address": "",
+    "flags": [],
+    "status": "DEAD",
+    "key_notes": [
+      "Note by Anjel Honor Quest",
+      "Lead is not interested in selling. Removed from the list",
+      "Incoming Call From Direct Mail"
+    ],
+    "notes_len": 1241,
+    "activity_len": 1241
+  },
+  {
+    "id": "18630471",
+    "name": "Logging Out...",
+    "crm_name": "Marketing",
+    "phone": "+17157017901",
+    "email": "",
+    "last_activity": "2025-01-22",
+    "days_ago": 521,
+    "source": "",
+    "address": "",
+    "flags": [],
+    "status": "UNCLEAR",
+    "key_notes": [
+      "Incoming Call From Direct Mail",
+      "Note updated by Anjel Honor Quest",
+      "Answered call but call got disconnected. Callback but it's a marketing call"
+    ],
+    "notes_len": 1273,
+    "activity_len": 1273
+  },
+  {
+    "id": "18630431",
+    "name": "Logging Out...",
+    "crm_name": "Marketing",
+    "phone": "+15152722667",
+    "email": "",
+    "last_activity": "2025-01-22",
+    "days_ago": 521,
+    "source": "",
+    "address": "",
+    "flags": [],
+    "status": "UNCLEAR",
+    "key_notes": [
+      "Incoming Call From Direct Mail"
+    ],
+    "notes_len": 1110,
+    "activity_len": 1110
+  },
+  {
+    "id": "18630385",
+    "name": "Logging Out...",
+    "crm_name": "Marketing",
+    "phone": "+17158005425",
+    "email": "",
+    "last_activity": "2025-01-22",
+    "days_ago": 521,
+    "source": "",
+    "address": "",
+    "flags": [],
+    "status": "UNCLEAR",
+    "key_notes": [
+      "Note updated by Arly Honor Quest",
+      "Incoming Call From Direct Mail"
+    ],
+    "notes_len": 1118,
+    "activity_len": 1118
+  },
+  {
+    "id": "18630384",
+    "name": "Logging Out...",
+    "crm_name": "Marketing",
+    "phone": "+14427444108",
+    "email": "",
+    "last_activity": "2025-01-22",
+    "days_ago": 521,
+    "source": "",
+    "address": "",
+    "flags": [],
+    "status": "UNCLEAR",
+    "key_notes": [
+      "Incoming Call From Direct Mail",
+      "Note by Anjel Honor Quest",
+      "Answered call but no one is speaking. Call got disconnected"
+    ],
+    "notes_len": 1383,
+    "activity_len": 1383
+  },
+  {
+    "id": "18630376",
+    "name": "Logging Out...",
+    "crm_name": "18630376",
+    "phone": "+17722470504",
+    "email": null,
+    "last_activity": "2025-01-22",
+    "days_ago": 521,
+    "source": "",
+    "address": "None None None",
+    "flags": [],
+    "status": "UNCLEAR",
+    "key_notes": [
+      "Tried calling but still auto disconnected.",
+      "Tried calling but it was auto disconnected.",
+      "I tried calling but it was auto disconnected. No further actions taken."
+    ],
+    "notes_len": 1376,
+    "activity_len": 1376
+  },
+  {
+    "id": "18630348",
+    "name": "Logging Out...",
+    "crm_name": "Marketing",
+    "phone": "+14425444992",
+    "email": "",
+    "last_activity": "2025-01-22",
+    "days_ago": 521,
+    "source": "",
+    "address": "",
+    "flags": [],
+    "status": "UNCLEAR",
+    "key_notes": [
+      "Note by Anjel Honor Quest",
+      "Tried calling back but no answer",
+      "Incoming Call From Direct Mail"
+    ],
+    "notes_len": 1155,
+    "activity_len": 1155
+  },
+  {
+    "id": "18630347",
+    "name": "Logging Out...",
+    "crm_name": "Marketing",
+    "phone": "+18026380130",
+    "email": "",
+    "last_activity": "2025-01-22",
+    "days_ago": 521,
+    "source": "",
+    "address": "",
+    "flags": [],
+    "status": "UNCLEAR",
+    "key_notes": [
+      "Note by Anjel Honor Quest",
+      "Incoming Call From Direct Mail"
+    ],
+    "notes_len": 1109,
+    "activity_len": 1109
+  },
+  {
+    "id": "18630344",
+    "name": "Logging Out...",
+    "crm_name": "Cassandra Burke",
+    "phone": "+14244819958",
+    "email": "",
+    "last_activity": "2025-01-22",
+    "days_ago": 521,
+    "source": "",
+    "address": "",
+    "flags": [],
+    "status": "DEAD",
+    "key_notes": [
+      "Notice of Trustee Sale (NTS)",
+      "The property was sold for $620k",
+      "Tried to call the lead but routed to VM. Left a message.",
+      "Tagged: NTS Followed Up 2|2025",
+      "Will circle back with the lead next week to see if where she stands. Tag under Nts follow up 1|2025",
+      "Seller declined the offer at $500k. Said she asked extension with the lender and currently working on that path.",
+      "**Caller : Cassandra Burke.",
+      "*Address: 13603 Chadron Avenue, Hawthorne, CA",
+      "*Currently listed for $750,000.",
+      "*Condition: Good condition; recently appraised.",
+      "*Property is in foreclosure; date set for January 31st.",
+      "*Prior buyer backed out of escrow.",
+      "*Check number from letter received: 497294.",
+      "*Amount on check: $681.75.",
+      "** Cherry to run numbers and analyze the property market to make a cash offer."
+    ],
+    "notes_len": 1150,
+    "activity_len": 3411
+  },
+  {
+    "id": "18630271",
+    "name": "Logging Out...",
+    "crm_name": "Marketing",
+    "phone": "+15188292363",
+    "email": "",
+    "last_activity": "2025-01-22",
+    "days_ago": 521,
+    "source": "",
+    "address": "",
+    "flags": [],
+    "status": "UNCLEAR",
+    "key_notes": [
+      "The call got disconnected immediately and showed as missed call, even when I answered it.",
+      "I tried to callback but I was routed to IVR system.",
+      "Incoming Call From Direct Mail"
+    ],
+    "notes_len": 1379,
+    "activity_len": 1379
   }
 ]
