@@ -108400,5 +108400,201 @@
     ],
     "notes_len": 1375,
     "activity_len": 1375
+  },
+  {
+    "id": "18472052",
+    "name": "Logging Out...",
+    "crm_name": "Isidro Avina",
+    "phone": "+16262221395",
+    "email": "avina925@gmail.com",
+    "last_activity": "2024-11-13",
+    "days_ago": 591,
+    "source": "",
+    "address": "None San Bernardino CA",
+    "flags": [],
+    "status": "DEAD",
+    "key_notes": [
+      "Call has been audited - Agent initiated a check-in call and confirmed lead is not interested to sell.",
+      "The lead speaks Spanish. He mentioned that he is not interested in selling his property."
+    ],
+    "notes_len": 1495,
+    "activity_len": 1495
+  },
+  {
+    "id": "18472051",
+    "name": "Logging Out...",
+    "crm_name": "Fernando Gutierrez",
+    "phone": "+19516349546",
+    "email": "fernandopbsinc@yahoo.com",
+    "last_activity": "2024-11-13",
+    "days_ago": 591,
+    "source": "",
+    "address": "None Rialto CA",
+    "flags": [],
+    "status": "HOT",
+    "key_notes": [
+      "Called Lead. Call disconnected and no option for VM."
+    ],
+    "notes_len": 1622,
+    "activity_len": 1622
+  },
+  {
+    "id": "18472050",
+    "name": "Logging Out...",
+    "crm_name": "Sheldon Jackson",
+    "phone": "+13148313953",
+    "email": "sjuboss@gmail.com",
+    "last_activity": "2024-11-13",
+    "days_ago": 591,
+    "source": "",
+    "address": "None Bloomington CA",
+    "flags": [],
+    "status": "HOT",
+    "key_notes": [
+      "Called Lead. Call disconnected and no option for VM."
+    ],
+    "notes_len": 1426,
+    "activity_len": 1426
+  },
+  {
+    "id": "18472049",
+    "name": "Logging Out...",
+    "crm_name": "Dianne Petrina",
+    "phone": "+17147262840",
+    "email": "diannesue@gmail.com",
+    "last_activity": "2024-11-13",
+    "days_ago": 591,
+    "source": "",
+    "address": "None Fountain Valley CA",
+    "flags": [],
+    "status": "DEAD",
+    "key_notes": [
+      "Tried to call the lead - routed to vm - left a vm",
+      "Note by Francis Honor Quest",
+      "This property is already removed from our mailing list.",
+      "Also removed \"do not mail anymore\" tag.",
+      "Note by Anjel Honor Quest",
+      "Tried calling but routed to vm. Left a msg",
+      "Removed tags: Notice of Default, NOD",
+      "Added tags: NOD Followed up 1|2025, do not mail anymore",
+      "Lead is not interested in selling"
+    ],
+    "notes_len": 2006,
+    "activity_len": 2006
+  },
+  {
+    "id": "18472048",
+    "name": "Logging Out...",
+    "crm_name": "Nadia Starner",
+    "phone": "+19493106113",
+    "email": "nstarner@gmail.com",
+    "last_activity": "2024-11-13",
+    "days_ago": 591,
+    "source": "",
+    "address": "None Capistrano Beach CA",
+    "flags": [],
+    "status": "HOT",
+    "key_notes": [
+      "Called Lead but routed to VM, left message."
+    ],
+    "notes_len": 1055,
+    "activity_len": 1055
+  },
+  {
+    "id": "18472047",
+    "name": "Logging Out...",
+    "crm_name": "Jayme Wagoner",
+    "phone": "+17143265624",
+    "email": "jayme.everett@yahoo.com",
+    "last_activity": "2024-11-13",
+    "days_ago": 591,
+    "source": "",
+    "address": "None Huntington Beach CA",
+    "flags": [],
+    "status": "DEAD",
+    "key_notes": [
+      "Not interested. Replied STOP to opt out the number and to stop the automation- Cancelled",
+      "Called Lead but routed to VM, left message.",
+      "Tried to call the lead - routed to vm - left a vm"
+    ],
+    "notes_len": 1612,
+    "activity_len": 1612
+  },
+  {
+    "id": "18472046",
+    "name": "Logging Out...",
+    "crm_name": "Tyrone Mcneil",
+    "phone": "+17143662854",
+    "email": "mcneilp@att.net",
+    "last_activity": "2024-11-13",
+    "days_ago": 591,
+    "source": "",
+    "address": "None Fullerton CA",
+    "flags": [],
+    "status": "HOT",
+    "key_notes": [
+      "Called Lead but routed to VM, left message.",
+      "Tried to call the lead - routed to vm - left a vm"
+    ],
+    "notes_len": 1275,
+    "activity_len": 1275
+  },
+  {
+    "id": "18472045",
+    "name": "Logging Out...",
+    "crm_name": "Tim Okelley",
+    "phone": "+17142221392",
+    "email": "tim@timokelley.com",
+    "last_activity": "2024-11-13",
+    "days_ago": 591,
+    "source": "",
+    "address": "None Trabuco Canyon CA",
+    "flags": [],
+    "status": "HOT",
+    "key_notes": [
+      "tried calling but routed to vm, MB is full",
+      "Tried to call the lead - VM box full - sent a text message",
+      "Call has been audited - Agent initiated a check-in call; No answer, Unable to leave a VM due to mailbox being full."
+    ],
+    "notes_len": 1881,
+    "activity_len": 1881
+  },
+  {
+    "id": "18472044",
+    "name": "Logging Out...",
+    "crm_name": "Juliana Pendergist",
+    "phone": "+19499104888",
+    "email": "julzyong@gmail.com",
+    "last_activity": "2024-11-13",
+    "days_ago": 591,
+    "source": "",
+    "address": "None Yorba Linda CA",
+    "flags": [],
+    "status": "HOT",
+    "key_notes": [
+      "tried calling but routed to vm, left a message",
+      "Tried to call the lead - routed to vm - left a vm"
+    ],
+    "notes_len": 1594,
+    "activity_len": 1594
+  },
+  {
+    "id": "18472043",
+    "name": "Logging Out...",
+    "crm_name": "Mistique Thivierge",
+    "phone": "+12098279775",
+    "email": "blackwidowg2@gmail.com",
+    "last_activity": "2024-11-13",
+    "days_ago": 591,
+    "source": "",
+    "address": "None Los Banos CA",
+    "flags": [],
+    "status": "HOT",
+    "key_notes": [
+      "Called Lead. Call disconnected and no option for VM.",
+      "Tried to call the lead twice - no answer - just ringing - no further actions taken"
+    ],
+    "notes_len": 1372,
+    "activity_len": 1372
   }
 ]
