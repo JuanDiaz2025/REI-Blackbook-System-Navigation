@@ -1,0 +1,6875 @@
+[
+  {
+    "id": "20413064",
+    "name": "\ud83d\udcde CALL SUMMARY",
+    "address": "568 La Sierra Way Gilroy",
+    "crm_status": "WARM",
+    "flags": [
+      "Follow up",
+      "Property Leads"
+    ],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20425999",
+    "name": "CALL SUMMARY",
+    "address": "4640 Ijams Road Stockton CA",
+    "crm_status": "WARM",
+    "flags": [
+      "Follow up",
+      "Postcard",
+      "THB Inquiry Call",
+      "Verified ugly house"
+    ],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20425882",
+    "name": "CALL SUMMARY",
+    "address": "24943  North Mcintire Road Clements CA",
+    "crm_status": "HOT",
+    "flags": [
+      "Facebook Ads",
+      "Follow up",
+      "Not Ready Yet",
+      "Nurture"
+    ],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20429251",
+    "name": "CALL SUMMARY",
+    "address": "17815 Woodland Ave Morgan Hill CA",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20428881",
+    "name": "CALL SUMMARY",
+    "address": "790 Snow Terrace San Jose CA",
+    "crm_status": "WARM",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20425488",
+    "name": "CALL SUMMARY",
+    "address": "1129 May Ave Modesto CA",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20425480",
+    "name": "CALL SUMMARY",
+    "address": "2740 Explorer Way Turlock CA",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20425441",
+    "name": "2900 Muir Ave #67,\u00a0Atwater, CA 95301",
+    "address": "2900 Muir Ave City of Atwater",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20403594",
+    "name": "CALL SUMMARY",
+    "address": "None None None",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20396872",
+    "name": "CALL SUMMARY",
+    "address": "5332 Guenoc Valley Ln Antioch",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20391341",
+    "name": "Call Summary",
+    "address": "281 Agata Wy Oakley",
+    "crm_status": "CLOSING",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20389618",
+    "name": "Call Summary",
+    "address": "None None None",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20375697",
+    "name": "New Web Form Filled Out (Property Leads) Frnsaw3@yahoo.com",
+    "address": "398 N Wildwood Hercules",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20270081",
+    "name": "\ud83d\udccc Situation",
+    "address": "None None None",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20269829",
+    "name": "\ud83e\uddfe Quick Summary \u2013 Spanish Call (Daphne Ct, Palo Alto)",
+    "address": "None None None",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20466615",
+    "name": "Barbara Satinsky",
+    "address": "204 Armentieres Rd",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20461026",
+    "name": "Rekha Pandya",
+    "address": "12109 Almeria Wy",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20456000",
+    "name": "Martha Reece",
+    "address": "5475 East Illinois Avenue, Fresno, CA, U",
+    "crm_status": "CLOSING",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20455961",
+    "name": "Wenjie Lei",
+    "address": "1575 79th Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20454163",
+    "name": "Kashov Sharma",
+    "address": "1000 W 26th St unit 213, Austin, TX, USA",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20452019",
+    "name": "Mark Kuizin",
+    "address": "57 Mozden Ln",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20451008",
+    "name": "Thomas Burke",
+    "address": "191 Orange St, Kingsburg, CA, USA",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20449967",
+    "name": "Mike Michaels",
+    "address": "3353 Telegraph Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20449526",
+    "name": "Mauro Delos Trinos",
+    "address": "503 Scottsville Ct",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20448343",
+    "name": "Yury Furmanov",
+    "address": "6669 Bancroft Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20448313",
+    "name": "Lakhmir Grewal",
+    "address": "4267 W Aplicella Ct",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20445003",
+    "name": "Jaimin Patel",
+    "address": "104 Woodbridge Cir, San Mateo, CA, USA",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20439302",
+    "name": "Edgard Mendez-Franco",
+    "address": "339 E Pine St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20434015",
+    "name": "Teresa Nguyen",
+    "address": "26 Big Tree Rd",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20433071",
+    "name": "20433071",
+    "address": "4917 N Holt Ave apt 103, Fresno, CA 9370",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20431777",
+    "name": "Harpreet Sandhu",
+    "address": "1015 Depot Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20430290",
+    "name": "Julio Ruiz",
+    "address": "1220 Almar St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20429582",
+    "name": "Sonny Transporter",
+    "address": "1001 Bosworth St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20429533",
+    "name": "David Lathrop",
+    "address": "531 Cestaric Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20429402",
+    "name": "Latonya Powell",
+    "address": "964 72nd Ave",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20429372",
+    "name": "Nikki Blakely",
+    "address": "1927 Terrace Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20429238",
+    "name": "Sissy Schmidt",
+    "address": "403 Pueblo Way ",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20429224",
+    "name": "Jose Ortiz",
+    "address": "793 Pasture Ave",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20429062",
+    "name": "Dave Callahan",
+    "address": "149 Kit Carson Way",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20428975",
+    "name": "Lance Shear",
+    "address": "6130 Monterey Rd",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20428912",
+    "name": "Anthony Izzo",
+    "address": "2307 Selma Ct",
+    "crm_status": "WARM",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20426027",
+    "name": "Bryant Garcia",
+    "address": "2153",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "NO_ADDRESS",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20426022",
+    "name": "Anita Rankin",
+    "address": "1747 S Harrison St",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20426018",
+    "name": "Jhanel Kies",
+    "address": "2454 Vista Grande, Fairfield, CA, USA",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20425877",
+    "name": "Justin A. Mcdonnell",
+    "address": "2001 Carmel Rnch Cir",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20425875",
+    "name": "Sameh Nawabi",
+    "address": "3918 Hummingbird Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20425570",
+    "name": "Steven Rose",
+    "address": "269 E Century Blvd",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20425568",
+    "name": "Dominique Parker",
+    "address": "728 Acacia St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20425531",
+    "name": "Sam Safa",
+    "address": "435 21st Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20425523",
+    "name": "Louis Machado",
+    "address": "1105 Courtney Way",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20425458",
+    "name": "Nicole Holmes",
+    "address": "580 North Ave",
+    "crm_status": "WARM",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20425455",
+    "name": "Aaron Williams",
+    "address": "3600 Rio Grande Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20425377",
+    "name": "Diana Lyons",
+    "address": "5912 Green Glen Way",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20425319",
+    "name": "Gloria Rios",
+    "address": "1732 Oakmont Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20424008",
+    "name": "Ken Tutt",
+    "address": "19581 Claremont Rd",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20419687",
+    "name": "Angelina Stafford",
+    "address": "2475 Fordham St",
+    "crm_status": "CLOSING",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20418402",
+    "name": "Maria Morrow",
+    "address": "680 Eastbrook Way",
+    "crm_status": "WARM",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20413799",
+    "name": "Robert Peacock",
+    "address": "2750 Tachevah Dr",
+    "crm_status": "CLOSING",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20409779",
+    "name": "Jon Doe",
+    "address": "487 main",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20409718",
+    "name": "Susan",
+    "address": "11010 Summerhome Park Rd",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20409711",
+    "name": "Vijay Thota",
+    "address": "176 W Lucita Way",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20408053",
+    "name": "Samuel Gegner",
+    "address": "320 Boyes Blvd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20404475",
+    "name": "Debra Cake",
+    "address": "10 Ashton Ct",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20403102",
+    "name": "Joann Costello",
+    "address": "95 La Habra",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20396017",
+    "name": "M B",
+    "address": "2333 Mowry Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20391433",
+    "name": "Jennifer Nicholas",
+    "address": "2942 Warrington Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20383279",
+    "name": "Louis Or Vivian San Juan",
+    "address": "522 Seacliff Pl",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20357116",
+    "name": "Akhila Klein",
+    "address": "700 Livingston Pl",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20321614",
+    "name": "Howard",
+    "address": "509 Birch St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20234112",
+    "name": "Sylvia Mills",
+    "address": "1033 Meadowsweet Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20217530",
+    "name": "Barbara  Bray",
+    "address": "2442 Dunaway Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20137057",
+    "name": "Samuel Garcia",
+    "address": "1413 Clemence Ct",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20128291",
+    "name": "Latoya Rubin Allen",
+    "address": "968",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "NO_ADDRESS",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20122864",
+    "name": "Bill",
+    "address": "PO Box 1731",
+    "crm_status": "CLOSING",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20118175",
+    "name": "Rich Gregory",
+    "address": "103",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "NO_ADDRESS",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20113394",
+    "name": "Caller name not provided",
+    "address": "1535   ",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "NO_ADDRESS",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20063190",
+    "name": "Tuan Lai",
+    "address": "6175 Oneida Dr",
+    "crm_status": "CLOSING",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "20044236",
+    "name": "Robert Vinay",
+    "address": "1570 WINDING WAY",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "19396564",
+    "name": "Blanca Contreras",
+    "address": "2603 Alice Way",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "19181751",
+    "name": "JOHN E ONOFE",
+    "address": "5758 Tournament Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "19179973",
+    "name": "Rajkumar Singh",
+    "address": "539 New Well Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "19179793",
+    "name": "Charlotte Bradley",
+    "address": "127 Sprindrift Dr",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "19171990",
+    "name": "William",
+    "address": "38001 Fremont Blvd",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "19166005",
+    "name": "Angelina",
+    "address": "18632 GALATINA ST",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "19130977",
+    "name": "Don Pascual",
+    "address": "653 Stonewood Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18978383",
+    "name": "Elise",
+    "address": "32 Ross Valley Dr",
+    "crm_status": "CLOSING",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18859733",
+    "name": "Kimata",
+    "address": "18400 Railroad Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18836461",
+    "name": "Dwayne Nelson",
+    "address": "701 W Lane C",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18752978",
+    "name": "Eric Eriksson",
+    "address": "905 Minnesota St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18590666",
+    "name": "Dee  Swanson",
+    "address": "616 4th St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18480862",
+    "name": "Marlene e rivera",
+    "address": "421 W 3rd St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18477179",
+    "name": "Michael Cole",
+    "address": "531 Brighton Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18455415",
+    "name": "Kwisuk Sanchez",
+    "address": "1502 Magazine St",
+    "crm_status": "CLOSING",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18444017",
+    "name": "Richard Taylor",
+    "address": "570 Hampton Rd",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18444015",
+    "name": "Denise Esseff",
+    "address": "2365 Cragmont Ct",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18444013",
+    "name": "Lisa Lieurance",
+    "address": "2183 W Monache Ln",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18444012",
+    "name": "Dominique Boyce",
+    "address": "2508 E 7th St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18444011",
+    "name": "Ivan Castro",
+    "address": "1471 Lloyd Thayer Cir",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18444010",
+    "name": "Clarence Marquez",
+    "address": "5915 Riverbank Cir",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18444009",
+    "name": "Leopoldo Castanon",
+    "address": "7445 Star Pine Cir",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18444008",
+    "name": "Crystal Banuelos",
+    "address": "1316 Davidson Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18444007",
+    "name": "James Bouris",
+    "address": "9241 Katena Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18444006",
+    "name": "Natalya Trotsyuk",
+    "address": "3425 Spring Rose Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18444005",
+    "name": "Carol Greenan",
+    "address": "2011 Kellogg Way",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18444004",
+    "name": "Agueda Cruz",
+    "address": "13 Plaza Avila",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18444003",
+    "name": "Martin Marine",
+    "address": "238 Starboard Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18444002",
+    "name": "Michael Esch",
+    "address": "3375 Amy Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18444001",
+    "name": "Yolanda Villasenor",
+    "address": "2530 E Maverick Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18444000",
+    "name": "Soledad Reyes",
+    "address": "4701 Windsong Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443999",
+    "name": "Thuy Kawasaki",
+    "address": "1261 E Santa Ana St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443998",
+    "name": "Dan Sizemore",
+    "address": "788 Via Los Andes St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443995",
+    "name": "Pacita Salango",
+    "address": "11444 177th St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443992",
+    "name": "Alma Hernandez",
+    "address": "847 W 81st St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443991",
+    "name": "Patricia Layman",
+    "address": "1009 Del Rio Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443989",
+    "name": "Ricardo Stewart",
+    "address": "20629 Londelius St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443987",
+    "name": "Alon Darvish",
+    "address": "224 S Hamilton Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443985",
+    "name": "Maria Gonzalez",
+    "address": "432 Scarlet Oak Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443984",
+    "name": "Rhya Gilliam",
+    "address": "6202 Truckee Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443982",
+    "name": "Richard Laczko",
+    "address": "4779 Cortez Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443979",
+    "name": "Karen Simmons",
+    "address": "743 Cinnabar Hls",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443976",
+    "name": "Robert Castro",
+    "address": "15347 Linden St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443973",
+    "name": "Virginia Lopez",
+    "address": "25678 Delphinium Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443972",
+    "name": "Grace Williams",
+    "address": "1140 Yorba St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443971",
+    "name": "Jamaiia Bond",
+    "address": "19426 Nestor Ave, Carson, Ca 90746",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443969",
+    "name": "Della Portrey",
+    "address": "10718 Pinebrook Falls Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443967",
+    "name": "Delbert Hake",
+    "address": "2721 Rose Marie Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443966",
+    "name": "Scott Than",
+    "address": "1202 Viejo Hills Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443965",
+    "name": "Manuel Pena",
+    "address": "205 Primrose Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443963",
+    "name": "Wanda Ford",
+    "address": "2141 Eicher Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443961",
+    "name": "Rachel Brinton",
+    "address": "29544 Bright Spot Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443960",
+    "name": "Kenneth Chin",
+    "address": "18845 Sahale Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443959",
+    "name": "Matthew Esber",
+    "address": "34316 Sherwood Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443958",
+    "name": "Juan Delacruz",
+    "address": "8865 Sewell Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443957",
+    "name": "Antwaun Ventress",
+    "address": "3153 Bridgeford Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443956",
+    "name": "Ava Smith",
+    "address": "2591 Wright St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443955",
+    "name": "Carolina Munar",
+    "address": "8411 Jordan Ranch Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443954",
+    "name": "Maria Rocha",
+    "address": "4037 Wyalong Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443953",
+    "name": "Eric Olsen",
+    "address": "5401 Priscilla Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443952",
+    "name": "Sylvia Terrazas",
+    "address": "2165 S Troy St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443951",
+    "name": "Donna Nelson",
+    "address": "17808 Oak St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443949",
+    "name": "Angel Garcia",
+    "address": "149 Bluegrass St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443948",
+    "name": "Stephanie Sponsel",
+    "address": "19271 Surf Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443947",
+    "name": "Chase Bombola",
+    "address": "2900 Catalpa St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443946",
+    "name": "Don Phan",
+    "address": "7566 E Woodsboro Ave",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443945",
+    "name": "Tania Guzman",
+    "address": "1107 Paseo Grande",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443944",
+    "name": "Lauren Badajos",
+    "address": "3813 Lincoln Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443943",
+    "name": "Flor Sosa",
+    "address": "13244 Leffingwell Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443942",
+    "name": "Kathleen Michaelis",
+    "address": "1603 Sunnyside Ter",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443941",
+    "name": "Floripes Rodriguez",
+    "address": "285 E Marker St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443939",
+    "name": "Edith Lazo",
+    "address": "9614 Lundahl Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443938",
+    "name": "Rene Carcamo",
+    "address": "8656 Jellico Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443937",
+    "name": "William Klatt",
+    "address": "2160 E Newgrove St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443936",
+    "name": "Lisa Hines",
+    "address": "15606 Simonds St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443935",
+    "name": "Roberto Avina",
+    "address": "17314 Halsey St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443932",
+    "name": "Abdelmoniem Ibrahim",
+    "address": "2430 8th Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443931",
+    "name": "Carol Young",
+    "address": "2910 Virginia Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443930",
+    "name": "Kamala Chari",
+    "address": "22146 Cantara St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443929",
+    "name": "Kevin Mak",
+    "address": "6586 E Cetti Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443927",
+    "name": "Martha Joost",
+    "address": "19 Teal Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443926",
+    "name": "Bruce Imada",
+    "address": "2030 Truman Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443924",
+    "name": "Lynn Esquer",
+    "address": "4 Thurles Pl",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443923",
+    "name": "Kelly Hibbert",
+    "address": "2607 Lander Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443922",
+    "name": "Gabriela Dena",
+    "address": "2067 Spyglass Trl E",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443921",
+    "name": "Valentina Martinez",
+    "address": "3900 Ocean Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443920",
+    "name": "Terrance Murphy",
+    "address": "1601 Grand Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443919",
+    "name": "Mark Slay",
+    "address": "1422 Ridgecrest Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443918",
+    "name": "Kirk Wenzel",
+    "address": "1027 W Elm St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443917",
+    "name": "Carla Sandoval",
+    "address": "3507 Northstar Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443913",
+    "name": "Radinelo Salvaleon",
+    "address": "5922 Sawgrass Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443912",
+    "name": "Mayra Manzo",
+    "address": "7755 Merito Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443911",
+    "name": "Diana Zaragoza",
+    "address": "9511 Monte Vista St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443910",
+    "name": "Macario Tzul",
+    "address": "1256 Massachusetts Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443908",
+    "name": "April Johnson",
+    "address": "5985 Central Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443906",
+    "name": "Michael Lott",
+    "address": "2011 Whispering Glen Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443905",
+    "name": "Randy Ford",
+    "address": "8361 Friesland Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443904",
+    "name": "James Votaw",
+    "address": "452 S Swidler Pl",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443903",
+    "name": "Zarina Weller",
+    "address": "1114 W Tudor St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443900",
+    "name": "Socorro Olivas",
+    "address": "3217 Virginia St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443897",
+    "name": "Ashley Towe",
+    "address": "15841 Napa St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443896",
+    "name": "Gloria Berlin",
+    "address": "6524 Petit Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443895",
+    "name": "Haron Yam",
+    "address": "5142 Brynhurst Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443894",
+    "name": "Pierre Desrosiers",
+    "address": "5727 S St Andrews Pl",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443893",
+    "name": "Maria Solis",
+    "address": "235 Fuller St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443891",
+    "name": "Laurie Korner",
+    "address": "406 Cape May Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443890",
+    "name": "Kelli Allen",
+    "address": "323 Rockport Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443889",
+    "name": "Concepcion Lopez",
+    "address": "3906 Alta Vista Cir",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443886",
+    "name": "Stephfan Jackson",
+    "address": "9503 Ravenna Ln",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443885",
+    "name": "Baohan Tran",
+    "address": "10727 Waterbury Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443884",
+    "name": "Angelica Vindel",
+    "address": "2652 Subol Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443883",
+    "name": "Patrick Arslanian",
+    "address": "4260 Gila Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443882",
+    "name": "Quang Ho",
+    "address": "7046 Piedmont St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443881",
+    "name": "Amanda Christensen",
+    "address": "9097 Caldera Way",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443880",
+    "name": "Julio Albarran Ramirez",
+    "address": "9460 Blue Mountain Way",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443877",
+    "name": "Ruby Shears",
+    "address": "2705 Lake St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443876",
+    "name": "Lisa Adams",
+    "address": "3271 Collingswood Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443875",
+    "name": "Ahmed Abdeldayem",
+    "address": "2307 Ostera St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443873",
+    "name": "Patricia Robles",
+    "address": "741 Christensen Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443872",
+    "name": "Editha Venua",
+    "address": "117 Castile St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443870",
+    "name": "Clifford Labastida",
+    "address": "1035 Balboa Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443869",
+    "name": "John Wetzel",
+    "address": "7307 Lowell Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443868",
+    "name": "Veronica Villanueva",
+    "address": "1812 Holly Oak Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443867",
+    "name": "Amy Leung",
+    "address": "26990 N Broadway",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443866",
+    "name": "Alanna Coppenger",
+    "address": "502 W Grevillea St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443865",
+    "name": "Katya Martinez",
+    "address": "1918 W Admiralty St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443864",
+    "name": "Keyna Coleman",
+    "address": "141 Lyman Cir",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443863",
+    "name": "Christopher Raynes",
+    "address": "2639 Notre Dame Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443862",
+    "name": "Matthew Jordan",
+    "address": "4326 Hartland Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443860",
+    "name": "Beatriz Sanchez",
+    "address": "1448 Malaga Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443859",
+    "name": "Mary Recupero",
+    "address": "36523 Fan Palm Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443855",
+    "name": "Crystal Bethke",
+    "address": "2771 Pennefeather Ln",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443850",
+    "name": "Erlinda Johnson",
+    "address": "1742 Clay St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443849",
+    "name": "Gordon Farmer",
+    "address": "1908 N Terrace Ct",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443846",
+    "name": "Rose Wyrick",
+    "address": "302 W 4th St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443845",
+    "name": "Sonia Avila",
+    "address": "3630 Lomacitas Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443844",
+    "name": "Robert Sanchez",
+    "address": "153 Las Flores Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443842",
+    "name": "Guadalupe Garcez",
+    "address": "2004 E 18th St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443841",
+    "name": "Rose Serrano",
+    "address": "14234 Stanislaus Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443840",
+    "name": "Maria Lola",
+    "address": "9385 Palo Alto St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443838",
+    "name": "Larry Corte",
+    "address": "12195 Kingswood Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443837",
+    "name": "Myrna Magno",
+    "address": "10313 Miranda Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443835",
+    "name": "Eduardo Mejia",
+    "address": "18847 Lenny St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443834",
+    "name": "Anthony Ruiz",
+    "address": "276 Pingree Way",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443832",
+    "name": "Cindy Douangphouxay",
+    "address": "2750 Burl Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443831",
+    "name": "Erika Cendejas",
+    "address": "9907 Cobblestone Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443830",
+    "name": "Devinder Sahota",
+    "address": "5570 E Pitt Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443829",
+    "name": "Michael Decuir",
+    "address": "919 36th St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443827",
+    "name": "Pearlkisha Fowler",
+    "address": "1700 Walnut Meadows Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443826",
+    "name": "Wei Wu",
+    "address": "3904 Renaissance Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443825",
+    "name": "Nahar Chahal",
+    "address": "3641 Wild Oak Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443824",
+    "name": "Michel Saro",
+    "address": "4262 Windrose Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443823",
+    "name": "Carlos Gonzalez",
+    "address": "5443 Silvervale Ct",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443822",
+    "name": "Mary Clark",
+    "address": "628 Nikki Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443821",
+    "name": "Orlando Morazan",
+    "address": "8364 Bennington Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443819",
+    "name": "Edward Johnson",
+    "address": "2017 Gingerwood Pl",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443817",
+    "name": "Felizardo Torres",
+    "address": "1919 Winchester Pl",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443816",
+    "name": "Alain Layos",
+    "address": "3290 E Hills Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443815",
+    "name": "Christina Stehly",
+    "address": "3602 Plumosa Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443814",
+    "name": "Ty Tan",
+    "address": "2251 Glenn Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443812",
+    "name": "Maria Alcaraz",
+    "address": "2879 Butte Creek Pl",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443811",
+    "name": "Irma Camberos",
+    "address": "7845 Whitewood Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443810",
+    "name": "Anthony Santana",
+    "address": "968 E J St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443809",
+    "name": "Lara Fakhoury",
+    "address": "1243 Jacaranda Pl",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443808",
+    "name": "Karim Shabazz",
+    "address": "3029 Parvin Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443807",
+    "name": "Jorge Galicia",
+    "address": "2118 Lavon Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443806",
+    "name": "Edwin Martinez",
+    "address": "6348 Show Horse Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443805",
+    "name": "Gina Elias",
+    "address": "11881 Calabash Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443804",
+    "name": "Phyllis Williams",
+    "address": "1243 E Merion Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443803",
+    "name": "Michael Byrd",
+    "address": "705 Sequoia St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443802",
+    "name": "Juan Poot",
+    "address": "1725 N Orange Pl",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443801",
+    "name": "Sami Dashisha",
+    "address": "7712 Renton Way",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443800",
+    "name": "Jason King",
+    "address": "2623 57th St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443799",
+    "name": "Dolores Lobatos",
+    "address": "622 S St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443798",
+    "name": "Antonio Lumawig Jr.",
+    "address": "623 S Homerest Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443797",
+    "name": "Mario Sanchez",
+    "address": "286 W Renwick Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443796",
+    "name": "Marilyn Driftmier",
+    "address": "637 N Chapman St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443795",
+    "name": "Osvaldo Rocha",
+    "address": "10414 Imperial Hwy",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443789",
+    "name": "George Lartundo",
+    "address": "9318 Walnut Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443788",
+    "name": "Michael Garrett",
+    "address": "3337 Iroquois Ave",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443787",
+    "name": "Kassandra Calderon",
+    "address": "6132 Pine Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443786",
+    "name": "Carlisa Carter",
+    "address": "1644 E 122nd St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443785",
+    "name": "Beverly Kelly",
+    "address": "550 W Cypress Cir",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443781",
+    "name": "Sharnee Watson",
+    "address": "10437 W Zamora Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443780",
+    "name": "E Dodd",
+    "address": "1047 W 64th St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443778",
+    "name": "Isabel Pablos",
+    "address": "279 Parke St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443777",
+    "name": "Artine Safarian",
+    "address": "1951 Erin Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443775",
+    "name": "Crystal Cornejo",
+    "address": "3121 W Avenue J4",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443774",
+    "name": "Michelle Nerio",
+    "address": "39428 Southcliff Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443773",
+    "name": "Juan Urbina",
+    "address": "2611 Round Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443772",
+    "name": "Eric Rasmussen",
+    "address": "1261 Cambridge Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443770",
+    "name": "Young Yi",
+    "address": "840 S Hoover St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443769",
+    "name": "Juan Alvarez",
+    "address": "1327 E 56th St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443768",
+    "name": "Cathy Vause",
+    "address": "713 N Brand Blvd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443767",
+    "name": "Jonathan Shestack",
+    "address": "1130 Westchester Pl",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443765",
+    "name": "Eddie Elloie",
+    "address": "4551 Don Miguel Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443764",
+    "name": "Edgar Khachatryan",
+    "address": "14827 Valerio St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443762",
+    "name": "Jessica Thumati",
+    "address": "500 S Allen Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443761",
+    "name": "Eulalio Salve",
+    "address": "1508 Cajon Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443760",
+    "name": "Wade Riley",
+    "address": "1146 W 91st St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443757",
+    "name": "Maria Omos",
+    "address": "1125 N Bollinger St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443756",
+    "name": "Sandra Wilson",
+    "address": "559 E Wigeon Way",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443755",
+    "name": "Anthony Olvera",
+    "address": "1533 Norton St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443753",
+    "name": "Fernando Lucero",
+    "address": "2267 Harrison Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443752",
+    "name": "Nicholas Cosato",
+    "address": "2223 Rosemont Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443750",
+    "name": "Margaret Lewis",
+    "address": "35890 Butchart St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443749",
+    "name": "Leslie Aguilar",
+    "address": "28863 Quail Pl",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443748",
+    "name": "Robert Taylor",
+    "address": "6309 Castle Cary Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443747",
+    "name": "Arturo Ramirez",
+    "address": "28500 Songbird Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443746",
+    "name": "Servando Pelaez",
+    "address": "29392 Cascade Ct",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443745",
+    "name": "Michael Green",
+    "address": "1695 Fox Springs Cir",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443744",
+    "name": "Teresa Zermeno",
+    "address": "2459 Eureka Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443743",
+    "name": "Derek Rudd",
+    "address": "1420 Osprey Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443742",
+    "name": "Gurpreet Dosanjh",
+    "address": "996 Beymer Loop",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443741",
+    "name": "Chris Eggers",
+    "address": "401 Camellia Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443740",
+    "name": "Ashley Gangi",
+    "address": "7183 Alder Spring Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443738",
+    "name": "Richelle Tamez",
+    "address": "3006 Little Wood Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443737",
+    "name": "Michael Armstrong",
+    "address": "2905 Warburton Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443736",
+    "name": "Xuandao Ngo",
+    "address": "1050 Starlite Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443735",
+    "name": "Jason Herrera",
+    "address": "632 Newman Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443734",
+    "name": "Ryan Custodio",
+    "address": "1079 Navigator Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443733",
+    "name": "Ariel Cruz",
+    "address": "2535 Rosemarie Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443732",
+    "name": "Ricardo Barragan",
+    "address": "3003 Golden Poppy Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443731",
+    "name": "Thomas Pham",
+    "address": "12571 Chimney Rock Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443730",
+    "name": "Makayla Arretche",
+    "address": "10850 Colusa St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443729",
+    "name": "Kathryn Rains",
+    "address": "26175 Mirada St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443727",
+    "name": "Linda Dichristina",
+    "address": "6633 Central Park Ct",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443726",
+    "name": "Duc Nguyen",
+    "address": "9373 Waddell Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443725",
+    "name": "Christina Phillips",
+    "address": "1781 60th Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443724",
+    "name": "Nicole Fernandez",
+    "address": "81799 Villa Giardino Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443723",
+    "name": "Lourdes Martinez",
+    "address": "11237 Saddle Ridge Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443722",
+    "name": "Ryan Raven",
+    "address": "4411 Emerson St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443721",
+    "name": "Victor Meza",
+    "address": "33115 Trabuco Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443718",
+    "name": "Denise Mcgranahan",
+    "address": "30823 Calle Chueca",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443717",
+    "name": "Jose Aparicio",
+    "address": "7330 E Calle Durango",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443716",
+    "name": "Katie Rojano",
+    "address": "419 E Benbow St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443715",
+    "name": "Tyronne Munoz",
+    "address": "10924 Kane Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443714",
+    "name": "Alejandro Biton",
+    "address": "4119 Chapelle Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443710",
+    "name": "Julia Aponte",
+    "address": "9618 Brock Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443707",
+    "name": "Catrissa Seale",
+    "address": "10034 S Hobart Blvd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443706",
+    "name": "Jesse Wallace",
+    "address": "403 E 91st St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443705",
+    "name": "Cameron Culton",
+    "address": "638 W 90th St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443704",
+    "name": "Mattie Stewart",
+    "address": "1962 N Los Robles Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443702",
+    "name": "Frances Thorsen",
+    "address": "165 White Oak Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443700",
+    "name": "Katia Ahmed",
+    "address": "3876 Madison Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443698",
+    "name": "Jeffrie Wheatly",
+    "address": "3635 E Avenue H9",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443697",
+    "name": "Orlando Molina",
+    "address": "45427 Gadsden Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443695",
+    "name": "Mahtab Mojab",
+    "address": "3670 Barry Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443694",
+    "name": "Lisa Sanderson",
+    "address": "4259 Jasmine Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443692",
+    "name": "Arleen Wilder",
+    "address": "1430 Springline Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443691",
+    "name": "Alejandrina Rodriguez",
+    "address": "1132 W 55th St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443690",
+    "name": "Karla Saud Calero",
+    "address": "19461 Keswick St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443689",
+    "name": "Christine Conomikes",
+    "address": "4825 Adele Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443688",
+    "name": "Kay Roberts",
+    "address": "2214 Alturas Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443687",
+    "name": "Christian Romero",
+    "address": "1108 Cordova Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443686",
+    "name": "Eileen Mo",
+    "address": "701 Hancock Way",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443685",
+    "name": "Hussein Hodhod",
+    "address": "2068 Drysdale St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443684",
+    "name": "Jude Rand",
+    "address": "1687 Observation Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443682",
+    "name": "Kari Abbott",
+    "address": "420 Legacy Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443681",
+    "name": "William Yan",
+    "address": "2617 E Tatum Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443680",
+    "name": "Derek Kenney",
+    "address": "695 Kilarney Ct",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443679",
+    "name": "Josh Cross",
+    "address": "11506 Piona Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443676",
+    "name": "Joe Kennedy",
+    "address": "4494 La Cuenta Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443675",
+    "name": "Simon Kisini",
+    "address": "7868 El Dorado St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443674",
+    "name": "Crystal Felts",
+    "address": "20720 Memory Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443673",
+    "name": "Brandy Buchanan",
+    "address": "16580 Gala Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443672",
+    "name": "Gina Coates",
+    "address": "5449 Birk Way",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443671",
+    "name": "Julie Graves",
+    "address": "13122 Briar St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443670",
+    "name": "Margarita Castillo",
+    "address": "25835 Thundercloud Ct",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443669",
+    "name": "Brandon Christensen",
+    "address": "705 Cougar Ranch Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443668",
+    "name": "Edna Medina",
+    "address": "1453 Park Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443666",
+    "name": "John Connors Jr.",
+    "address": "40995 Burgess Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443665",
+    "name": "Ferdinand Evaldez",
+    "address": "2331 W Transit Ave",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443663",
+    "name": "Andrew Kanzler",
+    "address": "13011 Nina Pl",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443662",
+    "name": "Peter Gomez",
+    "address": "17832 Hurley St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443660",
+    "name": "Donna Welch",
+    "address": "227 E Cherry Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443658",
+    "name": "Rodrigo Plata",
+    "address": "600 S Bullis Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443657",
+    "name": "Daniel Pena",
+    "address": "328 W Floral Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443656",
+    "name": "Marrion Tryon",
+    "address": "3419 Montellano Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443654",
+    "name": "Felipe Contreras",
+    "address": "3716 Flora Ave",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443653",
+    "name": "Harutyun Klian",
+    "address": "17943 Lone Oak Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443652",
+    "name": "Guadalupe Villalobos",
+    "address": "13051 Vaughn St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443651",
+    "name": "Tatiana Andrade",
+    "address": "13507 Hart St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443649",
+    "name": "James Melton",
+    "address": "4149 N Ricewood Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443648",
+    "name": "Ivette Jauregui",
+    "address": "574 S Dee Ann Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443643",
+    "name": "Sara Smith",
+    "address": "2335 Westview Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443642",
+    "name": "Kevin Sousa",
+    "address": "1201 Harding Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443641",
+    "name": "Lucresia Amezcua",
+    "address": "3807 Loto Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443639",
+    "name": "Tiaone Green",
+    "address": "5643 Westchester Cir",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443638",
+    "name": "Shanell Kattoula",
+    "address": "10185 Destiny Mountain Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443636",
+    "name": "Marci Castillo",
+    "address": "4635 Paola Pl",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443635",
+    "name": "Beatriz Atempa",
+    "address": "1030 S Rancho Santa Fe Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443634",
+    "name": "Artlette Murray",
+    "address": "14150 Coloma St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443633",
+    "name": "Terry Mayberry",
+    "address": "17911 Fresno St",
+    "crm_status": "WARM",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443631",
+    "name": "Michael Andrews",
+    "address": "1024 W Sycamore St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443630",
+    "name": "Eric Lee",
+    "address": "28365 La Bajada",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443629",
+    "name": "Nusrat Sheikh",
+    "address": "920 S Boone Cir",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443628",
+    "name": "Karin Schmidt",
+    "address": "2960 E Cromwell Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443627",
+    "name": "Humberto Merino",
+    "address": "3045 Avon Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443626",
+    "name": "Renee Beattie",
+    "address": "30 Petar Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443622",
+    "name": "Cynthia Mcfadden",
+    "address": "1424 Shasta St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443621",
+    "name": "Jeet Alam",
+    "address": "1229 Shoreline Cir",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443620",
+    "name": "Monique Lynch",
+    "address": "652 Madere St",
+    "crm_status": "WARM",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443619",
+    "name": "Virginia Mata",
+    "address": "2246 Carver Pl",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443618",
+    "name": "Dawn Tate",
+    "address": "556 Calle Florencia",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443616",
+    "name": "Sammy Arriola",
+    "address": "956 Woodstream St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443615",
+    "name": "Patrick Mcelhany",
+    "address": "1816 Cortez Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443614",
+    "name": "Papa Gakou",
+    "address": "8139 Cacus St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443613",
+    "name": "Kathy Kendrick",
+    "address": "6745 Mezin Way",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443612",
+    "name": "Frank Polek",
+    "address": "7980 Lemon Cir",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443611",
+    "name": "Marsha Porter",
+    "address": "1841 Havenwood Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443609",
+    "name": "Elizabeth Sousa",
+    "address": "12986 10th St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443608",
+    "name": "Yolanda Clark",
+    "address": "1563 W Etiwanda Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443605",
+    "name": "Maurio Miller",
+    "address": "7107 Village Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443604",
+    "name": "Ofelia Cuevas",
+    "address": "53196 Beales St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443601",
+    "name": "Lakissa Ganan",
+    "address": "46112 Toy Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443600",
+    "name": "Gemma Palmer",
+    "address": "40776 Robards Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443598",
+    "name": "Myra Tumbokon",
+    "address": "8751 Tapaderas Loop",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443596",
+    "name": "Lawrence Dike",
+    "address": "4821 W Acapulco Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443595",
+    "name": "Robert Jung",
+    "address": "12142 Shady Acre St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443594",
+    "name": "Bing Feng",
+    "address": "44 Endless Vis",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443593",
+    "name": "Nima Firoozbakhsh",
+    "address": "30166 Sonrisa Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443592",
+    "name": "Janet Cosgrove",
+    "address": "24842 Jeronimo Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443591",
+    "name": "Laurie Schwartz",
+    "address": "18091 Kirk Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443590",
+    "name": "Margarete Helmbrecht",
+    "address": "14351 Galy St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443589",
+    "name": "Danielle Lopez",
+    "address": "246 N Sunkist Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443588",
+    "name": "Maricela Contreras",
+    "address": "21204 Cold Spring Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443587",
+    "name": "Jerry Ulmer",
+    "address": "1510 S Western Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443585",
+    "name": "Sergio Cabezas",
+    "address": "43101 Lemonwood Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443584",
+    "name": "Veronica Munoz",
+    "address": "10513 Shoshone Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443583",
+    "name": "Hormoz Ramy",
+    "address": "4470 Winnetka Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443579",
+    "name": "Winona Edmonson",
+    "address": "7337 Hartley Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443577",
+    "name": "Kendra Nisbett",
+    "address": "3911 El Canto Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443576",
+    "name": "John Tran",
+    "address": "15390 Rancho Fontana Village Pkwy",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443574",
+    "name": "Michael Cervantes",
+    "address": "815 Evergreen Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443573",
+    "name": "Octavio Hernandez",
+    "address": "279 E 43rd St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443572",
+    "name": "Thomas Sandoval",
+    "address": "14732 Wilma Sue St",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443571",
+    "name": "Kimberly Feddema",
+    "address": "29928 Valle Olvera",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443569",
+    "name": "David Wheelock",
+    "address": "8704 Mesa Oak Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443567",
+    "name": "Alberto Sanchez",
+    "address": "5010 W Crystal Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443566",
+    "name": "Guillermo Villegas",
+    "address": "12172 Allard St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443565",
+    "name": "Michael Wainwright",
+    "address": "1344 W 10th St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443564",
+    "name": "Maryann Martinez",
+    "address": "1893 Queensberry Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443562",
+    "name": "Evelyn Pardo",
+    "address": "10234 Russett Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443561",
+    "name": "Shontell Rogers",
+    "address": "2737 S Bardell Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443560",
+    "name": "Ashley Riedel",
+    "address": "2410 Winter St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443559",
+    "name": "Seamak Moaven",
+    "address": "1216 Elm St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443558",
+    "name": "Sherie Hand",
+    "address": "3939 Bellwood Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443557",
+    "name": "Ben Carpio",
+    "address": "2035 Bikini Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443556",
+    "name": "Louis Burgos",
+    "address": "2250 S Leah Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443555",
+    "name": "Alex Rowe",
+    "address": "4225 Reunion Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443554",
+    "name": "Dale Caddell",
+    "address": "730 Palermo Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443553",
+    "name": "John Bender",
+    "address": "1661 San Carlos St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443551",
+    "name": "Joseph Bernardo",
+    "address": "8856 Stanwell St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443550",
+    "name": "Sally Sarmiento",
+    "address": "3152 Beven Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443548",
+    "name": "Kenneth Cox",
+    "address": "1602 Buckboard Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443547",
+    "name": "Brian Bailey",
+    "address": "29116 Lake Ridge Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443546",
+    "name": "Howard Womble",
+    "address": "1539 E Merion St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443545",
+    "name": "Karina Martin",
+    "address": "16785 Gaucho Rd",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443544",
+    "name": "Joseph Gisis",
+    "address": "27837 Busman Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443543",
+    "name": "Suzanne Berger",
+    "address": "2818 Calle Tierra Santa",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443542",
+    "name": "Saeed Ahmed",
+    "address": "16212 Maidstone Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443541",
+    "name": "Brenda Garcia",
+    "address": "3564 E 54th St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443540",
+    "name": "Jaime Gallegos",
+    "address": "9807 Madison Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443539",
+    "name": "Jaewon Lee",
+    "address": "2533 Frances Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443538",
+    "name": "Edvin Mehrabyan",
+    "address": "3906 Los Olivos Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443537",
+    "name": "Diego Bello",
+    "address": "740 N Verdugo Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443536",
+    "name": "Jennifer Solano",
+    "address": "417 E Hellman Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443535",
+    "name": "Kathleen Curtis",
+    "address": "4048 W 59th St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443534",
+    "name": "Zhanna Narinyan",
+    "address": "23934 Fambrough St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443533",
+    "name": "Stephanie Salgado",
+    "address": "7812 Kamloops Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443532",
+    "name": "Julio Benitez",
+    "address": "924 N East Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443530",
+    "name": "William Klingemann",
+    "address": "161 Boleroridge Pl",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443528",
+    "name": "Melissa Morrison",
+    "address": "1460 Via Monserate",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443527",
+    "name": "Imee Sudaria",
+    "address": "140 Morrison Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443525",
+    "name": "Dale Evans",
+    "address": "12051 Poutous Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443524",
+    "name": "Shawn Johnson",
+    "address": "6583 Kunzite Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443523",
+    "name": "Donna Daggett",
+    "address": "32866 Vine St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443522",
+    "name": "Thomas Gilbreath",
+    "address": "2130 Park Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443521",
+    "name": "Fernando Solorzano",
+    "address": "3112 Landmark Cir",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443518",
+    "name": "Horacio Quiroz",
+    "address": "1112 Flatridge Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443514",
+    "name": "Nicholas Guerrero",
+    "address": "36546 Straightaway Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443513",
+    "name": "Guillermo Castillo",
+    "address": "5218 Sierra St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443512",
+    "name": "Roshan Gravenberg",
+    "address": "25981 Camino Rosada",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443508",
+    "name": "Milene Meyer",
+    "address": "83 Berkeley Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443507",
+    "name": "Lawrence Hansen",
+    "address": "5601 Doremus Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443506",
+    "name": "Allison Lewenilovo",
+    "address": "115 Wilshire Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443504",
+    "name": "Bonnie Gruhn",
+    "address": "2207 W Avenue 133rd",
+    "crm_status": "WARM",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443503",
+    "name": "Paul Thompson",
+    "address": "5390 Carnegie Loop",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443502",
+    "name": "Yue Huang",
+    "address": "2400 Sitka St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443501",
+    "name": "Steven Ligtelyn",
+    "address": "2867 Eugene Ter",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443499",
+    "name": "Susan Malone",
+    "address": "2948 Chestnut St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443498",
+    "name": "Pernita Brown",
+    "address": "4651 Commonwealth Dr",
+    "crm_status": "WARM",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443496",
+    "name": "Linnie Moses",
+    "address": "1745 102nd Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443495",
+    "name": "Carver Westbrook",
+    "address": "1904 100th Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443494",
+    "name": "Hector Melendez",
+    "address": "9874 Toler Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443493",
+    "name": "Thomas Fotualii",
+    "address": "21852 Princeton St",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443491",
+    "name": "Jameisha Hood",
+    "address": "1031 70th Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443490",
+    "name": "Salvador Navarro",
+    "address": "2457 63rd Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443489",
+    "name": "Connie Gaona",
+    "address": "2185 41st Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443488",
+    "name": "Richard Su",
+    "address": "2237 24th Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443487",
+    "name": "Jason Mccraw",
+    "address": "235 E Pleasant St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443486",
+    "name": "Ernie Ramos",
+    "address": "12529 Elvins St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443484",
+    "name": "Jennifer Del Rosario",
+    "address": "7864 Puritan St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443483",
+    "name": "Gary Gipson",
+    "address": "1608 N Grape Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443482",
+    "name": "Thelma Minto",
+    "address": "1619 W Gage Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443481",
+    "name": "Joseph Rowe",
+    "address": "2062 W Slauson Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443480",
+    "name": "Hakop Pztikyan",
+    "address": "2273 E Woodlyn Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443477",
+    "name": "Meoshae Myles",
+    "address": "44613 Ruthron Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443476",
+    "name": "Maryetta Marks",
+    "address": "6642 S Garth Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443475",
+    "name": "L Thompson",
+    "address": "4913 W 120th St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443474",
+    "name": "Carol Thomas",
+    "address": "126 E 64th Pl",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443473",
+    "name": "Michael Pennock",
+    "address": "43245 Sunny Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443472",
+    "name": "Teresa Marquez",
+    "address": "2009 Woods Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443471",
+    "name": "Denise Corvin",
+    "address": "27710 Sycamore Creek Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443469",
+    "name": "Erlish Aquino",
+    "address": "9820 Beachy Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443467",
+    "name": "Fredrick Steen",
+    "address": "2256 W 20th St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443466",
+    "name": "Nicholas Villasenor",
+    "address": "7456 Troost Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443463",
+    "name": "Eva Guadarrama",
+    "address": "16082 Via Alamitos",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443462",
+    "name": "Edward Williams",
+    "address": "4200 Berkshire St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443461",
+    "name": "Gurchain Singh",
+    "address": "3223 Shepherd Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443460",
+    "name": "Kimberly Kraft",
+    "address": "124 W Iris St",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443456",
+    "name": "Michelle Wilderman",
+    "address": "4477 George Oaks Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443455",
+    "name": "Robert Guerrero",
+    "address": "391 Little Merrill Rd",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443454",
+    "name": "Alonzo Holston",
+    "address": "5621 Lilyview Way",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443453",
+    "name": "Brian Mcinturf",
+    "address": "722 Young Ct",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443451",
+    "name": "Jacob Leathem",
+    "address": "5217 Rambler Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443450",
+    "name": "Nicholas Blanchard",
+    "address": "7007 Cloverleaf Way",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443448",
+    "name": "Juan Onate",
+    "address": "7881 Kelvedon Way",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443447",
+    "name": "Rhoel Coloma",
+    "address": "4394 Malana Way",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443446",
+    "name": "Jennifer Shaw",
+    "address": "7426 Seal Rock Way",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443445",
+    "name": "Perlita Carrasco",
+    "address": "8229 Scottsdale Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443444",
+    "name": "Brian Folk",
+    "address": "511 Santa Ana Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443443",
+    "name": "John Alvarez",
+    "address": "1623 W 11th Pl",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443442",
+    "name": "Renea Singleton",
+    "address": "6324 N Gilroy Ave",
+    "crm_status": "WARM",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443439",
+    "name": "Kathryn Defiori",
+    "address": "11559 Northdale Dr",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443437",
+    "name": "Medardo Salgado",
+    "address": "3901 Gagos Dr",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443435",
+    "name": "Linda Hyde",
+    "address": "1725 Eleanor Dr",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443433",
+    "name": "Anthony Kelley",
+    "address": "10267 Thanksgiving Ln",
+    "crm_status": "WARM",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443432",
+    "name": "Cindy Burch",
+    "address": "10324 Princess Joann Rd",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443431",
+    "name": "Selma Smith",
+    "address": "3939 Magnolia Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443429",
+    "name": "Duane Garrido",
+    "address": "12821 Portola St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443428",
+    "name": "Starla Heath",
+    "address": "791 W 7th St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443426",
+    "name": "Valerie Davis",
+    "address": "1374 Colorado Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443422",
+    "name": "Ryan Spindle",
+    "address": "5371 Amy Ave",
+    "crm_status": "WARM",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443421",
+    "name": "Matthew Cutone",
+    "address": "1209 Via La Jolla",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443420",
+    "name": "Matthew Dale",
+    "address": "19 Olive Ct",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443419",
+    "name": "Noelle Rohr",
+    "address": "836 N 5th Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443417",
+    "name": "Jose Lara",
+    "address": "2917 Greentop St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443416",
+    "name": "Rosa Estrada",
+    "address": "3424 Hill St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443415",
+    "name": "Quintin Smith",
+    "address": "4836 W 137th Pl",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443413",
+    "name": "Matthew Padak",
+    "address": "726 Rosecrans Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443412",
+    "name": "Daniel Qare",
+    "address": "13074 Azores Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443410",
+    "name": "Mark Lovequist",
+    "address": "6226 Glide Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443409",
+    "name": "Sabrina Cervantes",
+    "address": "3117 E Sample Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443408",
+    "name": "Baneza Ortiz",
+    "address": "1330 Springhill Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443407",
+    "name": "Amelia Obal",
+    "address": "1728 Starlight Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443406",
+    "name": "Joseph Lewis",
+    "address": "10957 Merrick Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443404",
+    "name": "Richard Goblirsch",
+    "address": "3220 Barry Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443402",
+    "name": "Curissa Jones",
+    "address": "127 Chase St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443401",
+    "name": "Michael Canales",
+    "address": "1543 S Walnut Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443400",
+    "name": "Marisa Limcaco",
+    "address": "131 Saint Charles Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443399",
+    "name": "Jacob Litinetsky",
+    "address": "117 Knockash Hl",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443398",
+    "name": "William Tomes",
+    "address": "788 Hollowbrook Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443397",
+    "name": "Shereen Peters",
+    "address": "6702 Orangewood Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443396",
+    "name": "Jason Hernandez",
+    "address": "1936 N Alice Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443394",
+    "name": "Patricia Montalvo",
+    "address": "8309 Honeycomb Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443391",
+    "name": "Claudia Esparza",
+    "address": "25741 Rancho Lucero Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443388",
+    "name": "Blanca Euresti",
+    "address": "12504 Rogge Village Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443387",
+    "name": "James Voitel",
+    "address": "1340 E Ruddock St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443386",
+    "name": "Matt Winslow",
+    "address": "653 Clarion Pl",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443384",
+    "name": "Cecil Cohn",
+    "address": "3150 Fashion Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443383",
+    "name": "Fred Valmeo",
+    "address": "3524 Rose Ave",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443382",
+    "name": "Jeff Peterson",
+    "address": "5116 Walnut Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443380",
+    "name": "Ricardo Lopez",
+    "address": "36527 Tioga Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443373",
+    "name": "Rashidan Gorsi",
+    "address": "368 Rose Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443372",
+    "name": "Paramjeet Singh",
+    "address": "2417 Louise Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443370",
+    "name": "Lai Nguyen",
+    "address": "2512 Sherlock Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443367",
+    "name": "Catherine Chan",
+    "address": "1150 Dominique Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443366",
+    "name": "Tina Richey",
+    "address": "197 Shakespeare St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443365",
+    "name": "Cesiah Perez",
+    "address": "703 Golden Sands Pl",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443364",
+    "name": "James Nichols",
+    "address": "5435 Hanna St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443363",
+    "name": "Doris Vergeldedios",
+    "address": "11292 Woodrush Ln",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443362",
+    "name": "Louise Christopher",
+    "address": "20250 Elm Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443361",
+    "name": "Jose Vergara",
+    "address": "14158 Roan Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443359",
+    "name": "Diana Pimienta",
+    "address": "15599 Carrera Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443358",
+    "name": "Jennifer Thompson",
+    "address": "1742 Sunnypark",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443357",
+    "name": "Shelby Jones",
+    "address": "3608 Voleyn St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443356",
+    "name": "Andrea Anaya",
+    "address": "6641 Mia Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443353",
+    "name": "Magdalena Leith",
+    "address": "418 Montgomery St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443352",
+    "name": "Julia Moreno",
+    "address": "13208 Tracy St",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443351",
+    "name": "Marie Thomas",
+    "address": "341 W 88th Pl",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443349",
+    "name": "Ingrid Salazar",
+    "address": "20703 Collins St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443344",
+    "name": "Mildred Figg",
+    "address": "4232 Merced Cir",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443343",
+    "name": "Mahendra Mehta",
+    "address": "5911 Killarney Cir",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443342",
+    "name": "Kris Anderson",
+    "address": "296 Meridian Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443341",
+    "name": "Jesus Vasquez",
+    "address": "1204 Saticoy St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443340",
+    "name": "Kimberly Ackerman",
+    "address": "3418 S West St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443339",
+    "name": "Iran Reyes",
+    "address": "3276 Meridian Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443338",
+    "name": "Lynne Board",
+    "address": "651 Arlington Rd",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443337",
+    "name": "Fotu Moeai",
+    "address": "214 Dundee Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443336",
+    "name": "Calia Mccormack",
+    "address": "247",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "NO_ADDRESS",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443335",
+    "name": "Crispus Potts",
+    "address": "3708 Whispering Creek Cir",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443333",
+    "name": "Ramon Aguayo",
+    "address": "12828 Pawnee Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443332",
+    "name": "Sonia Rodriguez",
+    "address": "15698 Outrigger Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443331",
+    "name": "Arturo Guzman",
+    "address": "11182 Poulsen Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443329",
+    "name": "Ana Guevara",
+    "address": "16566 Valencia Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443328",
+    "name": "Martha Castanon",
+    "address": "16539 Miller Ave",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443326",
+    "name": "Juan Romero",
+    "address": "923 W 7th St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443323",
+    "name": "Timothy Parker",
+    "address": "5732 Woodleigh Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443322",
+    "name": "Les Lobaugh Jr.",
+    "address": "26899 Aubrieta St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443320",
+    "name": "Kristopher Gonzales",
+    "address": "1109 Greystone Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443319",
+    "name": "Darvin Traylor",
+    "address": "9319 Santa Barbara Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443318",
+    "name": "Roberta Valle",
+    "address": "14860 Meadow Breeze Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443316",
+    "name": "John Delgado",
+    "address": "39859 Bolina Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443315",
+    "name": "Michael Lynch",
+    "address": "43424 Dodaro Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443314",
+    "name": "Lorna Notley",
+    "address": "5001 Caspian Cir",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443310",
+    "name": "Juan Velarde",
+    "address": "1438 Sao Paulo Pl",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443309",
+    "name": "Irma Ortega",
+    "address": "426 W 17th St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443307",
+    "name": "Jacqueline Avelar",
+    "address": "8644 Lowman Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443306",
+    "name": "Sunee Sopant",
+    "address": "3425 Rockhold Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443304",
+    "name": "Affonso Lackey",
+    "address": "18220 Schoenborn St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443302",
+    "name": "Rudy Rodriguez",
+    "address": "6932 Lurline Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443301",
+    "name": "Rashad Arandela",
+    "address": "14211 Corte Luna",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443300",
+    "name": "Michelle Jeffries",
+    "address": "4625 Angelena Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443299",
+    "name": "Kimberley Mclemore",
+    "address": "2633 38th Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443297",
+    "name": "Carmen Velez",
+    "address": "4613 Cimarron Ridge Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443296",
+    "name": "Adam Eggleston",
+    "address": "3140 Sheri Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443295",
+    "name": "Anthony Jimerson",
+    "address": "124 Lamont Ct",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443294",
+    "name": "Riza Gaceta",
+    "address": "412 Chyrl Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443293",
+    "name": "Dawn Mendoza",
+    "address": "1726 Bouquet Canyon Rd",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443290",
+    "name": "Maria Santillan",
+    "address": "10963 Avenida Del Gato",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443289",
+    "name": "Robert Stegman",
+    "address": "4720 Birchwood Cir",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443287",
+    "name": "Benjamin Alejandro",
+    "address": "14278 Victor Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443286",
+    "name": "Jeff Stewart",
+    "address": "3424 Andover St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443283",
+    "name": "Randy Soderstrom",
+    "address": "24536 Sunshine Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443282",
+    "name": "Olga Trujillo",
+    "address": "25951 Dundee Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443281",
+    "name": "John Campbell",
+    "address": "1704 Crestview Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443280",
+    "name": "Linda Anderson",
+    "address": "1261 Talmadge Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443279",
+    "name": "Shauna Smith",
+    "address": "1861 Belburn Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443278",
+    "name": "Henry Lucero",
+    "address": "449 E Market St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443277",
+    "name": "Thelma Hill",
+    "address": "1660 Gilmartin Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443276",
+    "name": "Bessmon Kalasho",
+    "address": "9422 Pryor Dr",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443275",
+    "name": "Allison Lucy",
+    "address": "1034 Crescent Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443274",
+    "name": "Melissa Chadwick",
+    "address": "8309 Langdon Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443273",
+    "name": "Maria Gillies",
+    "address": "16636 Butano Pl",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443272",
+    "name": "Graciela Avila",
+    "address": "270 E Lurelane St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443271",
+    "name": "Rebecca Stroecker",
+    "address": "37731 Quintana Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443269",
+    "name": "Mylinh Whitman",
+    "address": "25926 Camino Rosada",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443268",
+    "name": "Sandra Zamarripa",
+    "address": "22571 Temco St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443267",
+    "name": "Michelle Gibson",
+    "address": "1030 Via Pintada",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443266",
+    "name": "Jose Romero",
+    "address": "5500 Ellen St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443265",
+    "name": "Ted Mitchell",
+    "address": "3114 Dogwood Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443264",
+    "name": "Scott Weber",
+    "address": "40595 Calle Fiesta",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443263",
+    "name": "Robert Fontana",
+    "address": "411 Wilson St",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443262",
+    "name": "Craig Sachs",
+    "address": "21391 Lindsay Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443259",
+    "name": "Jennifer Saenz",
+    "address": "2148 S Terrace Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443258",
+    "name": "Wayne Arents",
+    "address": "1632 Dolomite Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443256",
+    "name": "Jose Perales",
+    "address": "826 El Monte Ct",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443255",
+    "name": "Ariel Gabucan",
+    "address": "120 E Mauna Loa Ave",
+    "crm_status": "WARM",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443254",
+    "name": "Richard Collett",
+    "address": "230 Crestglen Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443253",
+    "name": "Obed Holguin",
+    "address": "10338 Sunnybrook Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443252",
+    "name": "Brenda Colin",
+    "address": "12009 Mapledale St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443251",
+    "name": "Andre Yu",
+    "address": "4609 W Carson St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443249",
+    "name": "Christina Schad",
+    "address": "1232 E Washington St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443248",
+    "name": "Blanca Leon",
+    "address": "508 W Los Angeles Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443247",
+    "name": "Gustavo Sanchez",
+    "address": "5443 Dairy Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443245",
+    "name": "Denise Martin",
+    "address": "444 E Sherman Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443244",
+    "name": "Christopher Banks",
+    "address": "909 S Mayo Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443243",
+    "name": "Marisela Corona",
+    "address": "370 E 115th St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443242",
+    "name": "Timothy Lynch",
+    "address": "416 W 108th St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443241",
+    "name": "Joyce Benbo",
+    "address": "1848 W 91st Pl",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443240",
+    "name": "Nyra Simms",
+    "address": "246 E Loma Alta Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443239",
+    "name": "Kenneth Patterson",
+    "address": "5623 Canyonside Rd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443238",
+    "name": "Garret Weyand",
+    "address": "608 Durwood Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443237",
+    "name": "Juan Yvanez",
+    "address": "2105 Pepper Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443236",
+    "name": "Ernest Vitte",
+    "address": "1330 N Arroyo Blvd",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443235",
+    "name": "Arturo Prudencio",
+    "address": "766 N Kenmore Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443234",
+    "name": "Kalman Portman",
+    "address": "6663 Bonair Pl",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443233",
+    "name": "Sevak Sarkissian",
+    "address": "1700 Ard Eevin Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443232",
+    "name": "Ezequiel Ortiz",
+    "address": "6149 Avon Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443231",
+    "name": "Kip Grant",
+    "address": "7620 Spigno Pl",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443230",
+    "name": "Josefina Franco",
+    "address": "603 W Olive St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443227",
+    "name": "Pete Reyes",
+    "address": "1219 Van Pelt Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443226",
+    "name": "Gayon Yip",
+    "address": "985 Ridgecrest St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443224",
+    "name": "Lisa Morris",
+    "address": "37834 Cardiff St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443223",
+    "name": "David King",
+    "address": "4419 Radium Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443222",
+    "name": "Milagros Laan",
+    "address": "8815 Wakefield Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443221",
+    "name": "Margaret Chrin",
+    "address": "29030 Shadow Valley Ln",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443218",
+    "name": "Gohar Ghazaryan",
+    "address": "7854 Greenbush Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443217",
+    "name": "Alexis Kermani",
+    "address": "4754 Cerrillos Dr",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443216",
+    "name": "Paul Polesovsky",
+    "address": "20760 Vose St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443215",
+    "name": "Cara Phillips",
+    "address": "2595 Floral Ave",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443213",
+    "name": "Wanda Stewart",
+    "address": "2620 California St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443212",
+    "name": "Sarah Ortega",
+    "address": "32592 Lake Tana St",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443211",
+    "name": "Keith Mincey",
+    "address": "42655 Charleston Way",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443210",
+    "name": "Jessica Camacho",
+    "address": "40 Via Verde",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18443209",
+    "name": "Anthony Combs",
+    "address": "22625 Orion St",
+    "crm_status": "UNCLEAR",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18372515",
+    "name": "ANTONIO JUAN FRANCISCO",
+    "address": "903 GRIFFITH WAY",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18300726",
+    "name": "DOUGLAS A & JOYCE D MARSHALL",
+    "address": "11280 LOCHARD ST",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18287300",
+    "name": "Palencia  Gil",
+    "address": "560 Grand Ave",
+    "crm_status": "HOT",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18241795",
+    "name": "Doris Ravish",
+    "address": "1121 MORNING MELODY CT",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18240699",
+    "name": "George Phadel",
+    "address": "10575 TIMBER STAND ST",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18239880",
+    "name": "Patricia Coleman",
+    "address": "441 Sandstone Dr",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18239656",
+    "name": "Crisny Cavanaugh",
+    "address": "6835 EATON ST,",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18214279",
+    "name": "KLAAS MENSONIDES",
+    "address": "1256 GLEN DELL DR",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18209286",
+    "name": "DEVERY MCNEELY",
+    "address": "5277 Verner Ave",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  },
+  {
+    "id": "18209163",
+    "name": "Willie Gray",
+    "address": "237 Jill Ln",
+    "crm_status": "DEAD",
+    "flags": [],
+    "zillow_status": "UNCLEAR",
+    "sold_date": "",
+    "price": ""
+  }
+]
