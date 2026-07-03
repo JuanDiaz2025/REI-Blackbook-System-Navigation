@@ -4,6 +4,7 @@
     "name": "\ud83d\udcde CALL SUMMARY",
     "crm_status": "DEAD",
     "address": "",
+    "phone": "+15103338573",
     "indicators": [
       "signed with another"
     ],
@@ -13,36 +14,11 @@
     ]
   },
   {
-    "id": "20331992",
-    "name": "\ud83d\udcde CALL SUMMARY",
-    "crm_status": "DEAD",
-    "address": "",
-    "indicators": [
-      "escrow"
-    ],
-    "key_notes": [
-      "Parkinson.carol@icloud.com",
-      "Contract has been cancelled; however, a $30,000 cancellation fee is due from the seller. Funds are expected to be received today. Follow up with Kristine to confirm receipt of the payment and update the file accordingly."
-    ]
-  },
-  {
-    "id": "20444636",
-    "name": "Call Summary:",
-    "crm_status": "CLOSING",
-    "address": "",
-    "indicators": [
-      "escrow"
-    ],
-    "key_notes": [
-      "Note updated by Jovelyn Frias",
-      "Leanne called Twin Home Buyer after receiving a flyer."
-    ]
-  },
-  {
     "id": "20413064",
     "name": "\ud83d\udcde CALL SUMMARY",
     "crm_status": "WARM",
     "address": "568 La Sierra Way Gilroy",
+    "phone": "+14086675700",
     "indicators": [
       "no longer interested"
     ],
@@ -56,6 +32,7 @@
     "name": "\ud83d\udcde CALL SUMMARY",
     "crm_status": "DEAD",
     "address": "",
+    "phone": "+12094531510",
     "indicators": [
       "no longer interested"
     ],
@@ -69,6 +46,7 @@
     "name": "CALL SUMMARY",
     "crm_status": "DEAD",
     "address": "",
+    "phone": "+19255175754",
     "indicators": [
       "under contract"
     ],
@@ -82,6 +60,7 @@
     "name": "CALL SUMMARY",
     "crm_status": "DEAD",
     "address": "",
+    "phone": "+14027928160",
     "indicators": [
       "on the market"
     ],
@@ -95,6 +74,7 @@
     "name": "CALL SUMMARY",
     "crm_status": "WARM",
     "address": "",
+    "phone": "+16504004773",
     "indicators": [
       "on the market"
     ],
@@ -104,23 +84,11 @@
     ]
   },
   {
-    "id": "20391451",
-    "name": "\ud83d\udcde CALL SUMMARY",
-    "crm_status": "DEAD",
-    "address": "",
-    "indicators": [
-      "escrow"
-    ],
-    "key_notes": [
-      "Note by Mary Grace Pardines",
-      "\u2022 Followed up with Michael regarding the unsigned contract."
-    ]
-  },
-  {
     "id": "20362696",
     "name": "Call Summary",
     "crm_status": "HOT",
     "address": "",
+    "phone": "+16282837228",
     "indicators": [
       "under contract"
     ],
@@ -134,6 +102,7 @@
     "name": "Debra Cake",
     "crm_status": "DEAD",
     "address": "10 Ashton Ct",
+    "phone": "+17077410880",
     "indicators": [
       "no longer interested"
     ],
@@ -147,9 +116,9 @@
     "name": "Clint",
     "crm_status": "CLOSING",
     "address": "",
+    "phone": "+12099559018",
     "indicators": [
-      "in escrow",
-      "escrow"
+      "in escrow"
     ],
     "key_notes": [
       "Latest Engagement Insights",
@@ -161,6 +130,7 @@
     "name": "Ruben Realtor",
     "crm_status": "DEAD",
     "address": "",
+    "phone": "+18318697129",
     "indicators": [
       "accepted an offer"
     ],
@@ -170,23 +140,11 @@
     ]
   },
   {
-    "id": "19444938",
-    "name": "Janetta Adam",
-    "crm_status": "CLOSING",
-    "address": "",
-    "indicators": [
-      "escrow"
-    ],
-    "key_notes": [
-      "Latest Engagement Insights",
-      "Nov 19, 2025, 2:18 PM"
-    ]
-  },
-  {
     "id": "19355326",
     "name": "Max",
     "crm_status": "HOT",
     "address": "",
+    "phone": "+16616464958",
     "indicators": [
       "on the market"
     ],
@@ -200,6 +158,7 @@
     "name": "Preston Smarton",
     "crm_status": "DEAD",
     "address": "",
+    "phone": "+17027570766",
     "indicators": [
       "on the market"
     ],
@@ -213,6 +172,7 @@
     "name": "19309788",
     "crm_status": "HOT",
     "address": "",
+    "phone": "+14152716017",
     "indicators": [
       "on the market"
     ],
@@ -226,6 +186,7 @@
     "name": "Michael",
     "crm_status": "CLOSING",
     "address": "",
+    "phone": "+14155277235",
     "indicators": [
       "under contract"
     ],
@@ -239,9 +200,9 @@
     "name": "Belinda Torres",
     "crm_status": "CLOSING",
     "address": "",
+    "phone": "+19517321421",
     "indicators": [
-      "in escrow",
-      "escrow"
+      "in escrow"
     ],
     "key_notes": [
       "Latest Engagement Insights",
@@ -253,6 +214,7 @@
     "name": "Leonard geeter",
     "crm_status": "DEAD",
     "address": "",
+    "phone": "+13108638500",
     "indicators": [
       "on the market"
     ],
@@ -262,23 +224,11 @@
     ]
   },
   {
-    "id": "19191511",
-    "name": "Unknown",
-    "crm_status": "CLOSING",
-    "address": "",
-    "indicators": [
-      "escrow"
-    ],
-    "key_notes": [
-      "Latest Engagement Insights",
-      "Aug 13, 2025, 11:38 AM"
-    ]
-  },
-  {
     "id": "19181517",
     "name": "Bill",
     "crm_status": "CLOSING",
     "address": "",
+    "phone": "+19162403400",
     "indicators": [
       "on the market"
     ],
@@ -292,6 +242,7 @@
     "name": "EVA NICOLE MULDER",
     "crm_status": "DEAD",
     "address": "",
+    "phone": "+15108908777",
     "indicators": [
       "already sold"
     ],
@@ -305,6 +256,7 @@
     "name": "ROBERT BRUCE FURMAN",
     "crm_status": "DEAD",
     "address": "",
+    "phone": "+17073376883",
     "indicators": [
       "already sold",
       "sold the property"
@@ -319,9 +271,10 @@
     "name": "Steven  Freedman",
     "crm_status": "UNCLEAR",
     "address": "",
+    "phone": "+13233565100",
     "indicators": [
-      "sold for",
-      "recently sold"
+      "recently sold",
+      "sold for"
     ],
     "key_notes": [
       "Asking for Top dollar",
@@ -333,6 +286,7 @@
     "name": "Anthony  Conti",
     "crm_status": "CLOSING",
     "address": "",
+    "phone": "+18052184042",
     "indicators": [
       "on the market"
     ],
@@ -342,23 +296,11 @@
     ]
   },
   {
-    "id": "19087976",
-    "name": "19087976",
-    "crm_status": "CLOSING",
-    "address": null,
-    "indicators": [
-      "escrow"
-    ],
-    "key_notes": [
-      "Latest Engagement Insights",
-      "Jul 02, 2025, 2:14 PM"
-    ]
-  },
-  {
     "id": "19074580",
     "name": "19074580",
     "crm_status": "CLOSING",
     "address": null,
+    "phone": "+19164171821",
     "indicators": [
       "under contract"
     ],
@@ -372,6 +314,7 @@
     "name": "John  Waters",
     "crm_status": "DEAD",
     "address": "",
+    "phone": "+15597408487",
     "indicators": [
       "on the market"
     ],
@@ -385,6 +328,7 @@
     "name": "John",
     "crm_status": "CLOSING",
     "address": "",
+    "phone": "+14153061508",
     "indicators": [
       "no longer interested"
     ],
@@ -398,6 +342,7 @@
     "name": "18958451",
     "crm_status": "DEAD",
     "address": null,
+    "phone": "+15108755353",
     "indicators": [
       "already sold",
       "sold the property"
@@ -412,6 +357,7 @@
     "name": "Salah",
     "crm_status": "DEAD",
     "address": "",
+    "phone": "+15106845848",
     "indicators": [
       "on the market"
     ],
@@ -425,6 +371,7 @@
     "name": "Edgar",
     "crm_status": "DEAD",
     "address": "",
+    "phone": "+19164781111",
     "indicators": [
       "on the market"
     ],
@@ -438,6 +385,7 @@
     "name": "Leo Barker",
     "crm_status": "CLOSING",
     "address": "",
+    "phone": "+16613833968",
     "indicators": [
       "no longer interested"
     ],
@@ -447,23 +395,11 @@
     ]
   },
   {
-    "id": "18451950",
-    "name": "Georg Homan",
-    "crm_status": "CLOSING",
-    "address": "",
-    "indicators": [
-      "escrow"
-    ],
-    "key_notes": [
-      "Latest Engagement Insights",
-      "Jan 11, 2025, 11:08 AM"
-    ]
-  },
-  {
     "id": "18399249",
     "name": "Bill",
     "crm_status": "DEAD",
     "address": "",
+    "phone": "+17752237412",
     "indicators": [
       "no longer interested"
     ],
@@ -477,6 +413,7 @@
     "name": "Johnette L  Stickel",
     "crm_status": "DEAD",
     "address": "",
+    "phone": "+17604507811",
     "indicators": [
       "no longer interested"
     ],
@@ -490,6 +427,7 @@
     "name": "Marissa Reyes",
     "crm_status": "DEAD",
     "address": "",
+    "phone": "+16504387190",
     "indicators": [
       "on the market"
     ],
@@ -503,6 +441,7 @@
     "name": "18222355",
     "crm_status": "DEAD",
     "address": null,
+    "phone": "+15102277493",
     "indicators": [
       "no longer interested"
     ],
@@ -516,9 +455,9 @@
     "name": "Heather",
     "crm_status": "CLOSING",
     "address": "",
+    "phone": "+19252977295",
     "indicators": [
-      "in escrow",
-      "escrow"
+      "in escrow"
     ],
     "key_notes": [
       "Latest Engagement Insights",
@@ -530,6 +469,7 @@
     "name": "Alvin Thomas",
     "crm_status": "DEAD",
     "address": "",
+    "phone": "+15104676622",
     "indicators": [
       "no longer interested"
     ],
@@ -539,16 +479,144 @@
     ]
   },
   {
-    "id": "18167378",
-    "name": "18167378",
-    "crm_status": "CLOSING",
-    "address": null,
+    "id": "18141481",
+    "name": "NEEDRA B & SHUNDRAR  R BRUMFIEL",
+    "crm_status": "DEAD",
+    "address": "",
+    "phone": "+16618102769",
     "indicators": [
-      "escrow"
+      "on the market"
     ],
     "key_notes": [
-      "Notice of Default (NOD)",
+      "NEEDRA B & SHUNDRAR R BRUMFIEL",
       "Latest Engagement Insights"
+    ]
+  },
+  {
+    "id": "18093104",
+    "name": "Annastacia Hardy",
+    "crm_status": "DEAD",
+    "address": "",
+    "phone": "+12059667526",
+    "indicators": [
+      "no longer interested"
+    ],
+    "key_notes": [
+      "Notice of Trustee Sale (NTS)",
+      "Latest Engagement Insights"
+    ]
+  },
+  {
+    "id": "18085756",
+    "name": "Cecelia King",
+    "crm_status": "CLOSING",
+    "address": "",
+    "phone": "+15864775670",
+    "indicators": [
+      "under contract"
+    ],
+    "key_notes": [
+      "Latest Engagement Insights",
+      "Jul 11, 2024, 8:41 PM"
+    ]
+  },
+  {
+    "id": "18057836",
+    "name": "MARY LOU JOHNSON",
+    "crm_status": "DEAD",
+    "address": "",
+    "phone": "+15303438843",
+    "indicators": [
+      "already sold"
+    ],
+    "key_notes": [
+      "Notice of Trustee Sale (NTS)",
+      "Latest Engagement Insights"
+    ]
+  },
+  {
+    "id": "18006354",
+    "name": "18006354",
+    "crm_status": "DEAD",
+    "address": null,
+    "phone": "+15102320663",
+    "indicators": [
+      "already sold"
+    ],
+    "key_notes": [
+      "Latest Engagement Insights",
+      "Jul 04, 2024, 4:04 PM"
+    ]
+  },
+  {
+    "id": "17649915",
+    "name": "Mark Whiteside",
+    "crm_status": "DEAD",
+    "address": "",
+    "phone": "+12563221010",
+    "indicators": [
+      "already sold"
+    ],
+    "key_notes": [
+      "Latest Engagement Insights",
+      "May 08, 2024, 2:20 PM"
+    ]
+  },
+  {
+    "id": "17471582",
+    "name": "John Shore",
+    "crm_status": "DEAD",
+    "address": "",
+    "phone": "+15109155272",
+    "indicators": [
+      "already sold"
+    ],
+    "key_notes": [
+      "Latest Engagement Insights",
+      "Apr 24, 2024, 2:28 PM"
+    ]
+  },
+  {
+    "id": "16623357",
+    "name": "David Cuff",
+    "crm_status": "WARM",
+    "address": "",
+    "phone": "+17072059263",
+    "indicators": [
+      "property sold",
+      "sold last"
+    ],
+    "key_notes": [
+      "davidgeraldcuff@aol.com",
+      "Latest Engagement Insights"
+    ]
+  },
+  {
+    "id": "16379118",
+    "name": "Bryan Hogge",
+    "crm_status": "CLOSING",
+    "address": "",
+    "phone": "+19254378181",
+    "indicators": [
+      "property sold"
+    ],
+    "key_notes": [
+      "b.hogge@corcoranicon.com",
+      "Latest Engagement Insights"
+    ]
+  },
+  {
+    "id": "15714822",
+    "name": "John  Raymundi",
+    "crm_status": "DEAD",
+    "address": "",
+    "phone": "+19259605555",
+    "indicators": [
+      "already sold"
+    ],
+    "key_notes": [
+      "Latest Engagement Insights",
+      "Jul 20, 2023, 11:05 AM"
     ]
   }
 ]
