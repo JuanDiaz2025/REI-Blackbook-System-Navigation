@@ -2418,7 +2418,7 @@
     "source": "PPC LEAD",
     "address": "",
     "flags": [],
-    "status": "HOT",
+    "status": "DEAD",
     "key_notes": [
       "Twin Home Buyer Web Inquiries",
       "Note by Mary Grace Pardines",
@@ -2437,7 +2437,10 @@
       "\u2022 Deal lost to competing buyer at a higher price point"
     ],
     "notes_len": 6000,
-    "activity_len": 6000
+    "activity_len": 6000,
+    "sold_reason": [
+      "under contract"
+    ]
   },
   {
     "id": "20278377",
@@ -34314,7 +34317,7 @@
     "source": "Direct Mail",
     "address": "",
     "flags": [],
-    "status": "HOT",
+    "status": "DEAD",
     "key_notes": [
       "Notice of Default (NOD)",
       "Latest Engagement Insights",
@@ -34323,7 +34326,10 @@
       "The property is now listed on the market. No further actions needec for now."
     ],
     "notes_len": 1946,
-    "activity_len": 3335
+    "activity_len": 3335,
+    "sold_reason": [
+      "on the market"
+    ]
   },
   {
     "id": "19354979",
@@ -35326,7 +35332,7 @@
     "source": "PPC LEAD",
     "address": "",
     "flags": [],
-    "status": "HOT",
+    "status": "DEAD",
     "key_notes": [
       "Latest Engagement Insights",
       "Oct 04, 2025, 9:57 AM",
@@ -35335,7 +35341,10 @@
       "**Property Details: 4-bed, 2-bath, ~1,595 sq ft, fully upgraded including a modern kitchen, renovated bathrooms, and redone backyard; move-in ready."
     ],
     "notes_len": 2895,
-    "activity_len": 2895
+    "activity_len": 2895,
+    "sold_reason": [
+      "on the market"
+    ]
   },
   {
     "id": "19309755",
