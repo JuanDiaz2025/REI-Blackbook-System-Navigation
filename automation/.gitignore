@@ -1,0 +1,6 @@
+# Secrets and per-run state — never commit these
+.env
+*.pkl
+*_token.json
+client_secret*.json
+__pycache__/
