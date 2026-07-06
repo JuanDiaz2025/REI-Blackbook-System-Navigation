@@ -78,8 +78,29 @@ content is shown for approval).
 |---|---|---|
 | `rei_client.py` | REI BlackBook HTTP client (login/session, search, notes, add-note, disposition, task) | ✅ session-reuse, search, notes read |
 | `pipeline.py` | Orchestration: summarize → score → note → next step → escalate | ✅ dry-run on a real memo |
+| `google_clients.py` | Calendar (trigger), Drive (media), Gmail (escalations) — one OAuth client | needs Google creds to run |
+| `voicenotes_client.py` | Fetch/match Juan's voice memo by address | needs Voicenotes token |
+| `summarizer.py` | Claude API → Blueprint §8 debrief + §9 classification | needs Anthropic key |
+| `main.py` | Standalone entrypoint: poll calendar, run pipeline (`--once` / `--loop`) | needs the above creds |
+| `requirements.txt` | Python dependencies | — |
 | `runbook.md` | Step-by-step for the assisted (Mode B) run | — |
 | `.env.example` | Config for the standalone (Mode A) deployment | — |
+
+## Standalone quickstart (Mode A)
+
+```bash
+cd automation
+pip install -r requirements.txt
+cp .env.example .env      # fill in the credentials
+set -a; . ./.env; set +a
+python main.py --once     # process visits from the last interval (dry-run)
+# when confident: set DRY_RUN=false, then run on a schedule:
+python main.py --loop     # or a cron/systemd timer calling `--once`
+```
+
+On the first run REI will ask for a verification link — set `REI_VERIFY_LINK`
+to the emailed `.../emailLogin/<token>` URL and re-run; the session is then
+cached and reused for days.
 
 > The write calls (`add_note`, `set_disposition`, `create_task`) are mapped
 > from REI's app bundle. Their exact optional fields (disposition IDs, task
