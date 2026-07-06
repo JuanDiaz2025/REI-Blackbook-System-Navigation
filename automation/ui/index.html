@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Post-Visit Auto-Debrief</title>
+<style>
+  :root{
+    --bg:#f4f2ee; --card:#fff; --ink:#1b1e26; --soft:#5b6070; --faint:#8b90a0;
+    --line:#e4dfd6; --accent:#d9591a; --accent-d:#b8440f; --blue:#2f5169;
+    --good:#2f7d55; --good-bg:#e6f1ea; --warn:#b07514; --warn-bg:#f7edda;
+    --crit:#b23b31; --crit-bg:#f6e4e1;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    background:var(--bg);color:var(--ink);line-height:1.5}
+  header{background:var(--ink);color:#fff;padding:16px 24px;display:flex;align-items:center;gap:14px}
+  header .dot{width:30px;height:30px;border-radius:50%;background:var(--accent);
+    display:grid;place-items:center;font-weight:800;font-size:13px}
+  header h1{font-size:17px;margin:0;font-weight:700;letter-spacing:-.01em}
+  header .sub{font-size:12px;color:#b9bdc9;margin-left:auto}
+  main{max-width:920px;margin:0 auto;padding:22px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;
+    padding:20px 22px;margin-bottom:18px}
+  .card h2{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--faint);
+    margin:0 0 14px;font-weight:700}
+  label{display:block;font-size:13px;font-weight:600;margin:10px 0 4px;color:var(--soft)}
+  input[type=text],input[type=password]{width:100%;padding:9px 11px;border:1px solid var(--line);
+    border-radius:8px;font-size:14px;background:#fff}
+  .row{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  button{background:var(--accent);color:#fff;border:none;border-radius:8px;padding:10px 18px;
+    font-size:14px;font-weight:650;cursor:pointer}
+  button:hover{background:var(--accent-d)}
+  button.ghost{background:#fff;color:var(--ink);border:1px solid var(--line)}
+  button.ghost:hover{background:#f6f4f0}
+  .pill{display:inline-block;font-size:12px;font-weight:700;padding:3px 10px;border-radius:20px}
+  .p-ok{background:var(--good-bg);color:var(--good)} .p-off{background:var(--crit-bg);color:var(--crit)}
+  .p-warn{background:var(--warn-bg);color:var(--warn)}
+  .muted{color:var(--soft);font-size:13px}
+  .visit{border:1px solid var(--line);border-radius:10px;padding:16px;margin-top:12px}
+  .visit h3{margin:0 0 2px;font-size:16px}
+  .visit .meta{font-size:12px;color:var(--faint);margin-bottom:8px}
+  .tags{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0}
+  .tag{font-size:12px;padding:2px 9px;border-radius:20px;background:#eef1f4;color:var(--blue);font-weight:600}
+  .note{background:#faf9f6;border:1px solid var(--line);border-radius:8px;padding:10px 12px;
+    font-size:13px;margin-top:8px}
+  .esc{background:var(--crit-bg);color:var(--crit);border-radius:8px;padding:8px 12px;font-size:13px;margin-top:6px}
+  .toolbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+  .toggle{display:flex;align-items:center;gap:7px;font-size:13px;color:var(--soft)}
+  .hide{display:none}
+  .hint{font-size:12px;color:var(--faint);margin-top:4px}
+  a{color:var(--accent-d)}
+</style>
+</head>
+<body>
+<header>
+  <div class="dot">REI</div>
+  <h1>Post-Visit Auto-Debrief</h1>
+  <span class="sub">Twin Home Buyer · runs on this PC</span>
+</header>
+<main>
+
+  <!-- REI connection -->
+  <div class="card">
+    <h2>REI BlackBook connection</h2>
+    <div class="toolbar">
+      <span id="reiPill" class="pill p-off">checking…</span>
+      <button class="ghost" onclick="checkRei()">Refresh</button>
+      <button onclick="loginRei()">Log in</button>
+    </div>
+    <div id="verifyBox" class="hide" style="margin-top:12px">
+      <label>Paste the verification link REI emailed to bryan@twinhomebuyer.com</label>
+      <input type="text" id="verifyLink" placeholder="https://my.reiblackbook.com/services/account/emailLogin/...">
+      <div class="hint">You only do this when the session expires (every few days).</div>
+      <button style="margin-top:8px" onclick="submitVerify()">Complete login</button>
+    </div>
+  </div>
+
+  <!-- Run -->
+  <div class="card">
+    <h2>Process completed visits</h2>
+    <div class="toolbar">
+      <button onclick="runNow()">Check for completed visits</button>
+      <span class="toggle"><input type="checkbox" id="dryRun" checked> Preview only (don't post to REI yet)</span>
+      <span class="muted">looking back
+        <select id="hours"><option value="24">24h</option><option value="72">3 days</option>
+        <option value="168">7 days</option></select></span>
+    </div>
+    <div id="runStatus" class="muted" style="margin-top:10px"></div>
+    <div id="results"></div>
+  </div>
+
+  <!-- Setup -->
+  <div class="card">
+    <h2>Setup (one time)</h2>
+    <p class="muted">Saved only on this computer, in <code>config.json</code>. Blank secret fields keep the existing value.</p>
+    <div class="row">
+      <div><label>REI email</label><input type="text" id="REI_EMAIL"></div>
+      <div><label>REI password</label><input type="password" id="REI_PASSWORD" placeholder="••••••"></div>
+    </div>
+    <div class="row">
+      <div><label>Voicenotes API token</label><input type="password" id="VOICENOTES_API_TOKEN" placeholder="••••••"></div>
+      <div><label>Anthropic (Claude) API key</label><input type="password" id="ANTHROPIC_API_KEY" placeholder="••••••"></div>
+    </div>
+    <div class="row">
+      <div><label>Google OAuth client file (path)</label><input type="text" id="GOOGLE_OAUTH_CLIENT_JSON" placeholder="C:\\path\\client_secret.json"></div>
+      <div><label>Escalation email (who gets gap alerts)</label><input type="text" id="ESCALATION_TO" placeholder="juan@twinhomebuyer.com"></div>
+    </div>
+    <button style="margin-top:14px" onclick="saveCfg()">Save setup</button>
+    <span id="cfgSaved" class="muted"></span>
+  </div>
+
+</main>
+<script>
+async function j(url,opts){const r=await fetch(url,opts);return r.json();}
+function esc(s){return (s||"").replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
+
+async function loadCfg(){
+  const c=await j('/api/config');
+  for(const k of ['REI_EMAIL','GOOGLE_OAUTH_CLIENT_JSON','ESCALATION_TO']){
+    if(document.getElementById(k)&&typeof c[k]==='string')document.getElementById(k).value=c[k];
+  }
+}
+async function saveCfg(){
+  const body={};
+  for(const k of ['REI_EMAIL','REI_PASSWORD','VOICENOTES_API_TOKEN','ANTHROPIC_API_KEY','GOOGLE_OAUTH_CLIENT_JSON','ESCALATION_TO']){
+    const v=document.getElementById(k).value; if(v)body[k]=v;
+  }
+  await j('/api/config',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
+  document.getElementById('cfgSaved').textContent=' ✓ saved';
+  setTimeout(()=>document.getElementById('cfgSaved').textContent='',2500);
+  checkRei();
+}
+async function checkRei(){
+  const p=document.getElementById('reiPill'); p.className='pill p-warn'; p.textContent='checking…';
+  const r=await j('/api/rei/status');
+  if(r.authenticated){p.className='pill p-ok';p.textContent='● Logged in';document.getElementById('verifyBox').classList.add('hide');}
+  else{p.className='pill p-off';p.textContent='● Logged out';}
+}
+async function loginRei(){
+  const r=await j('/api/rei/login',{method:'POST'});
+  if(r.status==='authenticated'){checkRei();}
+  else if(r.status==='verification_needed'){document.getElementById('verifyBox').classList.remove('hide');}
+  else{alert('Login: '+(r.message||r.status));}
+}
+async function submitVerify(){
+  const link=document.getElementById('verifyLink').value;
+  const r=await j('/api/rei/verify',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({link})});
+  if(r.status==='authenticated'){checkRei();}else{alert('Verify: '+(r.message||r.status));}
+}
+async function runNow(){
+  const s=document.getElementById('runStatus'); s.textContent='Working…';
+  const dry=document.getElementById('dryRun').checked;
+  const hours=document.getElementById('hours').value;
+  const r=await j('/api/run',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({dry_run:dry,hours:+hours})});
+  if(!r.ok){s.textContent='Error: '+(r.error||'')+' '+(r.trace||'');return;}
+  const res=r.results||[];
+  s.textContent=res.length?`Found ${res.length} completed visit(s). ${r.dry_run?'(Preview — nothing posted.)':'(Posted to REI.)'}`:'No completed visits in that window.';
+  render(res);
+}
+function render(res){
+  const wrap=document.getElementById('results'); wrap.innerHTML='';
+  for(const v of res){
+    const missing=Object.entries(v.score||{}).filter(([k,x])=>x==='No').map(([k])=>k);
+    const div=document.createElement('div'); div.className='visit';
+    div.innerHTML=`<h3>${esc(v.address)}</h3>
+      <div class="meta">Seller: ${esc(v.seller)||'—'} · REI contact ${v.contact_id||'(none)'}</div>
+      <div class="tags">
+        ${v.classification?`<span class="tag">${esc(v.classification)}</span>`:''}
+        ${v.next_step?`<span class="tag">Next: ${esc(v.next_step)}</span>`:''}
+        ${v.follow_up_date?`<span class="tag">Follow-up ${esc(v.follow_up_date)}</span>`:''}
+      </div>
+      <div class="note">${v.note_html||''}</div>
+      ${(v.escalations||[]).map(e=>`<div class="esc">⚠ ${esc(e)}</div>`).join('')}`;
+    wrap.appendChild(div);
+  }
+}
+loadCfg(); checkRei();
+</script>
+</body>
+</html>

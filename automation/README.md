@@ -31,10 +31,18 @@ finished. See [`runbook.md`](runbook.md) for the exact per-run steps.
 This is the fastest path to a working automation. Its only manual touch is the
 REI verification link (below).
 
-### Mode A — Standalone (own it / deploy it later)
-The same logic packaged as a program you host yourself (cron on a small cloud
-worker). It needs its **own** API credentials because a server cannot borrow
-the Claude workspace's connections:
+### Desktop app (Windows) — open it like an app
+A local dashboard you run on your PC: setup screen for keys, a REI
+verification-link box, a "check for completed visits" button, and per-visit
+cards showing the summary, media, doc-score, and next step. **Preview-only by
+default** so nothing posts until you say so. See
+[`BUILD_WINDOWS_APP.md`](BUILD_WINDOWS_APP.md) — double-click `run.bat`, or build
+a single `.exe`. Files: `app.py` + `ui/index.html` + `run.bat`.
+
+### Mode A — Standalone service (own it / deploy it later)
+The same logic packaged as a headless program you host yourself (cron on a small
+cloud worker) for true 24/7. It needs its **own** API credentials because a
+server cannot borrow the Claude workspace's connections:
 
 | Service | Credential needed |
 |---|---|
