@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- REI BlackBook workflow: local-only, sensitive artifacts ---
+config.env
+.rei-profile/
+gathered.json
+transcripts.json
+rec/
+scripts/node_modules/
