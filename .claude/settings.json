@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Voicenotes__list_notes",
+      "mcp__Voicenotes__search_notes",
+      "mcp__Voicenotes__get_transcript",
+      "mcp__Google_Calendar__list_events",
+      "mcp__Google_Drive__search_files",
+      "mcp__Google_Drive__download_file_content",
+      "mcp__Gmail__search_threads",
+      "mcp__Claude_Code_Remote__update_trigger",
+      "mcp__Claude_Code_Remote__delete_trigger",
+      "mcp__Claude_Code_Remote__list_triggers",
+      "Bash(curl *my.reiblackbook.com*)",
+      "Bash(curl *mastercdn.atm.gs*)",
+      "Bash(curl *)"
+    ]
+  }
+}
