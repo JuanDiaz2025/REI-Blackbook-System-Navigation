@@ -7,3 +7,6 @@ __pycache__/
 config.json
 google_token.json
 processed.json
+dist/
+build/
+*.spec
