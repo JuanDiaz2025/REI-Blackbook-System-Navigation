@@ -23,10 +23,13 @@ If no booking is mentioned, do nothing and reply:
    date was stated, do NOT guess — ask me for the date.
 3. Create **ONE** task in REI BlackBook on that seller's contact record:
    - **Assign to:** Kyle Flores
-   - **Title:** `Booked appointment on [visit date]`
+   - **Title:** `Booked appointment on [visit date]`  ← the VISIT date goes in the title
    - **Description:** `Seller: [name] | Visit date: [visit date] | Property: [address]`
    - **Priority:** High
-   - **Due date:** the **visit date** (same day)
+   - **Due date:** the **day the appointment was booked** (the call date — normally
+     *today*), NOT the visit date. This notifies Kyle right away so she can prep
+     ahead of the visit. NOTE: REI rejects past due dates; if the booking day is
+     somehow before today, use today (the earliest allowed).
 4. **Dedupe:** never create more than one booked-appointment task per lead per
    call. If an open "Booked appointment" task already exists for that seller,
    skip it and say so.
