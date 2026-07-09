@@ -24,7 +24,16 @@ If no booking is mentioned, do nothing and reply:
 3. Create **ONE** task in REI BlackBook on that seller's contact record:
    - **Assign to:** Kyle Flores
    - **Title:** `Booked appointment on [visit date]`  ← the VISIT date goes in the title
-   - **Description:** `Seller: [name] | Visit date: [visit date] | Property: [address]`
+   - **Description** (this exact layout):
+     ```
+     [Lead name]
+     Booked appointment / visit scheduled: [visit date]
+     [property address]
+
+     * Create a WhatsApp group
+     * Add to Juan's calendar
+     * Prepare document - contract
+     ```
    - **Priority:** High
    - **Due date:** the **day the appointment was booked** (the call date — normally
      *today*), NOT the visit date. This notifies Kyle right away so she can prep
