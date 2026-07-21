@@ -9,14 +9,25 @@ When Marie types **check**, run this whole routine. Everything below is part of
 "check" — there are NO separate keywords. For each new call, do the notes step,
 then evaluate EVERY trigger and fire whichever ones apply.
 
-## Step A — Find new calls (no filters)
-1. Pull the recordings inbox (`/profitdial/inbox/recordings`), newest first.
-2. Take **every** call that hasn't been processed since the last check —
-   **inbound AND outbound, all lead lists, marketing/View/wrong-number included.**
-   No date filter, no lead-type filter. Use the actual current date; never hard-code
-   a day.
-3. For each contact, gather call history, notes, and the **text thread**
-   (chat feed = inbound + outbound). Transcribe each new recording.
+## Step A — Find every touched contact (FULL SWEEP, no filters)
+The recordings inbox alone MISSES touches — non-recorded calls (failed/short
+connects, some outbound dials) and text-only touches never appear there. So each
+check, sweep ALL THREE inboxes and UNION them by contact:
+1. **Recordings** — `/profitdial/inbox/recordings` (recorded calls).
+2. **Calls** — `/profitdial/inbox/calls` (all calls incl. non-recorded / inbound).
+3. **Texts** — `/profitdial/inbox/texts` (text touches).
+Take **every** contact touched since the last check — **inbound AND outbound, all
+lead lists, marketing/View/wrong-number included, calls AND texts.** No date
+filter, no lead-type filter. Use the actual current date; never hard-code a day.
+
+If a specific lead is named/flagged (e.g. "put notes on Bob") but isn't in any
+inbox, look them up directly by name/phone and pull their contact history — a
+non-recorded call still shows in the contact's own call history even when no inbox
+lists it.
+
+For each contact, gather call history, notes, and the **text thread** (chat feed =
+inbound + outbound). Transcribe each new recording; for a non-recorded call, log
+the touch from the call metadata (direction/outcome) even though there's no audio.
 
 ## Step B — Write the CALL SUMMARY note (with dedupe)
 For each new call, before posting, **check the contact's existing notes** — if a
