@@ -46,6 +46,13 @@ Texts: [the text thread — full back-and-forth, our outbound, any inbound we
 Only use info actually in the call/transcript/texts/notes. Unstated = "Not
 mentioned". Never fabricate. Notes append — never overwrite.
 
+**Rep name normalization (IMPORTANT).** Our only reps are **THEA, CHERRY, and
+JUAN**. THEA is on most calls, and the transcription constantly mis-hears her
+name as Sia / Tia / Zia / Nia / Theo / Deo / Leo / Pia / Lia / Cia (and similar).
+Any such variant IS THEA — always write **THEA**. Only write Cherry or Juan when
+it's unmistakably that person. If unsure who the rep is, default to **THEA**.
+Never write a mis-heard variant (Sia/Theo/etc.) into a note.
+
 ## Step C — Evaluate ALL triggers for the call
 Run each of these against the call and fire whichever apply (all automatic, no
 approval unless noted). Each has a detailed spec in its own file:
