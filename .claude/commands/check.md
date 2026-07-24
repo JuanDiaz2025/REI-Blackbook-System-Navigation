@@ -16,14 +16,30 @@ check, sweep ALL THREE inboxes and UNION them by contact:
 1. **Recordings** — `/profitdial/inbox/recordings` (recorded calls).
 2. **Calls** — `/profitdial/inbox/calls` (all calls incl. non-recorded / inbound).
 3. **Texts** — `/profitdial/inbox/texts` (text touches).
-Take **every** contact touched since the last check — **inbound AND outbound, all
-lead lists, marketing/View/wrong-number included, calls AND texts.** No date
-filter, no lead-type filter. Use the actual current date; never hard-code a day.
+Take **every** contact touched since the last check — inbound AND outbound, all
+lead lists, marketing/View/wrong-number included, calls AND texts. No date filter,
+no lead-type filter. Use the actual current date; never hard-code a day.
+
+### AGENT-OWNERSHIP GATE (who handled the call) — REQUIRED
+Only note a call/touch that was **handled by one of OUR three reps: THEA (me,
+id 143173), CHERRY (115834), or JUAN (112447).**
+- **If the call was made/answered/responded to by ANY other agent — Genesis, Kyle,
+  Jen, or anyone else — DO NOT note it and DO NOT touch that lead.** Skip it
+  entirely and say so in the report.
+- Outbound: check the call's `created_by`. Only 143173 / 115834 / 112447 qualify.
+- Inbound (created_by is null): determine the rep from the transcript — our rep
+  introduces themselves ("this is Thea/Cherry/Juan…"). If it's Thea/Cherry/Juan,
+  note it; if it's Genesis or another agent, skip and don't touch.
+- Text-only touches: only note if the outbound side was sent by / on behalf of
+  Thea, Cherry, or Juan; otherwise skip.
+- This gate is in ADDITION to the existing teammate-dedupe rule (still skip a call
+  another teammate already wrote a substantive note for).
 
 If a specific lead is named/flagged (e.g. "put notes on Bob") but isn't in any
 inbox, look them up directly by name/phone and pull their contact history — a
 non-recorded call still shows in the contact's own call history even when no inbox
-lists it.
+lists it. (The agent-ownership gate still applies unless I explicitly override it
+for a named lead.)
 
 For each contact, gather call history, notes, and the **text thread** (chat feed =
 inbound + outbound). Transcribe each new recording; for a non-recorded call, log
