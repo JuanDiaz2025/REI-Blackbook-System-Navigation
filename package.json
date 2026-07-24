@@ -1,0 +1,14 @@
+{
+  "name": "rei-blackbook-system-navigation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Login automation and access checks for the REI Blackbook system",
+  "scripts": {
+    "login": "node scripts/rei-login.js",
+    "check-access": "node scripts/check-access.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "playwright": "^1.48.0"
+  }
+}

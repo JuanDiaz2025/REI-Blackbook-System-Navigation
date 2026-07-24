@@ -157,6 +157,11 @@ ENV/
 env.bak/
 venv.bak/
 
+# REI Blackbook login automation
+node_modules/
+auth.json
+screenshots/
+
 # Spyder project settings
 .spyderproject
 .spyproject
