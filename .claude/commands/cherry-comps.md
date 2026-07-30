@@ -1,57 +1,61 @@
 ---
-description: Create a High-priority Cherry "Run comps" task for EVERY new incoming lead (proactively, before contact) so a preliminary offer is ready on the first live call — and also at any call that hands the numbers off to Cherry (which additionally makes Marie's "check if already called" task).
+description: Automatically create a High-priority Cherry "Run comps" task for EVERY new incoming lead (any lead that reaches us via text OR call) at intake — no prompting, no waiting for contact — so comps and a preliminary offer are always on record ahead of time. Comps are assigned once, up front; a later call never needs to spin up a new Cherry task.
 allowed-tools: Read, [REI BlackBook tools]
 ---
 
 # Flag Cherry to run comps
 
-Two ways this fires: **(A) proactively on every new incoming lead**, and **(B) at a
-call that hands numbers to Cherry**. Create Cherry's "Run comps" task in BOTH cases.
+**The rule:** every incoming lead gets ONE Cherry "Run comps" task, created
+automatically at intake. Because that task already exists from the start, a later
+call does NOT create another — it just relies on the comps already being on record.
 
-## Trigger A — EVERY new incoming lead (proactive, no contact needed)
-For each NEW lead that comes into REI — web-form submission, inbound call/text, new
-mailer/PPC contact, any freshly-created seller contact — create Cherry's "Run comps"
-task **right away, even if we have NOT reached them yet**. Goal: have comps + a
-preliminary number ON RECORD in advance, so the moment we get them on a live call we
-can quote a preliminary offer immediately instead of making them wait.
-- This applies whether or not the lead has answered — cold, unreached leads included.
-- **Needs a property address.** If the new lead has an address (web forms usually
-  do), create the task. If there's no address yet, note that comps are blocked
-  pending the address (Cherry can't comp without one) and flag it to get the address.
+## Trigger — EVERY incoming lead, at intake (the only trigger that creates the task)
+The moment a lead comes into REI **through a text or a call** — inbound call/text,
+web-form submission, new mailer/PPC contact, any freshly-created seller contact —
+create Cherry's "Run comps" task **right away, automatically, before we've reached
+them**. Goal: comps + a preliminary number ON RECORD in advance, so the instant we
+get the seller on a live call we can quote a preliminary offer immediately instead
+of making them wait.
+- Applies whether or not the lead has answered — cold, unreached leads included.
+- **No prompting / no approval.** Don't ask first and don't preview — just create it.
+- **Needs a property address.** If the lead has an address (web/inbound usually do),
+  create the task. If there's no address yet, note that comps are blocked pending the
+  address (Cherry can't comp without one) and flag it to get the address.
 - Not a seller (wrong number, vendor/wholesaler, opt-out, do-not-contact, clearly
   out of our area) → do NOT create a Run comps task.
 
-## Trigger B — a call hands numbers off to Cherry (existing)
-Also fire when a call hands the lead's numbers to Cherry — rep says a colleague /
-Cherry will call to run numbers, qualify, or give a preliminary/final offer
-("Cherry will call you", "she'll run the numbers", "run comps", etc.).
+## On a later call that "hands numbers to Cherry" — DON'T create a new task
+When a call hands the lead's numbers to Cherry (rep says "Cherry will call you",
+"she'll run the numbers", "run comps", etc.), the comps task should already exist
+from intake — so **do not prompt or create a second Cherry task**. Just confirm the
+intake "Run comps" task is there. Only if it is somehow missing (e.g. the lead
+predates this rule), backfill ONE using Step 1. Never stack a duplicate.
 
-Only Trigger B additionally makes Marie's "check if already called by Miss" task
-(Step 2). Trigger A (a brand-new, not-yet-called lead) makes ONLY Cherry's Run comps
-task — there's no prior call to dedupe, so skip Step 2 for Trigger A.
+On such a call, still create Marie's "check if already called by Miss" task (Step 2)
+— that one is specific to the call handoff, not to comps.
 
-## Step 1 — Cherry's "Run comps" task  (fires for BOTH triggers)
+## Step 1 — Cherry's "Run comps" task  (created once, at intake)
 Create ONE task on the seller's contact record:
 - **Assign to:** Cherry Hombre
 - **Title:** `Run comps`
 - **Priority:** High
-- **Due date:** today (arrival date for Trigger A, call date for Trigger B)
+- **Due date:** today (the day the lead came in)
 - **Linked to** the seller's contact/lead record
 - **Description:** what Cherry needs to run comps and (once we've reached them) quote
   a preliminary offer — property address + seller name always, plus any price/
   condition context we already have (asking price, negotiable?, repairs, occupancy,
-  timeline, best callback number, any tentative visit date). For a brand-new
-  Trigger A lead with only a web-form address, that's fine — say "comps in advance,
-  pre-contact; details TBD on first live call."
-- **Dedupe: one Cherry "Run comps" task per lead, ever.** If any open "Run comps"
-  task already exists for that seller (from an earlier proactive run OR a prior
-  call), skip it and say so — don't stack a second one when a call later hands the
-  same lead to Cherry.
+  timeline, best callback number, any tentative visit date). For a brand-new lead
+  with only an intake address, that's fine — say "comps in advance, pre-contact;
+  details TBD on first live call."
+- **Dedupe: one Cherry "Run comps" task per lead, ever.** If any "Run comps" task
+  already exists for that seller (from intake OR a prior run), skip it and say so —
+  never stack a second one, including when a later call hands the lead to Cherry.
 
-## Step 2 — My "check" task  (Trigger B ONLY)
-**Only for Trigger B** (a call handed the numbers to Cherry). Skip this entirely for
-Trigger A — a brand-new, not-yet-called lead has no prior call to dedupe against.
-Right after Cherry's task is created, create a SECOND task on the SAME contact:
+## Step 2 — My "check" task  (call handoff ONLY)
+**Only when a call hands the numbers to Cherry** (see the section above). Skip this
+for the intake trigger — a brand-new, not-yet-called lead has no prior call to
+dedupe against, so it gets ONLY the Run comps task.
+Right after confirming Cherry's task exists, create a SECOND task on the SAME contact:
 - **Assign to:** Theavil Marie (me)
 - **Title:** `Check if lead was already called by Miss`
 - **Priority:** Medium
@@ -63,19 +67,19 @@ Right after Cherry's task is created, create a SECOND task on the SAME contact:
   say so.
 
 ## Automatic — no approval needed
-Create BOTH tasks automatically (no preview/approval wait), same as the Cherry
-task has always run.
+Create the task(s) automatically (no preview/approval wait). The intake "Run comps"
+task in particular is always fire-and-forget — never prompt before creating it.
 
 ## Report back
-Seller + address · the trigger phrase matched · each task's assignee, priority,
-and due date.
+Seller + address · how the lead came in (text/call/web) · each task's assignee,
+priority, and due date (or "comps blocked — no address yet").
 
 ## Notes / implementation
-- **Trigger A is independent of the note/agent-ownership gate.** `check` only writes
-  CALL SUMMARY notes for calls handled by THEA/Cherry/Juan — but comps get assigned
-  to EVERY new incoming seller lead regardless of who (if anyone) has talked to them.
-  A lead with no call yet, or one another agent will handle, still gets a Run comps
-  task under Trigger A. The gate governs notes, not comps.
+- **The intake comps task is independent of the note/agent-ownership gate.** `check`
+  only writes CALL SUMMARY notes for calls handled by THEA/Cherry/Juan — but comps
+  get assigned to EVERY new incoming seller lead regardless of who (if anyone) has
+  talked to them. A lead with no call yet, or one another agent will handle, still
+  gets a Run comps task at intake. The gate governs notes, not comps.
 - Assignable teammate IDs (REI): Cherry Hombre = 115834, Theavil Marie (me) =
   143173, Kyle Flores = 146123, Juan Diaz = 112447.
 - Endpoint: POST /profitdial/actions/createTasks (direct JSON body, `item_ids`/
