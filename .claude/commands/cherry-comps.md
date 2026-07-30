@@ -39,7 +39,11 @@ Do NOT blindly task every inbound number — a lot of inbound is not a valid lea
     wrong Antonio", etc.
   - Not a seller at all: a vendor, wholesaler, or agent soliciting US; spam; a reply
     that's selling us something.
-  - No property and no selling intent anywhere in the thread; or clearly out of our area.
+  - No property and no selling intent anywhere in the thread.
+  - **Out of our area = outside California.** We buy statewide in CA — anywhere in
+    California is in-area (Bay Area, Sacramento, Central Valley, SoCal, all of it).
+    Only skip on geography when the property is in another state. If the state is
+    unknown/not given, do NOT skip on location — treat it as in-area and proceed.
 - **Ambiguous** (an auto-reply, a bare "?", a lone "ok" with no property, an empty
   11-second hang-up) → don't guess. Hold the task and flag it for a human to qualify,
   or wait for the address / a real reply. Better to hold than to task a non-lead.
