@@ -5,9 +5,12 @@ allowed-tools: Read, [REI BlackBook tools]
 
 # Flag Cherry to run comps
 
-**The rule:** every incoming lead gets ONE Cherry "Run comps" task, created
-automatically at intake. Because that task already exists from the start, a later
-call does NOT create another — it just relies on the comps already being on record.
+**The rule:** EVERY valid lead — **new OR revived** — must have comps on record. So
+if a valid lead does **not** already have a "Run comps" task AND does **not** already
+have a note showing comps were run, you **must** create ONE Cherry "Run comps" task.
+If either already exists, don't create another — the comps are already accounted for.
+This is not optional and not scoped to brand-new contacts: any valid lead missing both
+a comps task and a comps note gets one, period.
 
 ## Trigger — EVERY incoming lead, at intake (the only trigger that creates the task)
 The moment a lead comes into REI **through a text or a call** — inbound call/text,
@@ -77,9 +80,15 @@ Create ONE task on the seller's contact record:
   timeline, best callback number, any tentative visit date). For a brand-new lead
   with only an intake address, that's fine — say "comps in advance, pre-contact;
   details TBD on first live call."
-- **Dedupe: one Cherry "Run comps" task per lead, ever.** If any "Run comps" task
-  already exists for that seller (from intake OR a prior run), skip it and say so —
-  never stack a second one, including when a later call hands the lead to Cherry.
+- **Dedupe — check BOTH a task AND a comps note before creating.** Create the task
+  only if the seller has NEITHER of these already:
+  1. an existing "Run comps" task (open or completed, any assignee), OR
+  2. a note showing comps were already run — e.g. a "comp run … by Cherry / VERDICT"
+     note, a preliminary-offer/ARV note, a PropertyRadar/underwriting note with a
+     number. If comps are already documented in a note, they're on record — no task.
+  If EITHER exists, skip and say so (never stack a duplicate, including when a later
+  call hands the lead to Cherry). If NEITHER exists and the lead is valid, you MUST
+  create the task — new lead or revived, no exceptions.
 
 ## Step 2 — My "check" task  (call handoff ONLY)
 **Only when a call hands the numbers to Cherry** (see the section above). Skip this
