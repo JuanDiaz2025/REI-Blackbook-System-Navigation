@@ -21,8 +21,28 @@ of making them wait.
 - **Needs a property address.** If the lead has an address (web/inbound usually do),
   create the task. If there's no address yet, note that comps are blocked pending the
   address (Cherry can't comp without one) and flag it to get the address.
-- Not a seller (wrong number, vendor/wholesaler, opt-out, do-not-contact, clearly
-  out of our area) → do NOT create a Run comps task.
+
+### Qualify from the message FIRST — read it before creating anything
+Always read the actual inbound content (the text thread / SMS body, the voicemail or
+call, the web-form fields) and decide if it's a real seller BEFORE making the task.
+Do NOT blindly task every inbound number — a lot of inbound is not a valid lead.
+- **CREATE the Run comps task when the message reads like a seller:** responding to
+  our selling outreach, mentions their property / an address, asks about price, an
+  offer, or a visit, gives condition/tenant/timeline details, or otherwise engages as
+  an owner wanting to sell. A property address in the thread + any selling intent =
+  valid. (Real examples: "one of the tenants at 7216 Eigleberry moved out, I'll be
+  onsite Thursday"; "still working on Madeline to sell.")
+- **SKIP — create NO task — when the message shows any of these:**
+  - Opt-out / stop language: "STOP", "remove me", "do not contact", "unsubscribe".
+  - Not selling: "not interested", "not selling", "already sold", "listed with an agent".
+  - Wrong person: "wrong number", "who is this", "that's not my house", "you have the
+    wrong Antonio", etc.
+  - Not a seller at all: a vendor, wholesaler, or agent soliciting US; spam; a reply
+    that's selling us something.
+  - No property and no selling intent anywhere in the thread; or clearly out of our area.
+- **Ambiguous** (an auto-reply, a bare "?", a lone "ok" with no property, an empty
+  11-second hang-up) → don't guess. Hold the task and flag it for a human to qualify,
+  or wait for the address / a real reply. Better to hold than to task a non-lead.
 
 ## On a later call that "hands numbers to Cherry" — DON'T create a new task
 When a call hands the lead's numbers to Cherry (rep says "Cherry will call you",
