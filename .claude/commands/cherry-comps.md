@@ -17,6 +17,12 @@ them**. Goal: comps + a preliminary number ON RECORD in advance, so the instant 
 get the seller on a live call we can quote a preliminary offer immediately instead
 of making them wait.
 - Applies whether or not the lead has answered — cold, unreached leads included.
+- **"Incoming" = recent activity, NOT just a brand-new contact record.** A dormant or
+  older lead that **re-engages** — replies to our outreach, texts/calls back in, or
+  gets re-qualified (e.g. a fresh PropertyRadar/skip-trace hit today) — counts as an
+  incoming lead and gets comps, even though the contact was created months/years ago.
+  Scope the sweep by **recent touch/activity date, not `created_at`**, or reactivated
+  leads (like a May-2025 contact who answers a July text) will be missed.
 - **No prompting / no approval.** Don't ask first and don't preview — just create it.
 - **Needs a property address.** If the lead has an address (web/inbound usually do),
   create the task. If there's no address yet, note that comps are blocked pending the
