@@ -38,6 +38,16 @@ id 143173), CHERRY (115834), or JUAN (112447).**
   right before. The "skip another agent's lead" rule is for OUTBOUND calls that
   agent made — not for a seller choosing to call our line. (This is exactly how
   Tyanna Moore got wrongly skipped once — don't repeat it.)
+- **NEVER skip a call one of OUR OWN reps placed (Thea/Cherry/Juan).** If Thea,
+  Cherry, or Juan dialed the lead, ALWAYS write a note — even a no-answer, VM, or
+  short/no-connect, and even if the contact carries Do Not Contact / Dead Lead /
+  Remove-From-List tags. A call our rep made is us actively working the lead, so it
+  gets documented. If the contact is DNC/Remove-tagged, do NOT silently skip —
+  instead note the attempt AND add a **TAG REVIEW** flag so Marie can reconcile
+  whether the tag is stale (she may be actively working it) or the dialer list needs
+  scrubbing. Noting + flagging beats hiding it. (This is how Maureen Thatcher got
+  wrongly skipped once — don't repeat it.) The only outbound calls that skip are
+  ones made by ANOTHER agent (146286, etc.).
 - Text-only touches: only note if the outbound side was sent by / on behalf of
   Thea, Cherry, or Juan; otherwise skip.
 - This gate is in ADDITION to the existing teammate-dedupe rule (still skip a call
