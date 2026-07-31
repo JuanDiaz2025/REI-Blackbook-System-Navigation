@@ -1,35 +1,37 @@
-# Call & Inquiry Handling SOP
+# Call & Inquiry Handling SOP (REI BlackBook)
 
-Purpose: cut the mental overhead of high call volume by making every call follow the same shape — so you're never deciding "what do I ask / what do I log" in the moment, just executing.
+Purpose: cut the mental overhead of high call volume by making every call follow the same shape — so you're never deciding "what do I ask / what do I log" in the moment, just executing. References the actual contact-record layout: `About / Chat / Activities / Notes / Tasks / Files / Workflows / Properties` tabs, the Primary Details panel (phone, email, Source, Contact Type, Tag(s)), and the temperature badge (Cold/Warm/Hot) at the top.
 
 ## 1. Before you pick up / dial
 
-- Pull up the lead record first. Never take a call cold.
-- Read the last note's **SITUATION** and **NEXT STEP** (see `lead-note-template.md`) out loud to yourself. That's your starting context — you should not need to re-read the whole history.
-- Have the note template open/ready (snippet, sticky note, or second window) so logging after the call takes seconds, not minutes.
+- Open the contact record first. Never take a call cold.
+- Check the **Notes** tab: read the latest entry's `++ Situation` and `++ Next Step` out loud to yourself. That's your starting context — you shouldn't need to scroll the whole feed.
+- Check the **Chat** tab if the last touch was a text — the SMS thread may have context the Notes summary compressed out.
+- Have the note template (`lead-note-template.md`) ready to paste so logging after the call takes seconds.
 
 ## 2. During the call — the 5 things to get every time
 
-Regardless of where the lead is in the pipeline, try to leave every call knowing:
+Regardless of pipeline stage, try to leave every call knowing:
 
 1. **Motivation** — why are they selling / what's driving this?
 2. **Timeline** — when do they need/want this resolved?
 3. **Condition** — property condition, repairs, anything that affects value.
 4. **Price expectation** — what number (or range) is in their head?
-5. **Decision maker / blockers** — is anyone else involved in the decision? Anything stopping them from moving forward?
+5. **Decision maker / blockers** — anyone else involved in the decision? Anything stopping them from moving forward?
 
-You won't always get all 5 in one call — that's fine. Whatever you're missing becomes part of your NEXT STEP for the following touch.
+Won't always get all 5 in one call — whatever's missing becomes your `++ Next Step` for the following touch.
 
-## 3. Right after the call (before you take the next one)
+## 3. Right after the call (before the next one) — the lead info that must get touched
 
-1. Log the note using the template — SITUATION + NEXT STEP minimum, don't skip this even if the call was short/unremarkable.
-2. Update the lead's **status/stage** if it changed.
-3. Set/update the follow-up task or reminder to match the NEXT STEP date — the system should be the thing that remembers to call back, not your memory.
-4. If an objection came up, tag/flag it so patterns across leads are visible later.
+1. **Notes tab** — log the note using the template. `++ Situation` + `++ Next Step` minimum, even on a short/no-answer call.
+2. **Temperature badge** (Cold/Warm/Hot) — update if it changed. This is what makes a pipeline scan useful without opening every record.
+3. **Contact Type / Tag(s)** (Primary Details panel) — update if the call revealed something that changes classification (e.g., adds a tag for a specific objection or motivation type).
+4. **Tasks tab** — set/update a task matching the `++ Next Step` date. The system should remember to call back, not you.
+5. **Properties tab / Associated Deals** — if the call moved a specific property/deal forward, update it there rather than only describing it in the note.
 
-## 4. Call disposition quick codes
+## 4. Contact Result quick codes
 
-Use these as the "Outcome" in your note header — keeps entries scannable at a glance:
+Use these as the `++ Contact Result` value — keeps the Notes feed scannable at a glance:
 
 | Code | Meaning |
 |---|---|
@@ -43,5 +45,5 @@ Use these as the "Outcome" in your note header — keeps entries scannable at a 
 
 ## 5. End-of-day sweep (2 minutes, worth it)
 
-- Scan today's touched leads — confirm every one has a note with a dated NEXT STEP.
-- Any lead touched today with no next step is a lead that will silently go cold. Fix it now, not tomorrow.
+- Scan today's touched contacts — confirm every one has a Notes entry with a dated `++ Next Step`, and a matching Task.
+- Any lead touched today with no next step/task is a lead that will silently go cold. Fix it now, not tomorrow.
