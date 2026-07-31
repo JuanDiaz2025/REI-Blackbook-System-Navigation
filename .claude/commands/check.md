@@ -30,6 +30,14 @@ id 143173), CHERRY (115834), or JUAN (112447).**
 - Inbound (created_by is null): determine the rep from the transcript — our rep
   introduces themselves ("this is Thea/Cherry/Juan…"). If it's Thea/Cherry/Juan,
   note it; if it's Genesis or another agent, skip and don't touch.
+- **NEVER skip an inbound call from one of OUR existing leads.** If the seller calls
+  IN and the contact already has our history — prior CALL SUMMARY notes, a comp/
+  offer note, an Appointment tag, or any sign this is a lead we've been working —
+  ALWAYS process it, no matter who dialed them recently. The gate must NOT drop an
+  inbound seller just because another agent (e.g. 146286) auto-dialed that number
+  right before. The "skip another agent's lead" rule is for OUTBOUND calls that
+  agent made — not for a seller choosing to call our line. (This is exactly how
+  Tyanna Moore got wrongly skipped once — don't repeat it.)
 - Text-only touches: only note if the outbound side was sent by / on behalf of
   Thea, Cherry, or Juan; otherwise skip.
 - This gate is in ADDITION to the existing teammate-dedupe rule (still skip a call
@@ -93,6 +101,13 @@ already exists, skip it and say so.
 Summarize: each lead + outcome (hot/warm/cold, answered vs voicemail/no answer),
 any notes skipped as duplicates, and every task created (assignee, priority, due
 date) or awaiting approval.
+
+**Always end with a SKIPPED list.** For every touch you did NOT note this run, show
+the lead name + the reason (agent-146286 outbound, wrong number, telemarketer/vendor,
+hang-up/no content, duplicate note, etc.). This makes dropped leads visible so Marie
+can eyeball them instead of having to remember names — if any skip looks wrong, she
+says so and I pull it. Never silently drop a touch; if it wasn't noted, it appears
+on the SKIPPED list with a reason.
 
 ## Teammate IDs (REI)
 Cherry Hombre = 115834 · Theavil Marie (me) = 143173 · Kyle Flores = 146123 ·
