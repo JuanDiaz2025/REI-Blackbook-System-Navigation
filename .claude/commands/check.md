@@ -98,8 +98,9 @@ approval unless noted). Each has a detailed spec in its own file:
    Marie "Remind Miss to circle back on [Lead]" (Medium, today).
 3. **voicemail-followup** — lead unresponsive (voicemail OR no answer, no live
    conversation) → Marie "Follow up on [Lead] (unresponsive)" (Medium, next day).
-4. **flag-kyle-booked-appointment** — a property visit is booked → Kyle "Booked
-   appointment on [visit date]" (High, booking day) with the prep checklist.
+4. **flag-kyle-booked-appointment** — a property visit is booked OR tentatively set →
+   **Jonathan Rosanes** (134735) "Booked appointment | [phone] | [date time]" (High,
+   booking day) with the prep checklist. (Reassigned from Kyle to Jonathan.)
 5. **Marie confirmation reminders** — a property visit is booked → prepare Marie's
    day-before + day-of confirmation-call tasks (High). [Currently: preview and wait
    for Marie's approval before saving, unless she has switched this to auto.]
