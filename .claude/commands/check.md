@@ -112,12 +112,19 @@ Summarize: each lead + outcome (hot/warm/cold, answered vs voicemail/no answer),
 any notes skipped as duplicates, and every task created (assignee, priority, due
 date) or awaiting approval.
 
-**Always end with a SKIPPED list.** For every touch you did NOT note this run, show
-the lead name + the reason (agent-146286 outbound, wrong number, telemarketer/vendor,
-hang-up/no content, duplicate note, etc.). This makes dropped leads visible so Marie
-can eyeball them instead of having to remember names — if any skip looks wrong, she
-says so and I pull it. Never silently drop a touch; if it wasn't noted, it appears
-on the SKIPPED list with a reason.
+**LOG EVERY TOUCH OUR REPS HANDLED — no exceptions (KPI requirement).** Marie tracks
+Call Log Accuracy and CRM Accuracy KPIs off these notes. If Thea/Cherry/Juan MADE or
+ANSWERED the call, it MUST get a note — every time — including no-answers, voicemails,
+DNC/Dead-Lead-tagged contacts, wrong numbers, and telemarketers our rep picked up. For
+a non-seller (wrong number, vendor, telemarketer) a brief one-line note is fine
+("inbound wrong number, ~20s, not a lead") — but it still gets logged so the call log
+stays complete and her KPI counts are accurate. Do NOT drop any call our reps touched.
+
+**The SKIPPED list is now ONLY for calls our reps did NOT handle:** another agent's
+(e.g. 146286) own outbound calls, and system artifacts with no contact record (null-
+contact failed connects). Everything else our side touched gets a note. End the run
+with this short SKIPPED list (name + reason) so it's auditable — but it should never
+contain a call Thea/Cherry/Juan made or answered.
 
 ## Teammate IDs (REI)
 Cherry Hombre = 115834 · Theavil Marie (me) = 143173 · Kyle Flores = 146123 ·
