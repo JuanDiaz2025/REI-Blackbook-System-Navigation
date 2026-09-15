@@ -24,8 +24,8 @@ CALL SUMMARY - <Month DD, YYYY>
 
 ```
 TEXT NOTE – [Month DD, YYYY]
-Call: [outcome, 1-3 words].
-Texts: [Outbound/Inbound] – [summary of message sent/received].
-[Action instruction in plain language]
+++Call: [outcome, 1-3 words].
+++Texts: [Outbound/Inbound, you do not have to specify the sequence of outbound or inbound text message, just identify the most recent text touch and identify if it is an outbound/inbound] – [summary of message sent/received].
+++Next Step: [Action instruction in plain language]
 ++ Lead Temperature: [HOT/WARM/COLD/DEAD] — [short repeat of action].
 ```
